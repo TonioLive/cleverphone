@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `orders_access_token_hash_unique` ON `orders` (`access_token_hash`);

@@ -1,0 +1,2490 @@
+{
+  "Xiaomi|Redmi 15C": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-15c/54.webp",
+        "alt": "Redmi 15C — Azul. Trasera en mano.",
+        "view": "Trasera en mano",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/3cd65807c5ca8b09fbab437a2f6d7282.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-15c/4.webp",
+        "alt": "Redmi 15C — Azul. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/b0b167d0920d68b9fd2c7cbc94e2d431.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-15c/23.webp",
+        "alt": "Redmi 15C — Azul. Perfil lateral.",
+        "view": "Perfil lateral",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/2740b7579b8a00cba348669e2a3fcd92.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-15c/5.webp",
+        "alt": "Redmi 15C — Azul. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/00684b52c66a1b27e2407ef55c2ee2e4.png"
+      }
+    ],
+    "colors": [
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#6c8cca",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15c/54.webp",
+            "alt": "Redmi 15C — Azul. Trasera en mano.",
+            "view": "Trasera en mano",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/3cd65807c5ca8b09fbab437a2f6d7282.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15c/4.webp",
+            "alt": "Redmi 15C — Azul. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/b0b167d0920d68b9fd2c7cbc94e2d431.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15c/23.webp",
+            "alt": "Redmi 15C — Azul. Perfil lateral.",
+            "view": "Perfil lateral",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/2740b7579b8a00cba348669e2a3fcd92.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15c/5.webp",
+            "alt": "Redmi 15C — Azul. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/00684b52c66a1b27e2407ef55c2ee2e4.png"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#343436",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15c/14.webp",
+            "alt": "Redmi 15C — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/swiper4.webp"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15c/20.webp",
+            "alt": "Redmi 15C — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/73a0c35baa8d18fe4ce4d01c5cab8acc.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15c/21.webp",
+            "alt": "Redmi 15C — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/f61a36cd0af94a93b2f70a1d47def440.png"
+          }
+        ]
+      },
+      {
+        "key": "naranja",
+        "label": "Naranja",
+        "hex": "#e8aa93",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15c/12.webp",
+            "alt": "Redmi 15C — Naranja. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Naranja",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/swiper2.webp"
+          }
+        ]
+      },
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#adcecb",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15c/13.webp",
+            "alt": "Redmi 15C — Verde. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c/pc/swiper3.webp"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 12 4G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-12/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-12/0.webp",
+        "alt": "Redmi Note 12 4G — Azul. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12/pc/8975e73b16af8f61789af0bc9d2928e7.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-12/2.webp",
+        "alt": "Redmi Note 12 4G — Azul. Pantalla y conexiones.",
+        "view": "Pantalla y conexiones",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12/pc/7f23bf9dfa3d546262ea5a1d2546636b.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-12/25.webp",
+        "alt": "Redmi Note 12 4G — Azul. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12/pc/7d8ab8931e9ba54d23a2fb5f9e886d4d.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-12/34.webp",
+        "alt": "Redmi Note 12 4G — Azul. Trasera en perspectiva.",
+        "view": "Trasera en perspectiva",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12/pc/2ec6e976238df886fb0adef26623a073.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#accfdf",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-12/0.webp",
+            "alt": "Redmi Note 12 4G — Azul. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12/pc/8975e73b16af8f61789af0bc9d2928e7.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-12/2.webp",
+            "alt": "Redmi Note 12 4G — Azul. Pantalla y conexiones.",
+            "view": "Pantalla y conexiones",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12/pc/7f23bf9dfa3d546262ea5a1d2546636b.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-12/25.webp",
+            "alt": "Redmi Note 12 4G — Azul. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12/pc/7d8ab8931e9ba54d23a2fb5f9e886d4d.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-12/34.webp",
+            "alt": "Redmi Note 12 4G — Azul. Trasera en perspectiva.",
+            "view": "Trasera en perspectiva",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12/pc/2ec6e976238df886fb0adef26623a073.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 12 Pro 4G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-12-pro/0.webp",
+        "alt": "Redmi Note 12 Pro 4G — Azul. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/fb882364e76d049fe4876a68fc81b67f.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-12-pro/6.webp",
+        "alt": "Redmi Note 12 Pro 4G — Azul. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/e549d80d10f55a4cfcff61fead40e750.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-12-pro/17.webp",
+        "alt": "Redmi Note 12 Pro 4G — Azul. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/4109b81a765f003f1a29548d4d51b107.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-12-pro/27.webp",
+        "alt": "Redmi Note 12 Pro 4G — Azul. Trasera en perspectiva.",
+        "view": "Trasera en perspectiva",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/img02-4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#94cada",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-pro/0.webp",
+            "alt": "Redmi Note 12 Pro 4G — Azul. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/fb882364e76d049fe4876a68fc81b67f.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-pro/6.webp",
+            "alt": "Redmi Note 12 Pro 4G — Azul. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/e549d80d10f55a4cfcff61fead40e750.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-pro/17.webp",
+            "alt": "Redmi Note 12 Pro 4G — Azul. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/4109b81a765f003f1a29548d4d51b107.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-pro/27.webp",
+            "alt": "Redmi Note 12 Pro 4G — Azul. Trasera en perspectiva.",
+            "view": "Trasera en perspectiva",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/img02-4.jpg"
+          }
+        ]
+      },
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#d2e4ce",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-pro/28.webp",
+            "alt": "Redmi Note 12 Pro 4G — Verde. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/img02-1.jpg"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#404144",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-pro/29.webp",
+            "alt": "Redmi Note 12 Pro 4G — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/img02-2.jpg"
+          }
+        ]
+      },
+      {
+        "key": "blanco",
+        "label": "Blanco",
+        "hex": "#eceded",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-pro/30.webp",
+            "alt": "Redmi Note 12 Pro 4G — Blanco. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Blanco",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-pro/pc/img02-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 12 5G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-5g/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-12-5g/0.webp",
+        "alt": "Redmi Note 12 5G — Verde. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-5g/pc/91afb4586f887b77af288ad35679c5ad.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-12-5g/1.webp",
+        "alt": "Redmi Note 12 5G — Verde. Pantalla en detalle.",
+        "view": "Pantalla en detalle",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-5g/pc/beb55fa08d5c610af49be7bb2e3a27de.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-12-5g/9.webp",
+        "alt": "Redmi Note 12 5G — Verde. Vista frontal.",
+        "view": "Vista frontal",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-5g/pc/10fa53620e836b834cafcbda7aae8e63.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-12-5g/38.webp",
+        "alt": "Redmi Note 12 5G — Verde. Diseño frontal y posterior.",
+        "view": "Diseño frontal y posterior",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-5g/pc/f0bd6051fcbc9bee964f0f6306b8ee7b.png"
+      }
+    ],
+    "colors": [
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#96d5be",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-5g/0.webp",
+            "alt": "Redmi Note 12 5G — Verde. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-5g/pc/91afb4586f887b77af288ad35679c5ad.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-5g/1.webp",
+            "alt": "Redmi Note 12 5G — Verde. Pantalla en detalle.",
+            "view": "Pantalla en detalle",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-5g/pc/beb55fa08d5c610af49be7bb2e3a27de.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-5g/9.webp",
+            "alt": "Redmi Note 12 5G — Verde. Vista frontal.",
+            "view": "Vista frontal",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-5g/pc/10fa53620e836b834cafcbda7aae8e63.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-12-5g/38.webp",
+            "alt": "Redmi Note 12 5G — Verde. Diseño frontal y posterior.",
+            "view": "Diseño frontal y posterior",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-12-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-12-5g/pc/f0bd6051fcbc9bee964f0f6306b8ee7b.png"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 14": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-14/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-14/spec-0.webp",
+        "alt": "Redmi Note 14 — Varios acabados. Diseño frontal y trasero.",
+        "view": "Diseño frontal y trasero",
+        "colorLabel": "Varios acabados",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-14/specs/",
+        "sourceAssetUrl": "https://i05.appmifile.com/707_item_es/10/01/2025/dec36ebac27f4e1481e23106eb099aed.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-14/spec-1.webp",
+        "alt": "Redmi Note 14 — Verde. Trasera en perspectiva.",
+        "view": "Trasera en perspectiva",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-14/specs/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-14/PC/742a82069b1ca3c13c20689f418d4b4c.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-14/10.webp",
+        "alt": "Redmi Note 14 — Negro. Diseño en mano.",
+        "view": "Diseño en mano",
+        "colorLabel": "Negro",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-14/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-14/pc/img/stylish1.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-14/11.webp",
+        "alt": "Redmi Note 14 — Azul. Diseño en uso.",
+        "view": "Diseño en uso",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-14/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-14/pc/img/stylish2.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#b4c98b",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-14/spec-1.webp",
+            "alt": "Redmi Note 14 — Verde. Trasera en perspectiva.",
+            "view": "Trasera en perspectiva",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-14/specs/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-14/PC/742a82069b1ca3c13c20689f418d4b4c.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-14/12.webp",
+            "alt": "Redmi Note 14 — Verde. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-14/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-14/pc/img/stylish3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#343839",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-14/10.webp",
+            "alt": "Redmi Note 14 — Negro. Diseño en mano.",
+            "view": "Diseño en mano",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-14/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-14/pc/img/stylish1.jpg"
+          }
+        ]
+      },
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#8bc1cf",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-14/11.webp",
+            "alt": "Redmi Note 14 — Azul. Diseño en uso.",
+            "view": "Diseño en uso",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-14/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-14/pc/img/stylish2.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 15": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-15/spec-0.webp",
+        "alt": "Redmi Note 15 — Azul. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/specs/",
+        "sourceAssetUrl": "https://i05.appmifile.com/850_item_es/05/01/2026/77b3e80f9280ce0ba2ed783cf3456ec4.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-15/7.webp",
+        "alt": "Redmi Note 15 — Azul. Trasera en mano.",
+        "view": "Trasera en mano",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15/pc/3048d801f59c53f90beb5b2153983353.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-15/5.webp",
+        "alt": "Redmi Note 15 — Azul. Detalle de pantalla.",
+        "view": "Detalle de pantalla",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15/pc/6d98c23e6aa0d8592a66ee27b66f0ac9.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-15/30.webp",
+        "alt": "Redmi Note 15 — Azul. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15/pc/2034726210a4b302f4beb46c026264d4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#b7d0dc",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15/spec-0.webp",
+            "alt": "Redmi Note 15 — Azul. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/specs/",
+            "sourceAssetUrl": "https://i05.appmifile.com/850_item_es/05/01/2026/77b3e80f9280ce0ba2ed783cf3456ec4.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-15/7.webp",
+            "alt": "Redmi Note 15 — Azul. Trasera en mano.",
+            "view": "Trasera en mano",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15/pc/3048d801f59c53f90beb5b2153983353.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-15/5.webp",
+            "alt": "Redmi Note 15 — Azul. Detalle de pantalla.",
+            "view": "Detalle de pantalla",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15/pc/6d98c23e6aa0d8592a66ee27b66f0ac9.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-15/30.webp",
+            "alt": "Redmi Note 15 — Azul. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15/pc/2034726210a4b302f4beb46c026264d4.jpg"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#34373a",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15/13.webp",
+            "alt": "Redmi Note 15 — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15/pc/scroll_slider4.jpg"
+          }
+        ]
+      },
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#c6d6c2",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15/75.webp",
+            "alt": "Redmi Note 15 — Verde. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15/pc/scroll_slider3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "purpura",
+        "label": "Púrpura",
+        "hex": "#c6c2da",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15/76.webp",
+            "alt": "Redmi Note 15 — Púrpura. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15/pc/scroll_slider2.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 15 Pro Plus 5G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/spec-0.webp",
+        "alt": "Redmi Note 15 Pro Plus 5G — Marrón. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Marrón",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/specs/",
+        "sourceAssetUrl": "https://i05.appmifile.com/759_item_es/26/12/2025/ae87cb87e62051e3d7dbee1e46866cab.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/5.webp",
+        "alt": "Redmi Note 15 Pro Plus 5G — Marrón. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Marrón",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-plus-5g/pc/43d1b773a9bbaa00058560236dc018a4.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/8.webp",
+        "alt": "Redmi Note 15 Pro Plus 5G — Marrón. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Marrón",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-plus-5g/pc/09d83da4bd94c010d6a142163c110c68.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/52.webp",
+        "alt": "Redmi Note 15 Pro Plus 5G — Marrón. Trasera en mano.",
+        "view": "Trasera en mano",
+        "colorLabel": "Marrón",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-plus-5g/pc/ec0cadf4e11ab6b1f3956aa1a489fcd5.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "marron",
+        "label": "Marrón",
+        "hex": "#b9a083",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/spec-0.webp",
+            "alt": "Redmi Note 15 Pro Plus 5G — Marrón. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Marrón",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/specs/",
+            "sourceAssetUrl": "https://i05.appmifile.com/759_item_es/26/12/2025/ae87cb87e62051e3d7dbee1e46866cab.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/5.webp",
+            "alt": "Redmi Note 15 Pro Plus 5G — Marrón. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Marrón",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-plus-5g/pc/43d1b773a9bbaa00058560236dc018a4.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/8.webp",
+            "alt": "Redmi Note 15 Pro Plus 5G — Marrón. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Marrón",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-plus-5g/pc/09d83da4bd94c010d6a142163c110c68.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/52.webp",
+            "alt": "Redmi Note 15 Pro Plus 5G — Marrón. Trasera en mano.",
+            "view": "Trasera en mano",
+            "colorLabel": "Marrón",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-plus-5g/pc/ec0cadf4e11ab6b1f3956aa1a489fcd5.jpg"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#383841",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/101.webp",
+            "alt": "Redmi Note 15 Pro Plus 5G — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-plus-5g/pc/d5be57d66b234b67c6e1bd9acfde604f.jpg"
+          }
+        ]
+      },
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#b8d5df",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-plus-5g/102.webp",
+            "alt": "Redmi Note 15 Pro Plus 5G — Azul. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-plus-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-plus-5g/pc/a9e2110054530e775142fc1860e353c0.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi A5": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-a5/18.webp",
+        "alt": "Redmi A5 — Azul. Diseño frontal, trasero y lateral.",
+        "view": "Diseño frontal, trasero y lateral",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/pc_35bd2_beautify.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-a5/17.webp",
+        "alt": "Redmi A5 — Azul. Trasera en perspectiva.",
+        "view": "Trasera en perspectiva",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/pc10_design_746f57c3ad.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-a5/7.webp",
+        "alt": "Redmi A5 — Azul. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/pc3_camera_4b0684a.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-a5/22.webp",
+        "alt": "Redmi A5 — Azul. Diseño en mano.",
+        "view": "Diseño en mano",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/d85f8fda1bb80caf3adb067067b2d53e.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#c0dee5",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a5/18.webp",
+            "alt": "Redmi A5 — Azul. Diseño frontal, trasero y lateral.",
+            "view": "Diseño frontal, trasero y lateral",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/pc_35bd2_beautify.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-a5/17.webp",
+            "alt": "Redmi A5 — Azul. Trasera en perspectiva.",
+            "view": "Trasera en perspectiva",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/pc10_design_746f57c3ad.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-a5/7.webp",
+            "alt": "Redmi A5 — Azul. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/pc3_camera_4b0684a.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-a5/22.webp",
+            "alt": "Redmi A5 — Azul. Diseño en mano.",
+            "view": "Diseño en mano",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/d85f8fda1bb80caf3adb067067b2d53e.jpg"
+          }
+        ]
+      },
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#d3e1c4",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a5/19.webp",
+            "alt": "Redmi A5 — Verde. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/8180fcfd057c0465690fe0feb9a0a473.jpg"
+          }
+        ]
+      },
+      {
+        "key": "dorado",
+        "label": "Dorado",
+        "hex": "#d5d0b9",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a5/20.webp",
+            "alt": "Redmi A5 — Dorado. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Dorado",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/pc_gpld_cee.jpg"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#292b2c",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a5/21.webp",
+            "alt": "Redmi A5 — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a5/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a5/pc/pc_black_a14.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi A7": {
+    "sourceUrl": "https://www.mi.com/global/product/redmi-a7/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-a7/spec-1.webp",
+        "alt": "Redmi A7 — Púrpura. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/global/product/redmi-a7/specs/",
+        "sourceAssetUrl": "https://i02.appmifile.com/869_operatorx_operatorx_opx/16/04/2026/1ce226a75b287e80dd636084da2399b5.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-a7/21.webp",
+        "alt": "Redmi A7 — Púrpura. Diseño en perspectiva.",
+        "view": "Diseño en perspectiva",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/global/product/redmi-a7/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7/pc/screen08-slide-01.webp"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-a7/6.webp",
+        "alt": "Redmi A7 — Púrpura. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/global/product/redmi-a7/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7/pc/screen02-card05-camera.webp"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-a7/34.webp",
+        "alt": "Redmi A7 — Púrpura. Puertos y perfil inferior.",
+        "view": "Puertos y perfil inferior",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/global/product/redmi-a7/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7/pc/screen17-bg.webp"
+      }
+    ],
+    "colors": [
+      {
+        "key": "purpura",
+        "label": "Púrpura",
+        "hex": "#d7cce5",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a7/spec-1.webp",
+            "alt": "Redmi A7 — Púrpura. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/global/product/redmi-a7/specs/",
+            "sourceAssetUrl": "https://i02.appmifile.com/869_operatorx_operatorx_opx/16/04/2026/1ce226a75b287e80dd636084da2399b5.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-a7/21.webp",
+            "alt": "Redmi A7 — Púrpura. Diseño en perspectiva.",
+            "view": "Diseño en perspectiva",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/global/product/redmi-a7/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7/pc/screen08-slide-01.webp"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-a7/6.webp",
+            "alt": "Redmi A7 — Púrpura. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/global/product/redmi-a7/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7/pc/screen02-card05-camera.webp"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-a7/34.webp",
+            "alt": "Redmi A7 — Púrpura. Puertos y perfil inferior.",
+            "view": "Puertos y perfil inferior",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/global/product/redmi-a7/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7/pc/screen17-bg.webp"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#353538",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a7/22.webp",
+            "alt": "Redmi A7 — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/global/product/redmi-a7/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7/pc/screen08-slide-02.webp"
+          }
+        ]
+      },
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#bacfdf",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a7/23.webp",
+            "alt": "Redmi A7 — Azul. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/global/product/redmi-a7/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7/pc/pc9_performance_bg.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi A7 Pro": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-a7-pro/45.webp",
+        "alt": "Redmi A7 Pro — Azul. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/cnsiuihuu2qghe872t6dwfgcgyugdfyug78df.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-a7-pro/7.webp",
+        "alt": "Redmi A7 Pro — Azul. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/08cb99ea6f59bbd80e9a5339057ab972.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-a7-pro/48.webp",
+        "alt": "Redmi A7 Pro — Azul. Conexiones superiores.",
+        "view": "Conexiones superiores",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/9f9f2a21b6d46e4af0e0903b3806f1f2.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-a7-pro/30.webp",
+        "alt": "Redmi A7 Pro — Azul. Diseño en mano.",
+        "view": "Diseño en mano",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/84438a304b75c1132b6682eaa1015ce6.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#b2cad2",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a7-pro/45.webp",
+            "alt": "Redmi A7 Pro — Azul. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/cnsiuihuu2qghe872t6dwfgcgyugdfyug78df.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-a7-pro/7.webp",
+            "alt": "Redmi A7 Pro — Azul. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/08cb99ea6f59bbd80e9a5339057ab972.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-a7-pro/48.webp",
+            "alt": "Redmi A7 Pro — Azul. Conexiones superiores.",
+            "view": "Conexiones superiores",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/9f9f2a21b6d46e4af0e0903b3806f1f2.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-a7-pro/30.webp",
+            "alt": "Redmi A7 Pro — Azul. Diseño en mano.",
+            "view": "Diseño en mano",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/84438a304b75c1132b6682eaa1015ce6.jpg"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#343438",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a7-pro/32.webp",
+            "alt": "Redmi A7 Pro — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/blackcolorphone.png"
+          }
+        ]
+      },
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#dae6bb",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-a7-pro/34.webp",
+            "alt": "Redmi A7 Pro — Verde. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-a7-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-a7-pro/pc/greencolorphone.png"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi 15 5G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-15-5g/52.webp",
+        "alt": "Redmi 15 5G — Verde. Diseño frontal, trasero y conexiones.",
+        "view": "Diseño frontal, trasero y conexiones",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/e4d22a6d8b51e28ba635c2f3447a83a5.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-15-5g/6.webp",
+        "alt": "Redmi 15 5G — Verde. Trasera en mano.",
+        "view": "Trasera en mano",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/a0c0d33d49422805df4f5aae79136bd0.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-15-5g/8.webp",
+        "alt": "Redmi 15 5G — Verde. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/aea9437fac0543bd0a8f4bf7e8ff81c3.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-15-5g/56.webp",
+        "alt": "Redmi 15 5G — Verde. Trasera en perspectiva.",
+        "view": "Trasera en perspectiva",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/aeb0fcfb674003ed849b1447f95d5d99.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#b2d5b8",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15-5g/52.webp",
+            "alt": "Redmi 15 5G — Verde. Diseño frontal, trasero y conexiones.",
+            "view": "Diseño frontal, trasero y conexiones",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/e4d22a6d8b51e28ba635c2f3447a83a5.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15-5g/6.webp",
+            "alt": "Redmi 15 5G — Verde. Trasera en mano.",
+            "view": "Trasera en mano",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/a0c0d33d49422805df4f5aae79136bd0.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15-5g/8.webp",
+            "alt": "Redmi 15 5G — Verde. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/aea9437fac0543bd0a8f4bf7e8ff81c3.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15-5g/56.webp",
+            "alt": "Redmi 15 5G — Verde. Trasera en perspectiva.",
+            "view": "Trasera en perspectiva",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/aeb0fcfb674003ed849b1447f95d5d99.jpg"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#373b3d",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15-5g/51.webp",
+            "alt": "Redmi 15 5G — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/a04d9fe8340c56f75446bf0981d60507.png"
+          }
+        ]
+      },
+      {
+        "key": "titanio",
+        "label": "Titanio",
+        "hex": "#d6cfc2",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15-5g/53.webp",
+            "alt": "Redmi 15 5G — Titanio. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Titanio",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15-5g/g-pc/black-notactive.png"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi 15C 5G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-15c-5g/51.webp",
+        "alt": "Redmi 15C 5G — Púrpura. Trasera en mano.",
+        "view": "Trasera en mano",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/113ebc3ebf077887adea1a83dee47f30.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-15c-5g/8.webp",
+        "alt": "Redmi 15C 5G — Púrpura. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/d4b1295cc464b16e77f0101594b40999.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-15c-5g/24.webp",
+        "alt": "Redmi 15C 5G — Púrpura. Perfil lateral.",
+        "view": "Perfil lateral",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/b1c8eed4255d3e525c14cd5fa9e8dc8b.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-15c-5g/5.webp",
+        "alt": "Redmi 15C 5G — Púrpura. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/9f42afa4a4eab23a1aee136970ee1819.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "purpura",
+        "label": "Púrpura",
+        "hex": "#d2c1e3",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15c-5g/51.webp",
+            "alt": "Redmi 15C 5G — Púrpura. Trasera en mano.",
+            "view": "Trasera en mano",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/113ebc3ebf077887adea1a83dee47f30.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15c-5g/8.webp",
+            "alt": "Redmi 15C 5G — Púrpura. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/d4b1295cc464b16e77f0101594b40999.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15c-5g/24.webp",
+            "alt": "Redmi 15C 5G — Púrpura. Perfil lateral.",
+            "view": "Perfil lateral",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/b1c8eed4255d3e525c14cd5fa9e8dc8b.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-15c-5g/5.webp",
+            "alt": "Redmi 15C 5G — Púrpura. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/9f42afa4a4eab23a1aee136970ee1819.jpg"
+          }
+        ]
+      },
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#accccb",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15c-5g/19.webp",
+            "alt": "Redmi 15C 5G — Verde. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/xiaomi3bjt_pc2.webp"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#393c3d",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-15c-5g/20.webp",
+            "alt": "Redmi 15C 5G — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-15c-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-15c-5g/pc/xiaomi3bjt_pc3.webp"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi 17": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-17/13.webp",
+        "alt": "Redmi 17 — Azul. Diseño frontal, trasero y conexiones.",
+        "view": "Diseño frontal, trasero y conexiones",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/slider_1_png_.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-17/9.webp",
+        "alt": "Redmi 17 — Azul. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/icon-screen02-4.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-17/21.webp",
+        "alt": "Redmi 17 — Azul. Diseño en mano.",
+        "view": "Diseño en mano",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/icon-screen03-4.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-17/49.webp",
+        "alt": "Redmi 17 — Azul. Diseño de pantalla y altavoz.",
+        "view": "Diseño de pantalla y altavoz",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/PC_screen06-visual01-q15a-20260803.png"
+      }
+    ],
+    "colors": [
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#2e4778",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-17/13.webp",
+            "alt": "Redmi 17 — Azul. Diseño frontal, trasero y conexiones.",
+            "view": "Diseño frontal, trasero y conexiones",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/slider_1_png_.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-17/9.webp",
+            "alt": "Redmi 17 — Azul. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/icon-screen02-4.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-17/21.webp",
+            "alt": "Redmi 17 — Azul. Diseño en mano.",
+            "view": "Diseño en mano",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/icon-screen03-4.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-17/49.webp",
+            "alt": "Redmi 17 — Azul. Diseño de pantalla y altavoz.",
+            "view": "Diseño de pantalla y altavoz",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/PC_screen06-visual01-q15a-20260803.png"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#353839",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-17/14.webp",
+            "alt": "Redmi 17 — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/slider_2_png_.png"
+          }
+        ]
+      },
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#737b56",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-17/15.webp",
+            "alt": "Redmi 17 — Verde. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/slider_3_png_.png"
+          }
+        ]
+      },
+      {
+        "key": "purpura",
+        "label": "Púrpura",
+        "hex": "#d2c8df",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-17/16.webp",
+            "alt": "Redmi 17 — Púrpura. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17/pc/slider_4_png_.png"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi 17 5G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-17-5g/14.webp",
+        "alt": "Redmi 17 5G — Naranja. Diseño frontal, trasero y conexiones.",
+        "view": "Diseño frontal, trasero y conexiones",
+        "colorLabel": "Naranja",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/slider_1_png_.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-17-5g/46.webp",
+        "alt": "Redmi 17 5G — Naranja. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Naranja",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/icon-screen06-6-9.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-17-5g/51.webp",
+        "alt": "Redmi 17 5G — Naranja. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Naranja",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/icon-screen06-v2.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-17-5g/52.webp",
+        "alt": "Redmi 17 5G — Naranja. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Naranja",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/icon-screen07-50mp-ai-q15-20260731.png"
+      }
+    ],
+    "colors": [
+      {
+        "key": "naranja",
+        "label": "Naranja",
+        "hex": "#df8a70",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-17-5g/14.webp",
+            "alt": "Redmi 17 5G — Naranja. Diseño frontal, trasero y conexiones.",
+            "view": "Diseño frontal, trasero y conexiones",
+            "colorLabel": "Naranja",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/slider_1_png_.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-17-5g/46.webp",
+            "alt": "Redmi 17 5G — Naranja. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Naranja",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/icon-screen06-6-9.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-17-5g/51.webp",
+            "alt": "Redmi 17 5G — Naranja. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Naranja",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/icon-screen06-v2.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-17-5g/52.webp",
+            "alt": "Redmi 17 5G — Naranja. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Naranja",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/icon-screen07-50mp-ai-q15-20260731.png"
+          }
+        ]
+      },
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#35558d",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-17-5g/15.webp",
+            "alt": "Redmi 17 5G — Azul. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/slider_2_png_.png"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#33383a",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-17-5g/16.webp",
+            "alt": "Redmi 17 5G — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-17-5g/pc/slider_3_png_.png"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 15 Pro 5G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-15-pro-5g/spec-0.webp",
+        "alt": "Redmi Note 15 Pro 5G — Titanio. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Titanio",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/specs/",
+        "sourceAssetUrl": "https://i05.appmifile.com/102_item_es/05/01/2026/372a14d41feed114586061018f3254a5.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-15-pro-5g/5.webp",
+        "alt": "Redmi Note 15 Pro 5G — Titanio. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Titanio",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-5g/pc/5b20d58e4dd450bb7201917d123ecc10.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-15-pro-5g/8.webp",
+        "alt": "Redmi Note 15 Pro 5G — Titanio. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Titanio",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-5g/pc/54717f4ffdde413985036b7355a173a2.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-15-pro-5g/47.webp",
+        "alt": "Redmi Note 15 Pro 5G — Titanio. Trasera en mano.",
+        "view": "Trasera en mano",
+        "colorLabel": "Titanio",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-5g/pc/81bebc5717c7eab3023d5e51f8a77524.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "titanio",
+        "label": "Titanio",
+        "hex": "#c6bca8",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-5g/spec-0.webp",
+            "alt": "Redmi Note 15 Pro 5G — Titanio. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Titanio",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/specs/",
+            "sourceAssetUrl": "https://i05.appmifile.com/102_item_es/05/01/2026/372a14d41feed114586061018f3254a5.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-5g/5.webp",
+            "alt": "Redmi Note 15 Pro 5G — Titanio. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Titanio",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-5g/pc/5b20d58e4dd450bb7201917d123ecc10.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-5g/8.webp",
+            "alt": "Redmi Note 15 Pro 5G — Titanio. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Titanio",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-5g/pc/54717f4ffdde413985036b7355a173a2.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-5g/47.webp",
+            "alt": "Redmi Note 15 Pro 5G — Titanio. Trasera en mano.",
+            "view": "Trasera en mano",
+            "colorLabel": "Titanio",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-5g/pc/81bebc5717c7eab3023d5e51f8a77524.jpg"
+          }
+        ]
+      },
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#a7d0db",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-5g/89.webp",
+            "alt": "Redmi Note 15 Pro 5G — Azul. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-5g/pc/BluePhone2.jpg"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#36373d",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-5g/88.webp",
+            "alt": "Redmi Note 15 Pro 5G — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-5g/pc/BlackPhone1.jpg"
+          }
+        ]
+      },
+      {
+        "key": "purpura",
+        "label": "Púrpura",
+        "hex": "#aea4cd",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-15-pro-5g/109.webp",
+            "alt": "Redmi Note 15 Pro 5G — Púrpura. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-15-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-15-pro-5g/pc/purpleipnoecolor.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 17": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-17/8.webp",
+        "alt": "Redmi Note 17 — Púrpura. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen04-p19a-front-back.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-17/9.webp",
+        "alt": "Redmi Note 17 — Púrpura. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen04-p19a-purple-deco.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-17/3.webp",
+        "alt": "Redmi Note 17 — Púrpura. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen02-2-v2.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-17/23.webp",
+        "alt": "Redmi Note 17 — Púrpura. Diseño en exterior.",
+        "view": "Diseño en exterior",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen08-22-5w.png"
+      }
+    ],
+    "colors": [
+      {
+        "key": "purpura",
+        "label": "Púrpura",
+        "hex": "#c6b1df",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-17/8.webp",
+            "alt": "Redmi Note 17 — Púrpura. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen04-p19a-front-back.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-17/9.webp",
+            "alt": "Redmi Note 17 — Púrpura. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen04-p19a-purple-deco.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-17/3.webp",
+            "alt": "Redmi Note 17 — Púrpura. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen02-2-v2.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-17/23.webp",
+            "alt": "Redmi Note 17 — Púrpura. Diseño en exterior.",
+            "view": "Diseño en exterior",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen08-22-5w.png"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#34383d",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-17/11.webp",
+            "alt": "Redmi Note 17 — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen05-slider-2.png"
+          }
+        ]
+      },
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#b5d5d8",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-17/12.webp",
+            "alt": "Redmi Note 17 — Azul. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17/pc/icon-screen05-slider-3.png"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 17 5G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-17-5g/8.webp",
+        "alt": "Redmi Note 17 5G — Púrpura. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen04-p19-front-back.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-17-5g/9.webp",
+        "alt": "Redmi Note 17 5G — Púrpura. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen04-p19-purple-deco.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-17-5g/3.webp",
+        "alt": "Redmi Note 17 5G — Púrpura. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen02-2-v2.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-17-5g/23.webp",
+        "alt": "Redmi Note 17 5G — Púrpura. Diseño en exterior.",
+        "view": "Diseño en exterior",
+        "colorLabel": "Púrpura",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen08-22-5w.png"
+      }
+    ],
+    "colors": [
+      {
+        "key": "purpura",
+        "label": "Púrpura",
+        "hex": "#c6b1df",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-5g/8.webp",
+            "alt": "Redmi Note 17 5G — Púrpura. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen04-p19-front-back.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-5g/9.webp",
+            "alt": "Redmi Note 17 5G — Púrpura. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen04-p19-purple-deco.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-5g/3.webp",
+            "alt": "Redmi Note 17 5G — Púrpura. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen02-2-v2.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-5g/23.webp",
+            "alt": "Redmi Note 17 5G — Púrpura. Diseño en exterior.",
+            "view": "Diseño en exterior",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen08-22-5w.png"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#34383d",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-5g/11.webp",
+            "alt": "Redmi Note 17 5G — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen05-slider-2.png"
+          }
+        ]
+      },
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#b5d5d8",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-5g/12.webp",
+            "alt": "Redmi Note 17 5G — Azul. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-5g/pc/icon-screen05-slider-3.png"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|Redmi Note 17 Pro 5G": {
+    "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-redmi-note-17-pro-5g/spec-0.webp",
+        "alt": "Redmi Note 17 Pro 5G — Azul. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/specs/",
+        "sourceAssetUrl": "https://i02.appmifile.com/532_operatorx_operatorx_xm/25/08/2026/f28c373b006a39469f60a5a7a2c530dc.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-17-pro-5g/9.webp",
+        "alt": "Redmi Note 17 Pro 5G — Azul. Trasera en perspectiva.",
+        "view": "Trasera en perspectiva",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-pro-5g/pc/icon-screen04-slider-1.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-17-pro-5g/4.webp",
+        "alt": "Redmi Note 17 Pro 5G — Azul. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-pro-5g/pc/icon-screen02-4.png"
+      },
+      {
+        "src": "/images/products/xiaomi-redmi-note-17-pro-5g/21.webp",
+        "alt": "Redmi Note 17 Pro 5G — Azul. Diseño posterior.",
+        "view": "Diseño posterior",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-pro-5g/pc/bg-screen13.png"
+      }
+    ],
+    "colors": [
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#c5dce7",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-pro-5g/spec-0.webp",
+            "alt": "Redmi Note 17 Pro 5G — Azul. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/specs/",
+            "sourceAssetUrl": "https://i02.appmifile.com/532_operatorx_operatorx_xm/25/08/2026/f28c373b006a39469f60a5a7a2c530dc.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-pro-5g/9.webp",
+            "alt": "Redmi Note 17 Pro 5G — Azul. Trasera en perspectiva.",
+            "view": "Trasera en perspectiva",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-pro-5g/pc/icon-screen04-slider-1.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-pro-5g/4.webp",
+            "alt": "Redmi Note 17 Pro 5G — Azul. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-pro-5g/pc/icon-screen02-4.png"
+          },
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-pro-5g/21.webp",
+            "alt": "Redmi Note 17 Pro 5G — Azul. Diseño posterior.",
+            "view": "Diseño posterior",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-pro-5g/pc/bg-screen13.png"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#373b43",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-pro-5g/7.webp",
+            "alt": "Redmi Note 17 Pro 5G — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-pro-5g/pc/icon-screen04-slider-4.jpg"
+          }
+        ]
+      },
+      {
+        "key": "purpura",
+        "label": "Púrpura",
+        "hex": "#d2b8de",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-redmi-note-17-pro-5g/8.webp",
+            "alt": "Redmi Note 17 Pro 5G — Púrpura. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Púrpura",
+            "sourceUrl": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-pro-5g/pc/icon-screen04-slider-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|POCO C71": {
+    "sourceUrl": "https://www.mi.com/vn/product/poco-c71/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-poco-c71/spec-0.webp",
+        "alt": "POCO C71 — Dorado. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Dorado",
+        "sourceUrl": "https://www.mi.com/vn/product/poco-c71/specs/",
+        "sourceAssetUrl": "https://i02.appmifile.com/833_item_vn/21/04/2025/46fb52ed74d2b9b146b41cb677910a0f.png"
+      },
+      {
+        "src": "/images/products/xiaomi-poco-c71/4.webp",
+        "alt": "POCO C71 — Dorado. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Dorado",
+        "sourceUrl": "https://www.mi.com/vn/product/poco-c71/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c71/pc/d238ca57153f5dfc9c0f0c5450800f77.png"
+      },
+      {
+        "src": "/images/products/xiaomi-poco-c71/7.webp",
+        "alt": "POCO C71 — Dorado. Perfil y pantalla.",
+        "view": "Perfil y pantalla",
+        "colorLabel": "Dorado",
+        "sourceUrl": "https://www.mi.com/vn/product/poco-c71/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c71/pc/0b9736d2865d69e778172c1600b52daa.png"
+      },
+      {
+        "src": "/images/products/xiaomi-poco-c71/38.webp",
+        "alt": "POCO C71 — Dorado. Diseño en mano.",
+        "view": "Diseño en mano",
+        "colorLabel": "Dorado",
+        "sourceUrl": "https://www.mi.com/vn/product/poco-c71/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c71/pc/1d54a6fb7d2993a92c63342a72c792a4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "dorado",
+        "label": "Dorado",
+        "hex": "#e1d8bb",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-poco-c71/spec-0.webp",
+            "alt": "POCO C71 — Dorado. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Dorado",
+            "sourceUrl": "https://www.mi.com/vn/product/poco-c71/specs/",
+            "sourceAssetUrl": "https://i02.appmifile.com/833_item_vn/21/04/2025/46fb52ed74d2b9b146b41cb677910a0f.png"
+          },
+          {
+            "src": "/images/products/xiaomi-poco-c71/4.webp",
+            "alt": "POCO C71 — Dorado. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Dorado",
+            "sourceUrl": "https://www.mi.com/vn/product/poco-c71/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c71/pc/d238ca57153f5dfc9c0f0c5450800f77.png"
+          },
+          {
+            "src": "/images/products/xiaomi-poco-c71/7.webp",
+            "alt": "POCO C71 — Dorado. Perfil y pantalla.",
+            "view": "Perfil y pantalla",
+            "colorLabel": "Dorado",
+            "sourceUrl": "https://www.mi.com/vn/product/poco-c71/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c71/pc/0b9736d2865d69e778172c1600b52daa.png"
+          },
+          {
+            "src": "/images/products/xiaomi-poco-c71/38.webp",
+            "alt": "POCO C71 — Dorado. Diseño en mano.",
+            "view": "Diseño en mano",
+            "colorLabel": "Dorado",
+            "sourceUrl": "https://www.mi.com/vn/product/poco-c71/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c71/pc/1d54a6fb7d2993a92c63342a72c792a4.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Xiaomi|POCO C81 Pro": {
+    "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+    "sourceName": "Xiaomi · ficha oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías oficiales distintas del modelo. La galería indica el acabado de cada imagen; los colores de referencia no confirman disponibilidad del proveedor.",
+    "images": [
+      {
+        "src": "/images/products/xiaomi-poco-c81-pro/39.webp",
+        "alt": "POCO C81 Pro — Verde. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/28244e64a6af47d3caaa90cb3533a838.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-poco-c81-pro/55.webp",
+        "alt": "POCO C81 Pro — Verde. Detalle de cámaras.",
+        "view": "Detalle de cámaras",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/f9473ffb08e22f868163c31dcc48ad87.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-poco-c81-pro/49.webp",
+        "alt": "POCO C81 Pro — Verde. Diseño en mano.",
+        "view": "Diseño en mano",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/57d01366359a54bfd17a01311dc14118.jpg"
+      },
+      {
+        "src": "/images/products/xiaomi-poco-c81-pro/59.webp",
+        "alt": "POCO C81 Pro — Verde. Conexiones y perfil inferior.",
+        "view": "Conexiones y perfil inferior",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+        "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/8bb25f54f4f3be5d7a310375a6f6c41c.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#7ba3a5",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-poco-c81-pro/39.webp",
+            "alt": "POCO C81 Pro — Verde. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/28244e64a6af47d3caaa90cb3533a838.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-poco-c81-pro/55.webp",
+            "alt": "POCO C81 Pro — Verde. Detalle de cámaras.",
+            "view": "Detalle de cámaras",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/f9473ffb08e22f868163c31dcc48ad87.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-poco-c81-pro/49.webp",
+            "alt": "POCO C81 Pro — Verde. Diseño en mano.",
+            "view": "Diseño en mano",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/57d01366359a54bfd17a01311dc14118.jpg"
+          },
+          {
+            "src": "/images/products/xiaomi-poco-c81-pro/59.webp",
+            "alt": "POCO C81 Pro — Verde. Conexiones y perfil inferior.",
+            "view": "Conexiones y perfil inferior",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/8bb25f54f4f3be5d7a310375a6f6c41c.jpg"
+          }
+        ]
+      },
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#383b3d",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-poco-c81-pro/40.webp",
+            "alt": "POCO C81 Pro — Negro. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/8163e19d06aaaf0f089d4bfa79ff4829.jpg"
+          }
+        ]
+      },
+      {
+        "key": "dorado",
+        "label": "Dorado",
+        "hex": "#d5c9ae",
+        "images": [
+          {
+            "src": "/images/products/xiaomi-poco-c81-pro/38.webp",
+            "alt": "POCO C81 Pro — Dorado. Diseño oficial del acabado.",
+            "view": "Diseño oficial del acabado",
+            "colorLabel": "Dorado",
+            "sourceUrl": "https://www.mi.com/es/product/poco-c81-pro/",
+            "sourceAssetUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/poco-c81-pro/pc/a9ae652d2a58dc13f9eea690e19555a9.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Google|Pixel 7A": {
+    "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+    "sourceName": "Google Store · galería oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro vistas oficiales por acabado. El modelo y el color se verifican en la galería del fabricante; el stock de CleverPhone está pendiente de confirmación.",
+    "images": [
+      {
+        "src": "/images/products/google-pixel-7a/charcoal-0.webp",
+        "alt": "Google Pixel 7a — Carbón. Vista frontal.",
+        "view": "Vista frontal",
+        "colorLabel": "Carbón",
+        "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+        "sourceAssetUrl": "https://lh3.googleusercontent.com/20zaSuMOhaWaGXBY8AlGML6u0EPcttGbYDnf1hFk18UdrMPJAn8TyRhgHN10xHD5C7fv4rGtBdpHIrkacgN52c55RZXp75RegVQ"
+      },
+      {
+        "src": "/images/products/google-pixel-7a/charcoal-1.webp",
+        "alt": "Google Pixel 7a — Carbón. Pantalla en perspectiva.",
+        "view": "Pantalla en perspectiva",
+        "colorLabel": "Carbón",
+        "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+        "sourceAssetUrl": "https://lh3.googleusercontent.com/gDTh7sXH03TYnpCsVeUdfPq4JIjHTsXYAyk8WH5qUaRDfwGi3Qwtw6eM3WC3g80CRKLmK4W_dlj4HBSQfq6p3T44ro-yuwPWHyY"
+      },
+      {
+        "src": "/images/products/google-pixel-7a/charcoal-2.webp",
+        "alt": "Google Pixel 7a — Carbón. Perfil lateral.",
+        "view": "Perfil lateral",
+        "colorLabel": "Carbón",
+        "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+        "sourceAssetUrl": "https://lh3.googleusercontent.com/X3AjqsdZxin8zNYHHACAJHB6vcC3rLPhDRZr1GkWP3d33GJNP9sZUqo-unv4nXOtu38QKq3V8OCu4J81ZVgzReXZZ4IK5FVzJEM"
+      },
+      {
+        "src": "/images/products/google-pixel-7a/charcoal-3.webp",
+        "alt": "Google Pixel 7a — Carbón. Vista trasera.",
+        "view": "Vista trasera",
+        "colorLabel": "Carbón",
+        "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+        "sourceAssetUrl": "https://lh3.googleusercontent.com/WBKrx14IsqoSBBrK-W3OJeYhw7O59xAhJWtOZc0o6zj_tl8Pc00ingMFUhqeZvgu84BOPhnttLf0f_ZELUBm8iINjLi3Zb-_UkE"
+      }
+    ],
+    "colors": [
+      {
+        "key": "charcoal",
+        "label": "Carbón",
+        "hex": "#4d4c4d",
+        "images": [
+          {
+            "src": "/images/products/google-pixel-7a/charcoal-0.webp",
+            "alt": "Google Pixel 7a — Carbón. Vista frontal.",
+            "view": "Vista frontal",
+            "colorLabel": "Carbón",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/20zaSuMOhaWaGXBY8AlGML6u0EPcttGbYDnf1hFk18UdrMPJAn8TyRhgHN10xHD5C7fv4rGtBdpHIrkacgN52c55RZXp75RegVQ"
+          },
+          {
+            "src": "/images/products/google-pixel-7a/charcoal-1.webp",
+            "alt": "Google Pixel 7a — Carbón. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Carbón",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/gDTh7sXH03TYnpCsVeUdfPq4JIjHTsXYAyk8WH5qUaRDfwGi3Qwtw6eM3WC3g80CRKLmK4W_dlj4HBSQfq6p3T44ro-yuwPWHyY"
+          },
+          {
+            "src": "/images/products/google-pixel-7a/charcoal-2.webp",
+            "alt": "Google Pixel 7a — Carbón. Perfil lateral.",
+            "view": "Perfil lateral",
+            "colorLabel": "Carbón",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/X3AjqsdZxin8zNYHHACAJHB6vcC3rLPhDRZr1GkWP3d33GJNP9sZUqo-unv4nXOtu38QKq3V8OCu4J81ZVgzReXZZ4IK5FVzJEM"
+          },
+          {
+            "src": "/images/products/google-pixel-7a/charcoal-3.webp",
+            "alt": "Google Pixel 7a — Carbón. Vista trasera.",
+            "view": "Vista trasera",
+            "colorLabel": "Carbón",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/WBKrx14IsqoSBBrK-W3OJeYhw7O59xAhJWtOZc0o6zj_tl8Pc00ingMFUhqeZvgu84BOPhnttLf0f_ZELUBm8iINjLi3Zb-_UkE"
+          }
+        ]
+      },
+      {
+        "key": "sea",
+        "label": "Azul mar",
+        "hex": "#ced9e4",
+        "images": [
+          {
+            "src": "/images/products/google-pixel-7a/sea-0.webp",
+            "alt": "Google Pixel 7a — Azul mar. Vista frontal.",
+            "view": "Vista frontal",
+            "colorLabel": "Azul mar",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/u9QbZ8EG7loKDYDcnbX2Zu5GQ7KXgqniYsub6kdVxG-sTorNiKFUsuJRBHHiDbh08HXlXnPRBVX2w3VDxowpRNQaPOtupv8WPdE"
+          },
+          {
+            "src": "/images/products/google-pixel-7a/sea-1.webp",
+            "alt": "Google Pixel 7a — Azul mar. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Azul mar",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/ga6DBNcrF2vEW50Il56xxcOGEHIhEVQToWfao31IVVzWF8wmF4hkTo4ol4jD8TFq8mFyDOO6shVRPdBgQAirxLEM4btHIdd2IdU"
+          },
+          {
+            "src": "/images/products/google-pixel-7a/sea-2.webp",
+            "alt": "Google Pixel 7a — Azul mar. Perfil lateral.",
+            "view": "Perfil lateral",
+            "colorLabel": "Azul mar",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/PjzdihlpObTygGltrn9Kyz8FIHXC5sDK1MMBJVPUwVFA5P5dZozIhpBbnbwC1ksIqIZzl01cI-3oeSmWcLf6C_kZQNpw_muW0w"
+          },
+          {
+            "src": "/images/products/google-pixel-7a/sea-3.webp",
+            "alt": "Google Pixel 7a — Azul mar. Vista trasera.",
+            "view": "Vista trasera",
+            "colorLabel": "Azul mar",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/qAV-C0QQF5bh_YTmCH6C-qXKx0UbT54EAq_9GQW0l7n5_ioSn9FZ2iuSp23NDwdbgWuBJrjJ5ycQE6C4j3XQPhnZDYo9fGhdEdQ"
+          }
+        ]
+      },
+      {
+        "key": "snow",
+        "label": "Nieve",
+        "hex": "#f1f3ee",
+        "images": [
+          {
+            "src": "/images/products/google-pixel-7a/snow-0.webp",
+            "alt": "Google Pixel 7a — Nieve. Vista frontal.",
+            "view": "Vista frontal",
+            "colorLabel": "Nieve",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/hKl12XrRk756ZPBMoNxtDkLHz0zVIiZMPRk_3l4oXxr_OKFhxdZ_BImSE5kCJR2lNFjVlUOFdRdR87_aAZvSo-c5ihQJYjfz_bM"
+          },
+          {
+            "src": "/images/products/google-pixel-7a/snow-1.webp",
+            "alt": "Google Pixel 7a — Nieve. Pantalla en perspectiva.",
+            "view": "Pantalla en perspectiva",
+            "colorLabel": "Nieve",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/Kvlx0FogWsEu-vfOmEIzvht6mfjHLkZboLwO4YhFY2enegXukVjyv11gDFaWpNwSVWGm2XCpjOmIMsADs8d6dtqHb7cgpPLZFA"
+          },
+          {
+            "src": "/images/products/google-pixel-7a/snow-2.webp",
+            "alt": "Google Pixel 7a — Nieve. Perfil lateral.",
+            "view": "Perfil lateral",
+            "colorLabel": "Nieve",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/8n5N8MLCAtALOBTY2yqmIVXSElJxNuviRw9H10cMzFsuwV116J1MfLs1JV1QbE35x49hkEZuepgNs17uP7eGT8DPvxJ9rem9OH8"
+          },
+          {
+            "src": "/images/products/google-pixel-7a/snow-3.webp",
+            "alt": "Google Pixel 7a — Nieve. Vista trasera.",
+            "view": "Vista trasera",
+            "colorLabel": "Nieve",
+            "sourceUrl": "https://store.google.com/us/config/refurbished_pixel_7a?hl=en-US",
+            "sourceAssetUrl": "https://lh3.googleusercontent.com/SnMJqQCXtwDMO6qf_cXEi-KnbBnPbBLrdKu63ceAZ4SwYmXQ-B0xNhz69kZcst54E32d2VGJ6tPeWEGs-jzlYvzAWf6fsxhOqw"
+          }
+        ]
+      }
+    ]
+  },
+  "Google|Pixel 6A": {
+    "sourceUrl": "https://www.fnac.com/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Noir/a17126467/w-4",
+    "sourceName": "Fnac · fichas de producto y Google · presentación oficial",
+    "status": "complete",
+    "retrievedAt": "2026-10-25",
+    "note": "Cuatro fotografías verificadas del Pixel 6a: frontal y trasera en Carbón, Tiza y Salvia, y fotografía oficial de los tres acabados. Las imágenes Fnac disponibles son de 340 px; reemplazar por originales del proveedor cuando estén disponibles.",
+    "images": [
+      {
+        "src": "/images/products/google-pixel-6a/charcoal.webp",
+        "alt": "Google Pixel 6a — Carbón. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Carbón",
+        "sourceUrl": "https://www.fnac.com/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Noir/a17126467/w-4",
+        "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/FR/MDM/0b/26/29/19473931/1540-1/tsp20260729081630/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Noir.jpg"
+      },
+      {
+        "src": "/images/products/google-pixel-6a/white.webp",
+        "alt": "Google Pixel 6a — Blanco Tiza. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Blanco Tiza",
+        "sourceUrl": "https://www.fnac.com/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Blanc/a17126466/w-4",
+        "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/FR/MDM/0a/26/29/19473930/1540-1/tsp20260722081937/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Blanc.jpg"
+      },
+      {
+        "src": "/images/products/google-pixel-6a/green.webp",
+        "alt": "Google Pixel 6a — Verde Salvia. Vista frontal y trasera.",
+        "view": "Vista frontal y trasera",
+        "colorLabel": "Verde Salvia",
+        "sourceUrl": "https://www.fnac.com/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Vert/a17126468/w-4",
+        "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/FR/MDM/0c/26/29/19473932/1540-1/tsp20260930082641/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Vert.jpg"
+      },
+      {
+        "src": "/images/products/google-pixel-6a/official.webp",
+        "alt": "Google Pixel 6a — Varios acabados. Acabados oficiales: vista trasera.",
+        "view": "Acabados oficiales: vista trasera",
+        "colorLabel": "Varios acabados",
+        "sourceUrl": "https://blog.google/products-and-platforms/devices/pixel/pixel-6a-io-2022/",
+        "sourceAssetUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_6a_3_UWu8QqF.width-1200.format-webp.webp"
+      }
+    ],
+    "colors": [
+      {
+        "key": "charcoal",
+        "label": "Carbón",
+        "hex": "#414343",
+        "images": [
+          {
+            "src": "/images/products/google-pixel-6a/charcoal.webp",
+            "alt": "Google Pixel 6a — Carbón. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Carbón",
+            "sourceUrl": "https://www.fnac.com/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Noir/a17126467/w-4",
+            "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/FR/MDM/0b/26/29/19473931/1540-1/tsp20260729081630/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Noir.jpg"
+          }
+        ]
+      },
+      {
+        "key": "white",
+        "label": "Blanco Tiza",
+        "hex": "#e4e5df",
+        "images": [
+          {
+            "src": "/images/products/google-pixel-6a/white.webp",
+            "alt": "Google Pixel 6a — Blanco Tiza. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Blanco Tiza",
+            "sourceUrl": "https://www.fnac.com/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Blanc/a17126466/w-4",
+            "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/FR/MDM/0a/26/29/19473930/1540-1/tsp20260722081937/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Blanc.jpg"
+          }
+        ]
+      },
+      {
+        "key": "green",
+        "label": "Verde Salvia",
+        "hex": "#bdc8b4",
+        "images": [
+          {
+            "src": "/images/products/google-pixel-6a/green.webp",
+            "alt": "Google Pixel 6a — Verde Salvia. Vista frontal y trasera.",
+            "view": "Vista frontal y trasera",
+            "colorLabel": "Verde Salvia",
+            "sourceUrl": "https://www.fnac.com/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Vert/a17126468/w-4",
+            "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/FR/MDM/0c/26/29/19473932/1540-1/tsp20260930082641/Smartphone-Google-Pixel-6a-6-1-5G-Double-SIM-128-Go-Vert.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

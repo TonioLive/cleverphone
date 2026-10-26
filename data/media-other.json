@@ -1,0 +1,2930 @@
+{
+  "Realme|C71": {
+    "sourceUrl": "https://www.ielectro.es/product/realme-c71-white-swan-4256gb-667-120hz-hd",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "blanco-cisne",
+        "label": "Blanco cisne",
+        "hex": "#e4e2dd",
+        "images": [
+          {
+            "src": "/images/products/realme-c71/blanco-cisne-1.webp",
+            "alt": "Realme C71 Blanco cisne · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34921.webp",
+            "colorLabel": "Blanco cisne",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34921.webp"
+          },
+          {
+            "src": "/images/products/realme-c71/blanco-cisne-2.webp",
+            "alt": "Realme C71 Blanco cisne · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34921-6.webp",
+            "colorLabel": "Blanco cisne",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34921-6.webp"
+          },
+          {
+            "src": "/images/products/realme-c71/blanco-cisne-3.webp",
+            "alt": "Realme C71 Blanco cisne · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34921-5.webp",
+            "colorLabel": "Blanco cisne",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34921-5.webp"
+          },
+          {
+            "src": "/images/products/realme-c71/blanco-cisne-4.webp",
+            "alt": "Realme C71 Blanco cisne · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34921-2.webp",
+            "colorLabel": "Blanco cisne",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34921-2.webp"
+          }
+        ]
+      },
+      {
+        "key": "verde-oscuro",
+        "label": "Verde oscuro",
+        "hex": "#254a44",
+        "images": [
+          {
+            "src": "/images/products/realme-c71/verde-oscuro-1.webp",
+            "alt": "Realme C71 Verde oscuro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34920.webp",
+            "colorLabel": "Verde oscuro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34920.webp"
+          },
+          {
+            "src": "/images/products/realme-c71/verde-oscuro-2.webp",
+            "alt": "Realme C71 Verde oscuro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34920-6.webp",
+            "colorLabel": "Verde oscuro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34920-6.webp"
+          },
+          {
+            "src": "/images/products/realme-c71/verde-oscuro-3.webp",
+            "alt": "Realme C71 Verde oscuro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34920-5.webp",
+            "colorLabel": "Verde oscuro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34920-5.webp"
+          },
+          {
+            "src": "/images/products/realme-c71/verde-oscuro-4.webp",
+            "alt": "Realme C71 Verde oscuro · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34920-2.webp",
+            "colorLabel": "Verde oscuro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34920-2.webp"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/realme-c71/blanco-cisne-1.webp",
+        "alt": "Realme C71 Blanco cisne · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34921.webp",
+        "colorLabel": "Blanco cisne",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34921.webp"
+      },
+      {
+        "src": "/images/products/realme-c71/blanco-cisne-2.webp",
+        "alt": "Realme C71 Blanco cisne · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34921-6.webp",
+        "colorLabel": "Blanco cisne",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34921-6.webp"
+      },
+      {
+        "src": "/images/products/realme-c71/blanco-cisne-3.webp",
+        "alt": "Realme C71 Blanco cisne · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34921-5.webp",
+        "colorLabel": "Blanco cisne",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34921-5.webp"
+      },
+      {
+        "src": "/images/products/realme-c71/blanco-cisne-4.webp",
+        "alt": "Realme C71 Blanco cisne · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34921-2.webp",
+        "colorLabel": "Blanco cisne",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34921-2.webp"
+      }
+    ]
+  },
+  "Motorola|G17": {
+    "sourceUrl": "https://www.motorola.com.ar/moto-g17-128gb/p",
+    "sourceName": "Motorola · tienda oficial Argentina",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "evening-blue",
+        "label": "Azul anochecer",
+        "hex": "#2a304b",
+        "images": [
+          {
+            "src": "/images/products/motorola-g17/evening-blue-1.webp",
+            "alt": "Motorola G17 Azul anochecer · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://armoto.vteximg.com.br/arquivos/ids/173976/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_PDP-HERO.png?v=639216437855830000",
+            "sourceAssetUrl": "https://armoto.vteximg.com.br/arquivos/ids/173976/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_PDP-HERO.png?v=639216437855830000",
+            "colorLabel": "Azul anochecer"
+          },
+          {
+            "src": "/images/products/motorola-g17/evening-blue-2.webp",
+            "alt": "Motorola G17 Azul anochecer · Frontal y perfil",
+            "view": "Frontal y perfil",
+            "sourceUrl": "https://armoto.vteximg.com.br/arquivos/ids/173977/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_FRONTSIDE.png?v=639216437856000000",
+            "sourceAssetUrl": "https://armoto.vteximg.com.br/arquivos/ids/173977/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_FRONTSIDE.png?v=639216437856000000",
+            "colorLabel": "Azul anochecer"
+          },
+          {
+            "src": "/images/products/motorola-g17/evening-blue-3.webp",
+            "alt": "Motorola G17 Azul anochecer · Vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://armoto.vteximg.com.br/arquivos/ids/173979/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_BACKSIDE.png?v=639216437856130000",
+            "sourceAssetUrl": "https://armoto.vteximg.com.br/arquivos/ids/173979/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_BACKSIDE.png?v=639216437856130000",
+            "colorLabel": "Azul anochecer"
+          },
+          {
+            "src": "/images/products/motorola-g17/evening-blue-4.webp",
+            "alt": "Motorola G17 Azul anochecer · Trasera en perspectiva",
+            "view": "Trasera en perspectiva",
+            "sourceUrl": "https://armoto.vteximg.com.br/arquivos/ids/173980/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_DYN-BACKSIDE-RIGHT.png?v=639216437856130000",
+            "sourceAssetUrl": "https://armoto.vteximg.com.br/arquivos/ids/173980/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_DYN-BACKSIDE-RIGHT.png?v=639216437856130000",
+            "colorLabel": "Azul anochecer"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/motorola-g17/evening-blue-1.webp",
+        "alt": "Motorola G17 Azul anochecer · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://armoto.vteximg.com.br/arquivos/ids/173976/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_PDP-HERO.png?v=639216437855830000",
+        "sourceAssetUrl": "https://armoto.vteximg.com.br/arquivos/ids/173976/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_PDP-HERO.png?v=639216437855830000",
+        "colorLabel": "Azul anochecer"
+      },
+      {
+        "src": "/images/products/motorola-g17/evening-blue-2.webp",
+        "alt": "Motorola G17 Azul anochecer · Frontal y perfil",
+        "view": "Frontal y perfil",
+        "sourceUrl": "https://armoto.vteximg.com.br/arquivos/ids/173977/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_FRONTSIDE.png?v=639216437856000000",
+        "sourceAssetUrl": "https://armoto.vteximg.com.br/arquivos/ids/173977/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_FRONTSIDE.png?v=639216437856000000",
+        "colorLabel": "Azul anochecer"
+      },
+      {
+        "src": "/images/products/motorola-g17/evening-blue-3.webp",
+        "alt": "Motorola G17 Azul anochecer · Vista trasera",
+        "view": "Vista trasera",
+        "sourceUrl": "https://armoto.vteximg.com.br/arquivos/ids/173979/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_BACKSIDE.png?v=639216437856130000",
+        "sourceAssetUrl": "https://armoto.vteximg.com.br/arquivos/ids/173979/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_BACKSIDE.png?v=639216437856130000",
+        "colorLabel": "Azul anochecer"
+      },
+      {
+        "src": "/images/products/motorola-g17/evening-blue-4.webp",
+        "alt": "Motorola G17 Azul anochecer · Trasera en perspectiva",
+        "view": "Trasera en perspectiva",
+        "sourceUrl": "https://armoto.vteximg.com.br/arquivos/ids/173980/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_DYN-BACKSIDE-RIGHT.png?v=639216437856130000",
+        "sourceAssetUrl": "https://armoto.vteximg.com.br/arquivos/ids/173980/2026_LAMU-BASE_BASIC-PACK_EVENING-BLUE_DYN-BACKSIDE-RIGHT.png?v=639216437856130000",
+        "colorLabel": "Azul anochecer"
+      }
+    ]
+  },
+  "Motorola|G06 Power": {
+    "sourceUrl": "https://www.arpotelecomunicaciones.es/es/telefonos-moviles-tablets/17088-11930-motorola-moto-g06-power-256gb-8400000170888.html",
+    "sourceName": "Arpo Telecomunicaciones",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "verde-laurel",
+        "label": "Verde",
+        "hex": "#868574",
+        "images": [
+          {
+            "src": "/images/products/motorola-g06-power/verde-laurel-1.webp",
+            "alt": "Motorola G06 Power Verde · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+            "colorLabel": "Verde",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg"
+          },
+          {
+            "src": "/images/products/motorola-g06-power/verde-laurel-2.webp",
+            "alt": "Motorola G06 Power Verde · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/47592/motorola-moto-g06-power-256gb.jpg",
+            "colorLabel": "Verde",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/47592/motorola-moto-g06-power-256gb.jpg"
+          },
+          {
+            "src": "/images/products/motorola-g06-power/detail-camera.webp",
+            "alt": "Motorola G06 Power Verde · Detalle de las cámaras (ampliación)",
+            "view": "Detalle de las cámaras (ampliación)",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+            "crop": [
+              70,
+              50,
+              295,
+              285
+            ]
+          },
+          {
+            "src": "/images/products/motorola-g06-power/detail-screen.webp",
+            "alt": "Motorola G06 Power Verde · Detalle de la pantalla (ampliación)",
+            "view": "Detalle de la pantalla (ampliación)",
+            "colorLabel": "Verde",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+            "crop": [
+              315,
+              74,
+              605,
+              515
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/motorola-g06-power/verde-laurel-1.webp",
+        "alt": "Motorola G06 Power Verde · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+        "colorLabel": "Verde",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg"
+      },
+      {
+        "src": "/images/products/motorola-g06-power/verde-laurel-2.webp",
+        "alt": "Motorola G06 Power Verde · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/47592/motorola-moto-g06-power-256gb.jpg",
+        "colorLabel": "Verde",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/47592/motorola-moto-g06-power-256gb.jpg"
+      },
+      {
+        "src": "/images/products/motorola-g06-power/detail-camera.webp",
+        "alt": "Motorola G06 Power Verde · Detalle de las cámaras (ampliación)",
+        "view": "Detalle de las cámaras (ampliación)",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+        "crop": [
+          70,
+          50,
+          295,
+          285
+        ]
+      },
+      {
+        "src": "/images/products/motorola-g06-power/detail-screen.webp",
+        "alt": "Motorola G06 Power Verde · Detalle de la pantalla (ampliación)",
+        "view": "Detalle de la pantalla (ampliación)",
+        "colorLabel": "Verde",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/47590/motorola-moto-g06-power-256gb.jpg",
+        "crop": [
+          315,
+          74,
+          605,
+          515
+        ]
+      }
+    ],
+    "note": "Incluye detalles ampliados de las fotos catálogo; no son ángulos adicionales. Incluye detalles ampliados de las fotos de catálogo; no son ángulos adicionales."
+  },
+  "Motorola|G05": {
+    "sourceUrl": "https://www.motorola.com.br/smartphone-moto-g05-256-gb/p",
+    "sourceName": "Motorola · tienda oficial Brasil",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "grafito",
+        "label": "Grafito",
+        "hex": "#4a4c50",
+        "images": [
+          {
+            "src": "/images/products/motorola-g05/grafito-1.webp",
+            "alt": "Motorola G05 Grafito · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176602/HERO-GRAFITE.png?v=638998883354230000",
+            "colorLabel": "Grafito",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176602/HERO-GRAFITE.png?v=638998883354230000"
+          },
+          {
+            "src": "/images/products/motorola-g05/grafito-2.webp",
+            "alt": "Motorola G05 Grafito · Vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176605/tela-smartphone-moto-g05-grafite.png?v=638998883354700000",
+            "colorLabel": "Grafito",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176605/tela-smartphone-moto-g05-grafite.png?v=638998883354700000"
+          },
+          {
+            "src": "/images/products/motorola-g05/grafito-3.webp",
+            "alt": "Motorola G05 Grafito · Vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176608/traseira-smartphone-moto-g05-grafite.png?v=638998883355200000",
+            "colorLabel": "Grafito",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176608/traseira-smartphone-moto-g05-grafite.png?v=638998883355200000"
+          },
+          {
+            "src": "/images/products/motorola-g05/grafito-4.webp",
+            "alt": "Motorola G05 Grafito · Puertos de conexión",
+            "view": "Puertos de conexión",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176609/entradas-smartphone-moto-g05-grafite.png?v=638998883355200000",
+            "colorLabel": "Grafito",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176609/entradas-smartphone-moto-g05-grafite.png?v=638998883355200000"
+          }
+        ]
+      },
+      {
+        "key": "rojo",
+        "label": "Rojo",
+        "hex": "#b34036",
+        "images": [
+          {
+            "src": "/images/products/motorola-g05/rojo-1.webp",
+            "alt": "Motorola G05 Rojo · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176611/HERO-VERMELHO.png?v=638998883355670000",
+            "colorLabel": "Rojo",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176611/HERO-VERMELHO.png?v=638998883355670000"
+          },
+          {
+            "src": "/images/products/motorola-g05/rojo-2.webp",
+            "alt": "Motorola G05 Rojo · Vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176614/tela-smartphone-moto-g05-vermelho.png?v=638998883355800000",
+            "colorLabel": "Rojo",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176614/tela-smartphone-moto-g05-vermelho.png?v=638998883355800000"
+          },
+          {
+            "src": "/images/products/motorola-g05/rojo-3.webp",
+            "alt": "Motorola G05 Rojo · Vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176617/traseira-smartphone-moto-g05-vermelho.png?v=638998883356130000",
+            "colorLabel": "Rojo",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176617/traseira-smartphone-moto-g05-vermelho.png?v=638998883356130000"
+          },
+          {
+            "src": "/images/products/motorola-g05/rojo-4.webp",
+            "alt": "Motorola G05 Rojo · Puertos de conexión",
+            "view": "Puertos de conexión",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176618/entradas-smartphone-moto-g05-vermelho.png?v=638998883356130000",
+            "colorLabel": "Rojo",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176618/entradas-smartphone-moto-g05-vermelho.png?v=638998883356130000"
+          }
+        ]
+      },
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#777e62",
+        "images": [
+          {
+            "src": "/images/products/motorola-g05/verde-1.webp",
+            "alt": "Motorola G05 Verde · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176620/HERO-VERDE.png?v=638998883356600000",
+            "colorLabel": "Verde",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176620/HERO-VERDE.png?v=638998883356600000"
+          },
+          {
+            "src": "/images/products/motorola-g05/verde-2.webp",
+            "alt": "Motorola G05 Verde · Vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176623/tela-smartphone-moto-g05-verde.png?v=638998883356730000",
+            "colorLabel": "Verde",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176623/tela-smartphone-moto-g05-verde.png?v=638998883356730000"
+          },
+          {
+            "src": "/images/products/motorola-g05/verde-3.webp",
+            "alt": "Motorola G05 Verde · Vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176626/traseira-smartphone-moto-g05-verde.png?v=638998883357070000",
+            "colorLabel": "Verde",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176626/traseira-smartphone-moto-g05-verde.png?v=638998883357070000"
+          },
+          {
+            "src": "/images/products/motorola-g05/verde-4.webp",
+            "alt": "Motorola G05 Verde · Puertos de conexión",
+            "view": "Puertos de conexión",
+            "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176627/entradas-smartphone-moto-g05-verde.png?v=638998883357070000",
+            "colorLabel": "Verde",
+            "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176627/entradas-smartphone-moto-g05-verde.png?v=638998883357070000"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/motorola-g05/grafito-1.webp",
+        "alt": "Motorola G05 Grafito · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176602/HERO-GRAFITE.png?v=638998883354230000",
+        "colorLabel": "Grafito",
+        "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176602/HERO-GRAFITE.png?v=638998883354230000"
+      },
+      {
+        "src": "/images/products/motorola-g05/grafito-2.webp",
+        "alt": "Motorola G05 Grafito · Vista frontal",
+        "view": "Vista frontal",
+        "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176605/tela-smartphone-moto-g05-grafite.png?v=638998883354700000",
+        "colorLabel": "Grafito",
+        "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176605/tela-smartphone-moto-g05-grafite.png?v=638998883354700000"
+      },
+      {
+        "src": "/images/products/motorola-g05/grafito-3.webp",
+        "alt": "Motorola G05 Grafito · Vista trasera",
+        "view": "Vista trasera",
+        "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176608/traseira-smartphone-moto-g05-grafite.png?v=638998883355200000",
+        "colorLabel": "Grafito",
+        "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176608/traseira-smartphone-moto-g05-grafite.png?v=638998883355200000"
+      },
+      {
+        "src": "/images/products/motorola-g05/grafito-4.webp",
+        "alt": "Motorola G05 Grafito · Puertos de conexión",
+        "view": "Puertos de conexión",
+        "sourceUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176609/entradas-smartphone-moto-g05-grafite.png?v=638998883355200000",
+        "colorLabel": "Grafito",
+        "sourceAssetUrl": "https://brmotorolanew.vteximg.com.br/arquivos/ids/176609/entradas-smartphone-moto-g05-grafite.png?v=638998883355200000"
+      }
+    ]
+  },
+  "OPPO|Reno 6 5G": {
+    "sourceUrl": "https://movilplanet.eu/es/moviles/880-oppo-reno6-5g-128gb.html",
+    "sourceName": "Móvil Planet · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro-estelar",
+        "label": "Negro estelar",
+        "hex": "#243744",
+        "images": [
+          {
+            "src": "/images/products/oppo-reno-6-5g/negro-estelar-1.webp",
+            "alt": "OPPO Reno 6 5G Negro estelar · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://movilplanet.eu/7315/oppo-reno6-5g-128gb.jpg",
+            "colorLabel": "Negro estelar",
+            "sourceAssetUrl": "https://movilplanet.eu/7315/oppo-reno6-5g-128gb.jpg"
+          },
+          {
+            "src": "/images/products/oppo-reno-6-5g/negro-estelar-2.webp",
+            "alt": "OPPO Reno 6 5G Negro estelar · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://movilplanet.eu/7314/oppo-reno6-5g-128gb.jpg",
+            "colorLabel": "Negro estelar",
+            "sourceAssetUrl": "https://movilplanet.eu/7314/oppo-reno6-5g-128gb.jpg"
+          },
+          {
+            "src": "/images/products/oppo-reno-6-5g/negro-estelar-3.webp",
+            "alt": "OPPO Reno 6 5G Negro estelar · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://movilplanet.eu/7318/oppo-reno6-5g-128gb.jpg",
+            "colorLabel": "Negro estelar",
+            "sourceAssetUrl": "https://movilplanet.eu/7318/oppo-reno6-5g-128gb.jpg"
+          },
+          {
+            "src": "/images/products/oppo-reno-6-5g/negro-estelar-4.webp",
+            "alt": "OPPO Reno 6 5G Negro estelar · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://movilplanet.eu/7321/oppo-reno6-5g-128gb.jpg",
+            "colorLabel": "Negro estelar",
+            "sourceAssetUrl": "https://movilplanet.eu/7321/oppo-reno6-5g-128gb.jpg"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/oppo-reno-6-5g/negro-estelar-1.webp",
+        "alt": "OPPO Reno 6 5G Negro estelar · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://movilplanet.eu/7315/oppo-reno6-5g-128gb.jpg",
+        "colorLabel": "Negro estelar",
+        "sourceAssetUrl": "https://movilplanet.eu/7315/oppo-reno6-5g-128gb.jpg"
+      },
+      {
+        "src": "/images/products/oppo-reno-6-5g/negro-estelar-2.webp",
+        "alt": "OPPO Reno 6 5G Negro estelar · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://movilplanet.eu/7314/oppo-reno6-5g-128gb.jpg",
+        "colorLabel": "Negro estelar",
+        "sourceAssetUrl": "https://movilplanet.eu/7314/oppo-reno6-5g-128gb.jpg"
+      },
+      {
+        "src": "/images/products/oppo-reno-6-5g/negro-estelar-3.webp",
+        "alt": "OPPO Reno 6 5G Negro estelar · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://movilplanet.eu/7318/oppo-reno6-5g-128gb.jpg",
+        "colorLabel": "Negro estelar",
+        "sourceAssetUrl": "https://movilplanet.eu/7318/oppo-reno6-5g-128gb.jpg"
+      },
+      {
+        "src": "/images/products/oppo-reno-6-5g/negro-estelar-4.webp",
+        "alt": "OPPO Reno 6 5G Negro estelar · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://movilplanet.eu/7321/oppo-reno6-5g-128gb.jpg",
+        "colorLabel": "Negro estelar",
+        "sourceAssetUrl": "https://movilplanet.eu/7321/oppo-reno6-5g-128gb.jpg"
+      }
+    ]
+  },
+  "OPPO|A5 5G": {
+    "sourceUrl": "https://www.oppo.com/es/product/oppo-a5-5g.P.P1100213",
+    "sourceName": "OPPO · tienda oficial España",
+    "status": "complete",
+    "note": "Colores y fotografías de la tienda oficial. La disponibilidad del proveedor se confirma por separado.",
+    "colors": [
+      {
+        "key": "mist-white",
+        "label": "Blanco niebla",
+        "hex": "#e9e8e3",
+        "images": [
+          {
+            "src": "/images/products/oppo-a5-5g/mist-white-1.webp",
+            "alt": "OPPO A5 5G Blanco niebla · vista 1",
+            "view": "Vista 1",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/q50uNkJTdWQEySCJ.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/q50uNkJTdWQEySCJ.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-5g/mist-white-2.webp",
+            "alt": "OPPO A5 5G Blanco niebla · vista 2",
+            "view": "Vista 2",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/ii3G6Hs3SOlz7zEe.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/ii3G6Hs3SOlz7zEe.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-5g/mist-white-3.webp",
+            "alt": "OPPO A5 5G Blanco niebla · vista 3",
+            "view": "Vista 3",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/RxFbQGHWbZQf4rgT.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/RxFbQGHWbZQf4rgT.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-5g/mist-white-4.webp",
+            "alt": "OPPO A5 5G Blanco niebla · vista 4",
+            "view": "Vista 4",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/VO4yy8XaRzAxMazl.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/VO4yy8XaRzAxMazl.png"
+          }
+        ]
+      },
+      {
+        "key": "black-green",
+        "label": "Verde oscuro",
+        "hex": "#344844",
+        "images": [
+          {
+            "src": "/images/products/oppo-a5-5g/black-green-1.webp",
+            "alt": "OPPO A5 5G Verde oscuro · vista 1",
+            "view": "Vista 1",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/O4nlXFOVr2oi3u3z.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/O4nlXFOVr2oi3u3z.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-5g/black-green-2.webp",
+            "alt": "OPPO A5 5G Verde oscuro · vista 2",
+            "view": "Vista 2",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/DJdPKx8tVl8awczc.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/DJdPKx8tVl8awczc.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-5g/black-green-3.webp",
+            "alt": "OPPO A5 5G Verde oscuro · vista 3",
+            "view": "Vista 3",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/6IzcS5VKphwdPV41.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/6IzcS5VKphwdPV41.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-5g/black-green-4.webp",
+            "alt": "OPPO A5 5G Verde oscuro · vista 4",
+            "view": "Vista 4",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/6yfz4Cv9rLQPRZfj.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/6yfz4Cv9rLQPRZfj.png"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/oppo-a5-5g/mist-white-1.webp",
+        "alt": "OPPO A5 5G Blanco niebla · vista 1",
+        "view": "Vista 1",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/q50uNkJTdWQEySCJ.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/q50uNkJTdWQEySCJ.png"
+      },
+      {
+        "src": "/images/products/oppo-a5-5g/mist-white-2.webp",
+        "alt": "OPPO A5 5G Blanco niebla · vista 2",
+        "view": "Vista 2",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/ii3G6Hs3SOlz7zEe.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/ii3G6Hs3SOlz7zEe.png"
+      },
+      {
+        "src": "/images/products/oppo-a5-5g/mist-white-3.webp",
+        "alt": "OPPO A5 5G Blanco niebla · vista 3",
+        "view": "Vista 3",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/RxFbQGHWbZQf4rgT.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/RxFbQGHWbZQf4rgT.png"
+      },
+      {
+        "src": "/images/products/oppo-a5-5g/mist-white-4.webp",
+        "alt": "OPPO A5 5G Blanco niebla · vista 4",
+        "view": "Vista 4",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/VO4yy8XaRzAxMazl.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/VO4yy8XaRzAxMazl.png"
+      }
+    ]
+  },
+  "OPPO|Reno 13F 5G": {
+    "sourceUrl": "https://www.oppo.com/es/product/oppo-reno13-f-5g.P.P1100189",
+    "sourceName": "OPPO · tienda oficial España",
+    "status": "complete",
+    "note": "Colores y fotografías de la tienda oficial. La disponibilidad del proveedor se confirma por separado.",
+    "colors": [
+      {
+        "key": "plume-purple",
+        "label": "Púrpura",
+        "hex": "#a99cc0",
+        "images": [
+          {
+            "src": "/images/products/oppo-reno-13f-5g/plume-purple-1.webp",
+            "alt": "OPPO Reno 13F 5G Púrpura · vista 1",
+            "view": "Vista 1",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/wgo60SIRLHmkwIrw.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/wgo60SIRLHmkwIrw.png"
+          },
+          {
+            "src": "/images/products/oppo-reno-13f-5g/plume-purple-2.webp",
+            "alt": "OPPO Reno 13F 5G Púrpura · vista 2",
+            "view": "Vista 2",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/0YZtPqnovBPEPUzO.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/0YZtPqnovBPEPUzO.png"
+          },
+          {
+            "src": "/images/products/oppo-reno-13f-5g/plume-purple-3.webp",
+            "alt": "OPPO Reno 13F 5G Púrpura · vista 3",
+            "view": "Vista 3",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/s5sQHQ7sd88YrZ1Q.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/s5sQHQ7sd88YrZ1Q.png"
+          },
+          {
+            "src": "/images/products/oppo-reno-13f-5g/plume-purple-4.webp",
+            "alt": "OPPO Reno 13F 5G Púrpura · vista 4",
+            "view": "Vista 4",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/aS753Gv45pql5BO4.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/aS753Gv45pql5BO4.png"
+          }
+        ]
+      },
+      {
+        "key": "graphite-grey",
+        "label": "Gris grafito",
+        "hex": "#555a5c",
+        "images": [
+          {
+            "src": "/images/products/oppo-reno-13f-5g/graphite-grey-1.webp",
+            "alt": "OPPO Reno 13F 5G Gris grafito · vista 1",
+            "view": "Vista 1",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/kVdui6XRpXY0Zk1P.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/kVdui6XRpXY0Zk1P.png"
+          },
+          {
+            "src": "/images/products/oppo-reno-13f-5g/graphite-grey-2.webp",
+            "alt": "OPPO Reno 13F 5G Gris grafito · vista 2",
+            "view": "Vista 2",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/IF71sISUyyjyYdtl.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/IF71sISUyyjyYdtl.png"
+          },
+          {
+            "src": "/images/products/oppo-reno-13f-5g/graphite-grey-3.webp",
+            "alt": "OPPO Reno 13F 5G Gris grafito · vista 3",
+            "view": "Vista 3",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/08lxx2OkmVKijq4P.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/08lxx2OkmVKijq4P.png"
+          },
+          {
+            "src": "/images/products/oppo-reno-13f-5g/graphite-grey-4.webp",
+            "alt": "OPPO Reno 13F 5G Gris grafito · vista 4",
+            "view": "Vista 4",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/aOLy5thwoQWWyaEs.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/aOLy5thwoQWWyaEs.png"
+          }
+        ]
+      },
+      {
+        "key": "luminous-blue",
+        "label": "Azul luminoso",
+        "hex": "#7d99c7",
+        "images": [
+          {
+            "src": "/images/products/oppo-reno-13f-5g/luminous-blue-1.webp",
+            "alt": "OPPO Reno 13F 5G Azul luminoso · vista 1",
+            "view": "Vista 1",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/NPvgSBShEKQDPoLc.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/NPvgSBShEKQDPoLc.png"
+          },
+          {
+            "src": "/images/products/oppo-reno-13f-5g/luminous-blue-2.webp",
+            "alt": "OPPO Reno 13F 5G Azul luminoso · vista 2",
+            "view": "Vista 2",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/2TTtfGfrIu4DR9IH.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/2TTtfGfrIu4DR9IH.png"
+          },
+          {
+            "src": "/images/products/oppo-reno-13f-5g/luminous-blue-3.webp",
+            "alt": "OPPO Reno 13F 5G Azul luminoso · vista 3",
+            "view": "Vista 3",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/V523vN3TWwpUgbmw.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/V523vN3TWwpUgbmw.png"
+          },
+          {
+            "src": "/images/products/oppo-reno-13f-5g/luminous-blue-4.webp",
+            "alt": "OPPO Reno 13F 5G Azul luminoso · vista 4",
+            "view": "Vista 4",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/kH70phQDk6XyD7Ch.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/kH70phQDk6XyD7Ch.png"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/oppo-reno-13f-5g/plume-purple-1.webp",
+        "alt": "OPPO Reno 13F 5G Púrpura · vista 1",
+        "view": "Vista 1",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/wgo60SIRLHmkwIrw.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/wgo60SIRLHmkwIrw.png"
+      },
+      {
+        "src": "/images/products/oppo-reno-13f-5g/plume-purple-2.webp",
+        "alt": "OPPO Reno 13F 5G Púrpura · vista 2",
+        "view": "Vista 2",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/0YZtPqnovBPEPUzO.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/0YZtPqnovBPEPUzO.png"
+      },
+      {
+        "src": "/images/products/oppo-reno-13f-5g/plume-purple-3.webp",
+        "alt": "OPPO Reno 13F 5G Púrpura · vista 3",
+        "view": "Vista 3",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/s5sQHQ7sd88YrZ1Q.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/s5sQHQ7sd88YrZ1Q.png"
+      },
+      {
+        "src": "/images/products/oppo-reno-13f-5g/plume-purple-4.webp",
+        "alt": "OPPO Reno 13F 5G Púrpura · vista 4",
+        "view": "Vista 4",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/aS753Gv45pql5BO4.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/aS753Gv45pql5BO4.png"
+      }
+    ]
+  },
+  "OPPO|A5 4G": {
+    "sourceUrl": "https://www.oppo.com/es/product/oppo-a5.P.P1100195",
+    "sourceName": "OPPO · tienda oficial España",
+    "status": "complete",
+    "note": "Colores y fotografías de la tienda oficial. La disponibilidad del proveedor se confirma por separado.",
+    "colors": [
+      {
+        "key": "dark-purple",
+        "label": "Púrpura oscuro",
+        "hex": "#4a374e",
+        "images": [
+          {
+            "src": "/images/products/oppo-a5-4g/dark-purple-1.webp",
+            "alt": "OPPO A5 4G Púrpura oscuro · vista 1",
+            "view": "Vista 1",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/U0vS7EC2bRSFArrv.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/U0vS7EC2bRSFArrv.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-4g/dark-purple-2.webp",
+            "alt": "OPPO A5 4G Púrpura oscuro · vista 2",
+            "view": "Vista 2",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/XmPkKVPKXBRBh0eJ.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/XmPkKVPKXBRBh0eJ.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-4g/dark-purple-3.webp",
+            "alt": "OPPO A5 4G Púrpura oscuro · vista 3",
+            "view": "Vista 3",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/mIwdXSxGYC76SR0V.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/mIwdXSxGYC76SR0V.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-4g/dark-purple-4.webp",
+            "alt": "OPPO A5 4G Púrpura oscuro · vista 4",
+            "view": "Vista 4",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/y7Oi9G2FPtKZ2hWj.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/y7Oi9G2FPtKZ2hWj.png"
+          }
+        ]
+      },
+      {
+        "key": "mist-white",
+        "label": "Blanco niebla",
+        "hex": "#e9e8e3",
+        "images": [
+          {
+            "src": "/images/products/oppo-a5-4g/mist-white-1.webp",
+            "alt": "OPPO A5 4G Blanco niebla · vista 1",
+            "view": "Vista 1",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/qPgzqS1vwAcbiBEe.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/qPgzqS1vwAcbiBEe.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-4g/mist-white-2.webp",
+            "alt": "OPPO A5 4G Blanco niebla · vista 2",
+            "view": "Vista 2",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/r3xYbbFwFxENwWke.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/r3xYbbFwFxENwWke.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-4g/mist-white-3.webp",
+            "alt": "OPPO A5 4G Blanco niebla · vista 3",
+            "view": "Vista 3",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/gNXWtrnPCguG10C3.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/gNXWtrnPCguG10C3.png"
+          },
+          {
+            "src": "/images/products/oppo-a5-4g/mist-white-4.webp",
+            "alt": "OPPO A5 4G Blanco niebla · vista 4",
+            "view": "Vista 4",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/Vr2WDabdEFmB78xw.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/Vr2WDabdEFmB78xw.png"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/oppo-a5-4g/dark-purple-1.webp",
+        "alt": "OPPO A5 4G Púrpura oscuro · vista 1",
+        "view": "Vista 1",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/U0vS7EC2bRSFArrv.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/U0vS7EC2bRSFArrv.png"
+      },
+      {
+        "src": "/images/products/oppo-a5-4g/dark-purple-2.webp",
+        "alt": "OPPO A5 4G Púrpura oscuro · vista 2",
+        "view": "Vista 2",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/XmPkKVPKXBRBh0eJ.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/XmPkKVPKXBRBh0eJ.png"
+      },
+      {
+        "src": "/images/products/oppo-a5-4g/dark-purple-3.webp",
+        "alt": "OPPO A5 4G Púrpura oscuro · vista 3",
+        "view": "Vista 3",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/mIwdXSxGYC76SR0V.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/mIwdXSxGYC76SR0V.png"
+      },
+      {
+        "src": "/images/products/oppo-a5-4g/dark-purple-4.webp",
+        "alt": "OPPO A5 4G Púrpura oscuro · vista 4",
+        "view": "Vista 4",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/y7Oi9G2FPtKZ2hWj.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202507/02/y7Oi9G2FPtKZ2hWj.png"
+      }
+    ]
+  },
+  "OPPO|A40": {
+    "sourceUrl": "https://www.oppo.com/es/product/oppo-a40.P.P1100199",
+    "sourceName": "OPPO · tienda oficial España",
+    "status": "complete",
+    "note": "Colores y fotografías de la tienda oficial. La disponibilidad del proveedor se confirma por separado.",
+    "colors": [
+      {
+        "key": "starry-purple",
+        "label": "Púrpura estelar",
+        "hex": "#9a92ae",
+        "images": [
+          {
+            "src": "/images/products/oppo-a40/starry-purple-1.webp",
+            "alt": "OPPO A40 Púrpura estelar · vista 1",
+            "view": "Vista 1",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/SOCgVdwKhfwt54rT.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/SOCgVdwKhfwt54rT.png"
+          },
+          {
+            "src": "/images/products/oppo-a40/starry-purple-2.webp",
+            "alt": "OPPO A40 Púrpura estelar · vista 2",
+            "view": "Vista 2",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/rtHnVcKOVF3SxJju.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/rtHnVcKOVF3SxJju.png"
+          },
+          {
+            "src": "/images/products/oppo-a40/starry-purple-3.webp",
+            "alt": "OPPO A40 Púrpura estelar · vista 3",
+            "view": "Vista 3",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/D12Yg0SwC0DncCWL.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/D12Yg0SwC0DncCWL.png"
+          },
+          {
+            "src": "/images/products/oppo-a40/starry-purple-4.webp",
+            "alt": "OPPO A40 Púrpura estelar · vista 4",
+            "view": "Vista 4",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/m1gsNl9aIf5PbqYg.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/m1gsNl9aIf5PbqYg.png"
+          }
+        ]
+      },
+      {
+        "key": "sparkle-black",
+        "label": "Negro brillante",
+        "hex": "#25282b",
+        "images": [
+          {
+            "src": "/images/products/oppo-a40/sparkle-black-1.webp",
+            "alt": "OPPO A40 Negro brillante · vista 1",
+            "view": "Vista 1",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/uIyUwmFwgqDfK9jp.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/uIyUwmFwgqDfK9jp.png"
+          },
+          {
+            "src": "/images/products/oppo-a40/sparkle-black-2.webp",
+            "alt": "OPPO A40 Negro brillante · vista 2",
+            "view": "Vista 2",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/OR3B2B9mbI2Up179.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/OR3B2B9mbI2Up179.png"
+          },
+          {
+            "src": "/images/products/oppo-a40/sparkle-black-3.webp",
+            "alt": "OPPO A40 Negro brillante · vista 3",
+            "view": "Vista 3",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/QgoHV1Oc08zFpJSJ.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/QgoHV1Oc08zFpJSJ.png"
+          },
+          {
+            "src": "/images/products/oppo-a40/sparkle-black-4.webp",
+            "alt": "OPPO A40 Negro brillante · vista 4",
+            "view": "Vista 4",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/obwr75T7Y5gXpgdf.png",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/obwr75T7Y5gXpgdf.png"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/oppo-a40/starry-purple-1.webp",
+        "alt": "OPPO A40 Púrpura estelar · vista 1",
+        "view": "Vista 1",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/SOCgVdwKhfwt54rT.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202512/17/SOCgVdwKhfwt54rT.png"
+      },
+      {
+        "src": "/images/products/oppo-a40/starry-purple-2.webp",
+        "alt": "OPPO A40 Púrpura estelar · vista 2",
+        "view": "Vista 2",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/rtHnVcKOVF3SxJju.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/rtHnVcKOVF3SxJju.png"
+      },
+      {
+        "src": "/images/products/oppo-a40/starry-purple-3.webp",
+        "alt": "OPPO A40 Púrpura estelar · vista 3",
+        "view": "Vista 3",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/D12Yg0SwC0DncCWL.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/D12Yg0SwC0DncCWL.png"
+      },
+      {
+        "src": "/images/products/oppo-a40/starry-purple-4.webp",
+        "alt": "OPPO A40 Púrpura estelar · vista 4",
+        "view": "Vista 4",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/m1gsNl9aIf5PbqYg.png",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/m1gsNl9aIf5PbqYg.png"
+      }
+    ]
+  },
+  "OPPO|A60": {
+    "sourceUrl": "https://www.oppo.com/es/product/oppo-a60.P.P1100194",
+    "sourceName": "OPPO · tienda oficial España",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "p-rpura-medianoche",
+        "label": "Púrpura medianoche",
+        "hex": "#62536e",
+        "images": [
+          {
+            "src": "/images/products/oppo-a60/p-rpura-medianoche-1.webp",
+            "alt": "OPPO A60 Púrpura medianoche · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/L3Yqe6jIO9gwJB0j.png",
+            "colorLabel": "Púrpura medianoche",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/L3Yqe6jIO9gwJB0j.png"
+          },
+          {
+            "src": "/images/products/oppo-a60/p-rpura-medianoche-2.webp",
+            "alt": "OPPO A60 Púrpura medianoche · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/LqGTohp1OjP2bc5T.png",
+            "colorLabel": "Púrpura medianoche",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/LqGTohp1OjP2bc5T.png"
+          },
+          {
+            "src": "/images/products/oppo-a60/p-rpura-medianoche-3.webp",
+            "alt": "OPPO A60 Púrpura medianoche · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/yCHUHk5xTP4ihNFy.png",
+            "colorLabel": "Púrpura medianoche",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/yCHUHk5xTP4ihNFy.png"
+          },
+          {
+            "src": "/images/products/oppo-a60/p-rpura-medianoche-4.webp",
+            "alt": "OPPO A60 Púrpura medianoche · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/49O9OuB2Xo7oMcWf.png",
+            "colorLabel": "Púrpura medianoche",
+            "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/49O9OuB2Xo7oMcWf.png"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/oppo-a60/p-rpura-medianoche-1.webp",
+        "alt": "OPPO A60 Púrpura medianoche · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/L3Yqe6jIO9gwJB0j.png",
+        "colorLabel": "Púrpura medianoche",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/L3Yqe6jIO9gwJB0j.png"
+      },
+      {
+        "src": "/images/products/oppo-a60/p-rpura-medianoche-2.webp",
+        "alt": "OPPO A60 Púrpura medianoche · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/LqGTohp1OjP2bc5T.png",
+        "colorLabel": "Púrpura medianoche",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/LqGTohp1OjP2bc5T.png"
+      },
+      {
+        "src": "/images/products/oppo-a60/p-rpura-medianoche-3.webp",
+        "alt": "OPPO A60 Púrpura medianoche · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/yCHUHk5xTP4ihNFy.png",
+        "colorLabel": "Púrpura medianoche",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/yCHUHk5xTP4ihNFy.png"
+      },
+      {
+        "src": "/images/products/oppo-a60/p-rpura-medianoche-4.webp",
+        "alt": "OPPO A60 Púrpura medianoche · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/49O9OuB2Xo7oMcWf.png",
+        "colorLabel": "Púrpura medianoche",
+        "sourceAssetUrl": "https://opsg-imgcdn-eu.heytapimg.com/epb/202506/13/49O9OuB2Xo7oMcWf.png"
+      }
+    ]
+  },
+  "OPPO|A18": {
+    "sourceUrl": "https://www.ielectro.es/product/oppo-a18-black-4128gb-656-hd",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#24272b",
+        "images": [
+          {
+            "src": "/images/products/oppo-a18/negro-1.webp",
+            "alt": "OPPO A18 Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/29445.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/29445.webp"
+          },
+          {
+            "src": "/images/products/oppo-a18/negro-2.webp",
+            "alt": "OPPO A18 Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/29445-4.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/29445-4.webp"
+          },
+          {
+            "src": "/images/products/oppo-a18/negro-3.webp",
+            "alt": "OPPO A18 Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/29445-2.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/29445-2.webp"
+          },
+          {
+            "src": "/images/products/oppo-a18/negro-4.webp",
+            "alt": "OPPO A18 Negro · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/29445-5.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/29445-5.webp"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/oppo-a18/negro-1.webp",
+        "alt": "OPPO A18 Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/29445.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/29445.webp"
+      },
+      {
+        "src": "/images/products/oppo-a18/negro-2.webp",
+        "alt": "OPPO A18 Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/29445-4.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/29445-4.webp"
+      },
+      {
+        "src": "/images/products/oppo-a18/negro-3.webp",
+        "alt": "OPPO A18 Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/29445-2.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/29445-2.webp"
+      },
+      {
+        "src": "/images/products/oppo-a18/negro-4.webp",
+        "alt": "OPPO A18 Negro · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/29445-5.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/29445-5.webp"
+      }
+    ]
+  },
+  "OPPO|A38": {
+    "sourceUrl": "https://www.arpotelecomunicaciones.es/es/telefonos-moviles-tablets/14803-oppo-a38-128gb-8400000148030.html",
+    "sourceName": "Arpo Telecomunicaciones",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#26282b",
+        "images": [
+          {
+            "src": "/images/products/oppo-a38/negro-1.webp",
+            "alt": "OPPO A38 Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/34256/oppo-a38-128gb.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34256/oppo-a38-128gb.jpg"
+          },
+          {
+            "src": "/images/products/oppo-a38/negro-2.webp",
+            "alt": "OPPO A38 Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/34257/oppo-a38-128gb.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34257/oppo-a38-128gb.jpg"
+          },
+          {
+            "src": "/images/products/oppo-a38/negro-3.webp",
+            "alt": "OPPO A38 Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/34258/oppo-a38-128gb.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34258/oppo-a38-128gb.jpg"
+          }
+        ]
+      },
+      {
+        "key": "dorado",
+        "label": "Dorado",
+        "hex": "#e3d2a8",
+        "images": [
+          {
+            "src": "/images/products/oppo-a38/dorado-1.webp",
+            "alt": "OPPO A38 Dorado · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/34259/oppo-a38-128gb.jpg",
+            "colorLabel": "Dorado",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34259/oppo-a38-128gb.jpg"
+          },
+          {
+            "src": "/images/products/oppo-a38/dorado-2.webp",
+            "alt": "OPPO A38 Dorado · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/34260/oppo-a38-128gb.jpg",
+            "colorLabel": "Dorado",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34260/oppo-a38-128gb.jpg"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/oppo-a38/negro-1.webp",
+        "alt": "OPPO A38 Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/34256/oppo-a38-128gb.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34256/oppo-a38-128gb.jpg"
+      },
+      {
+        "src": "/images/products/oppo-a38/negro-2.webp",
+        "alt": "OPPO A38 Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/34257/oppo-a38-128gb.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34257/oppo-a38-128gb.jpg"
+      },
+      {
+        "src": "/images/products/oppo-a38/negro-3.webp",
+        "alt": "OPPO A38 Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/34258/oppo-a38-128gb.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34258/oppo-a38-128gb.jpg"
+      },
+      {
+        "src": "/images/products/oppo-a38/dorado-1.webp",
+        "alt": "OPPO A38 Dorado · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/34259/oppo-a38-128gb.jpg",
+        "colorLabel": "Dorado",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34259/oppo-a38-128gb.jpg"
+      }
+    ]
+  },
+  "OPPO|A58": {
+    "sourceUrl": "https://www.fnac.es/OPPO-A58-6-72-128GB-Negro-Telefono-movil-Smartphone/a10414463",
+    "sourceName": "Fnac España y Arpo Telecomunicaciones",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro-brillante",
+        "label": "Negro brillante",
+        "hex": "#343c3c",
+        "images": [
+          {
+            "src": "/images/products/oppo-a58/negro-brillante-1.webp",
+            "alt": "OPPO A58 Negro brillante · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/34266/oppo-a58-128gb.jpg",
+            "colorLabel": "Negro brillante",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34266/oppo-a58-128gb.jpg"
+          },
+          {
+            "src": "/images/products/oppo-a58/negro-brillante-2.webp",
+            "alt": "OPPO A58 Negro brillante · Vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-1.jpg",
+            "colorLabel": "Negro brillante",
+            "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-1.jpg"
+          },
+          {
+            "src": "/images/products/oppo-a58/negro-brillante-3.webp",
+            "alt": "OPPO A58 Negro brillante · Trasera en perspectiva",
+            "view": "Trasera en perspectiva",
+            "sourceUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-2.jpg",
+            "colorLabel": "Negro brillante",
+            "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-2.jpg"
+          },
+          {
+            "src": "/images/products/oppo-a58/negro-brillante-4.webp",
+            "alt": "OPPO A58 Negro brillante · Perfiles laterales",
+            "view": "Perfiles laterales",
+            "sourceUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-4.jpg",
+            "colorLabel": "Negro brillante",
+            "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-4.jpg"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/oppo-a58/negro-brillante-1.webp",
+        "alt": "OPPO A58 Negro brillante · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/34266/oppo-a58-128gb.jpg",
+        "colorLabel": "Negro brillante",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/34266/oppo-a58-128gb.jpg"
+      },
+      {
+        "src": "/images/products/oppo-a58/negro-brillante-2.webp",
+        "alt": "OPPO A58 Negro brillante · Vista trasera",
+        "view": "Vista trasera",
+        "sourceUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-1.jpg",
+        "colorLabel": "Negro brillante",
+        "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-1.jpg"
+      },
+      {
+        "src": "/images/products/oppo-a58/negro-brillante-3.webp",
+        "alt": "OPPO A58 Negro brillante · Trasera en perspectiva",
+        "view": "Trasera en perspectiva",
+        "sourceUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-2.jpg",
+        "colorLabel": "Negro brillante",
+        "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-2.jpg"
+      },
+      {
+        "src": "/images/products/oppo-a58/negro-brillante-4.webp",
+        "alt": "OPPO A58 Negro brillante · Perfiles laterales",
+        "view": "Perfiles laterales",
+        "sourceUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-4.jpg",
+        "colorLabel": "Negro brillante",
+        "sourceAssetUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/31/c9/82/8571185/1541-4.jpg"
+      }
+    ]
+  },
+  "ZTE|Blade V80 Vita 4G": {
+    "sourceUrl": "https://mediamarkt.pl/pl/product/_smartfon-zte-blade-v80-vita-4g-lte-4-gb-256-gb-czarny-175308240.html",
+    "sourceName": "MediaMarkt · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#343538",
+        "images": [
+          {
+            "src": "/images/products/zte-blade-v80-vita-4g/black-1.webp",
+            "alt": "ZTE Blade V80 Vita 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183123626?format=webp&quality=88&x=1000&y=1000",
+            "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183123626?format=webp&quality=88&x=1000&y=1000",
+            "colorLabel": "Negro"
+          },
+          {
+            "src": "/images/products/zte-blade-v80-vita-4g/black-2.webp",
+            "alt": "ZTE Blade V80 Vita 4G Negro · Detalle de cámaras",
+            "view": "Detalle de cámaras",
+            "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183123628?format=webp&quality=88&x=1000&y=1000",
+            "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183123628?format=webp&quality=88&x=1000&y=1000",
+            "colorLabel": "Negro"
+          },
+          {
+            "src": "/images/products/zte-blade-v80-vita-4g/black-3.webp",
+            "alt": "ZTE Blade V80 Vita 4G Negro · Vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181846875?format=webp&quality=88&x=1000&y=1000",
+            "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181846875?format=webp&quality=88&x=1000&y=1000",
+            "colorLabel": "Negro"
+          },
+          {
+            "src": "/images/products/zte-blade-v80-vita-4g/black-4.webp",
+            "alt": "ZTE Blade V80 Vita 4G Negro · Frontal en perspectiva",
+            "view": "Frontal en perspectiva",
+            "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181846876?format=webp&quality=88&x=1000&y=1000",
+            "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181846876?format=webp&quality=88&x=1000&y=1000",
+            "colorLabel": "Negro"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/zte-blade-v80-vita-4g/black-1.webp",
+        "alt": "ZTE Blade V80 Vita 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183123626?format=webp&quality=88&x=1000&y=1000",
+        "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183123626?format=webp&quality=88&x=1000&y=1000",
+        "colorLabel": "Negro"
+      },
+      {
+        "src": "/images/products/zte-blade-v80-vita-4g/black-2.webp",
+        "alt": "ZTE Blade V80 Vita 4G Negro · Detalle de cámaras",
+        "view": "Detalle de cámaras",
+        "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183123628?format=webp&quality=88&x=1000&y=1000",
+        "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183123628?format=webp&quality=88&x=1000&y=1000",
+        "colorLabel": "Negro"
+      },
+      {
+        "src": "/images/products/zte-blade-v80-vita-4g/black-3.webp",
+        "alt": "ZTE Blade V80 Vita 4G Negro · Vista trasera",
+        "view": "Vista trasera",
+        "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181846875?format=webp&quality=88&x=1000&y=1000",
+        "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181846875?format=webp&quality=88&x=1000&y=1000",
+        "colorLabel": "Negro"
+      },
+      {
+        "src": "/images/products/zte-blade-v80-vita-4g/black-4.webp",
+        "alt": "ZTE Blade V80 Vita 4G Negro · Frontal en perspectiva",
+        "view": "Frontal en perspectiva",
+        "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181846876?format=webp&quality=88&x=1000&y=1000",
+        "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181846876?format=webp&quality=88&x=1000&y=1000",
+        "colorLabel": "Negro"
+      }
+    ]
+  },
+  "ZTE|Blade V80 Max 4G": {
+    "sourceUrl": "https://www.mediamarkt.es/es/product/_zte-v80-max-black-movil-android-128-gb-4-gb-ram-69-octa-core-processor-6000-mah-175132683.html",
+    "sourceName": "MediaMarkt · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#343538",
+        "images": [
+          {
+            "src": "/images/products/zte-blade-v80-max-4g/black-1.webp",
+            "alt": "ZTE Blade V80 Max 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_175161006?format=webp&quality=88&x=1000&y=1000",
+            "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_175161006?format=webp&quality=88&x=1000&y=1000",
+            "colorLabel": "Negro"
+          },
+          {
+            "src": "/images/products/zte-blade-v80-max-4g/black-2.webp",
+            "alt": "ZTE Blade V80 Max 4G Negro · Trasera en perspectiva",
+            "view": "Trasera en perspectiva",
+            "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178862936?format=webp&quality=88&x=1000&y=1000",
+            "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178862936?format=webp&quality=88&x=1000&y=1000",
+            "colorLabel": "Negro"
+          },
+          {
+            "src": "/images/products/zte-blade-v80-max-4g/black-3.webp",
+            "alt": "ZTE Blade V80 Max 4G Negro · Cámaras y acabado",
+            "view": "Cámaras y acabado",
+            "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178862937?format=webp&quality=88&x=1000&y=1000",
+            "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178862937?format=webp&quality=88&x=1000&y=1000",
+            "colorLabel": "Negro"
+          },
+          {
+            "src": "/images/products/zte-blade-v80-max-4g/black-4.webp",
+            "alt": "ZTE Blade V80 Max 4G Negro · Vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181847651?format=webp&quality=88&x=1000&y=1000",
+            "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181847651?format=webp&quality=88&x=1000&y=1000",
+            "colorLabel": "Negro"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/zte-blade-v80-max-4g/black-1.webp",
+        "alt": "ZTE Blade V80 Max 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_175161006?format=webp&quality=88&x=1000&y=1000",
+        "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_175161006?format=webp&quality=88&x=1000&y=1000",
+        "colorLabel": "Negro"
+      },
+      {
+        "src": "/images/products/zte-blade-v80-max-4g/black-2.webp",
+        "alt": "ZTE Blade V80 Max 4G Negro · Trasera en perspectiva",
+        "view": "Trasera en perspectiva",
+        "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178862936?format=webp&quality=88&x=1000&y=1000",
+        "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178862936?format=webp&quality=88&x=1000&y=1000",
+        "colorLabel": "Negro"
+      },
+      {
+        "src": "/images/products/zte-blade-v80-max-4g/black-3.webp",
+        "alt": "ZTE Blade V80 Max 4G Negro · Cámaras y acabado",
+        "view": "Cámaras y acabado",
+        "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178862937?format=webp&quality=88&x=1000&y=1000",
+        "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178862937?format=webp&quality=88&x=1000&y=1000",
+        "colorLabel": "Negro"
+      },
+      {
+        "src": "/images/products/zte-blade-v80-max-4g/black-4.webp",
+        "alt": "ZTE Blade V80 Max 4G Negro · Vista trasera",
+        "view": "Vista trasera",
+        "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181847651?format=webp&quality=88&x=1000&y=1000",
+        "sourceAssetUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_181847651?format=webp&quality=88&x=1000&y=1000",
+        "colorLabel": "Negro"
+      }
+    ]
+  },
+  "ZTE|Blade A35E 4G": {
+    "sourceUrl": "https://www.ielectro.es/product/zte-blade-a35e-gary-264gb-652-hd",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "gris",
+        "label": "Gris",
+        "hex": "#747875",
+        "images": [
+          {
+            "src": "/images/products/zte-blade-a35e-4g/gris-1.webp",
+            "alt": "ZTE Blade A35E 4G Gris · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34831.webp",
+            "colorLabel": "Gris",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34831.webp"
+          },
+          {
+            "src": "/images/products/zte-blade-a35e-4g/gris-2.webp",
+            "alt": "ZTE Blade A35E 4G Gris · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34831-1.webp",
+            "colorLabel": "Gris",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34831-1.webp"
+          },
+          {
+            "src": "/images/products/zte-blade-a35e-4g/gris-3.webp",
+            "alt": "ZTE Blade A35E 4G Gris · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34831-2.webp",
+            "colorLabel": "Gris",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34831-2.webp"
+          }
+        ]
+      },
+      {
+        "key": "verde",
+        "label": "Verde",
+        "hex": "#40cdb4",
+        "images": [
+          {
+            "src": "/images/products/zte-blade-a35e-4g/verde-1.webp",
+            "alt": "ZTE Blade A35E 4G Verde · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34830.webp",
+            "colorLabel": "Verde",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34830.webp"
+          },
+          {
+            "src": "/images/products/zte-blade-a35e-4g/verde-2.webp",
+            "alt": "ZTE Blade A35E 4G Verde · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34830-1.webp",
+            "colorLabel": "Verde",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34830-1.webp"
+          },
+          {
+            "src": "/images/products/zte-blade-a35e-4g/verde-3.webp",
+            "alt": "ZTE Blade A35E 4G Verde · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34830-2.webp",
+            "colorLabel": "Verde",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34830-2.webp"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/zte-blade-a35e-4g/gris-1.webp",
+        "alt": "ZTE Blade A35E 4G Gris · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34831.webp",
+        "colorLabel": "Gris",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34831.webp"
+      },
+      {
+        "src": "/images/products/zte-blade-a35e-4g/gris-2.webp",
+        "alt": "ZTE Blade A35E 4G Gris · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34831-1.webp",
+        "colorLabel": "Gris",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34831-1.webp"
+      },
+      {
+        "src": "/images/products/zte-blade-a35e-4g/gris-3.webp",
+        "alt": "ZTE Blade A35E 4G Gris · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34831-2.webp",
+        "colorLabel": "Gris",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34831-2.webp"
+      },
+      {
+        "src": "/images/products/zte-blade-a35e-4g/verde-1.webp",
+        "alt": "ZTE Blade A35E 4G Verde · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34830.webp",
+        "colorLabel": "Verde",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34830.webp"
+      }
+    ]
+  },
+  "ZTE|Blade A57": {
+    "sourceUrl": "https://www.ielectro.es/product/zte-blade-a57-4g-silver-4128gb-675-120hz-hd",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "plata",
+        "label": "Plata",
+        "hex": "#c7c5c1",
+        "images": [
+          {
+            "src": "/images/products/zte-blade-a57/plata-1.webp",
+            "alt": "ZTE Blade A57 Plata · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35044.webp",
+            "colorLabel": "Plata",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35044.webp"
+          },
+          {
+            "src": "/images/products/zte-blade-a57/plata-2.webp",
+            "alt": "ZTE Blade A57 Plata · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35044-1.webp",
+            "colorLabel": "Plata",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35044-1.webp"
+          },
+          {
+            "src": "/images/products/zte-blade-a57/plata-3.webp",
+            "alt": "ZTE Blade A57 Plata · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35044-2.webp",
+            "colorLabel": "Plata",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35044-2.webp"
+          },
+          {
+            "src": "/images/products/zte-blade-a57/plata-4.webp",
+            "alt": "ZTE Blade A57 Plata · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35044-3.webp",
+            "colorLabel": "Plata",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35044-3.webp"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/zte-blade-a57/plata-1.webp",
+        "alt": "ZTE Blade A57 Plata · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35044.webp",
+        "colorLabel": "Plata",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35044.webp"
+      },
+      {
+        "src": "/images/products/zte-blade-a57/plata-2.webp",
+        "alt": "ZTE Blade A57 Plata · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35044-1.webp",
+        "colorLabel": "Plata",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35044-1.webp"
+      },
+      {
+        "src": "/images/products/zte-blade-a57/plata-3.webp",
+        "alt": "ZTE Blade A57 Plata · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35044-2.webp",
+        "colorLabel": "Plata",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35044-2.webp"
+      },
+      {
+        "src": "/images/products/zte-blade-a57/plata-4.webp",
+        "alt": "ZTE Blade A57 Plata · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35044-3.webp",
+        "colorLabel": "Plata",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35044-3.webp"
+      }
+    ]
+  },
+  "ZTE|Nubia Focus 4G": {
+    "sourceUrl": "https://www.tia.com.ec/tecnologia/celulares-tablets-y-complementos/celulares/celular-nubia-focus-4g-4gb-256gb-zte-negro-ref-0zte12-152381001.html",
+    "sourceName": "Tía Ecuador y ZTE · identificación pendiente",
+    "status": "unverified",
+    "colors": [],
+    "images": [],
+    "note": "La lista del proveedor dice Nubia Focus 4G. Hay una ficha comercial con ese nombre, pero utiliza Unisoc T760 y el diseño 5G oficial. Se necesita EAN o referencia exacta para atribuir fotografías; no se sustituyen por las 5G.",
+    "verificationSources": [
+      "https://www.tia.com.ec/tecnologia/celulares-tablets-y-complementos/celulares/celular-nubia-focus-4g-4gb-256gb-zte-negro-ref-0zte12-152381001.html",
+      "https://www.ztedevices.com.my/nubia/nubia-focus/nubia-focus-5g",
+      "https://ztemobiles.com.au/nubia-focus-5g/"
+    ]
+  },
+  "TCL|605": {
+    "sourceUrl": "https://www.tcl.com/es/es/mobile/tcl-605",
+    "sourceName": "TCL · web oficial España",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro-estrellado",
+        "label": "Negro estrellado",
+        "hex": "#202124",
+        "images": [
+          {
+            "src": "/images/products/tcl-605/negro-estrellado-1.webp",
+            "alt": "TCL 605 Negro estrellado · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://aws-obg-image-lb-5.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/6.png",
+            "colorLabel": "Negro estrellado",
+            "sourceAssetUrl": "https://aws-obg-image-lb-5.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/6.png"
+          },
+          {
+            "src": "/images/products/tcl-605/negro-estrellado-2.webp",
+            "alt": "TCL 605 Negro estrellado · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://aws-obg-image-lb-1.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/7.jpg",
+            "colorLabel": "Negro estrellado",
+            "sourceAssetUrl": "https://aws-obg-image-lb-1.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/7.jpg"
+          },
+          {
+            "src": "/images/products/tcl-605/negro-estrellado-3.webp",
+            "alt": "TCL 605 Negro estrellado · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://aws-obg-image-lb-4.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/8.jpg",
+            "colorLabel": "Negro estrellado",
+            "sourceAssetUrl": "https://aws-obg-image-lb-4.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/8.jpg"
+          },
+          {
+            "src": "/images/products/tcl-605/negro-estrellado-4.webp",
+            "alt": "TCL 605 Negro estrellado · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://aws-obg-image-lb-4.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/10.jpg",
+            "colorLabel": "Negro estrellado",
+            "sourceAssetUrl": "https://aws-obg-image-lb-4.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/10.jpg"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/tcl-605/negro-estrellado-1.webp",
+        "alt": "TCL 605 Negro estrellado · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://aws-obg-image-lb-5.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/6.png",
+        "colorLabel": "Negro estrellado",
+        "sourceAssetUrl": "https://aws-obg-image-lb-5.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/6.png"
+      },
+      {
+        "src": "/images/products/tcl-605/negro-estrellado-2.webp",
+        "alt": "TCL 605 Negro estrellado · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://aws-obg-image-lb-1.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/7.jpg",
+        "colorLabel": "Negro estrellado",
+        "sourceAssetUrl": "https://aws-obg-image-lb-1.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/7.jpg"
+      },
+      {
+        "src": "/images/products/tcl-605/negro-estrellado-3.webp",
+        "alt": "TCL 605 Negro estrellado · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://aws-obg-image-lb-4.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/8.jpg",
+        "colorLabel": "Negro estrellado",
+        "sourceAssetUrl": "https://aws-obg-image-lb-4.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/8.jpg"
+      },
+      {
+        "src": "/images/products/tcl-605/negro-estrellado-4.webp",
+        "alt": "TCL 605 Negro estrellado · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://aws-obg-image-lb-4.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/10.jpg",
+        "colorLabel": "Negro estrellado",
+        "sourceAssetUrl": "https://aws-obg-image-lb-4.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-605/id-images/10.jpg"
+      }
+    ]
+  },
+  "Qubo|NEONW 4G": {
+    "sourceUrl": "https://www.ielectro.es/product/qubo-senior-neonw-bk-4g-negro-movil-24",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#273d48",
+        "images": [
+          {
+            "src": "/images/products/qubo-neonw-4g/negro-1.webp",
+            "alt": "Qubo NEONW 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/33290.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33290.webp"
+          },
+          {
+            "src": "/images/products/qubo-neonw-4g/negro-2.webp",
+            "alt": "Qubo NEONW 4G Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/33290-2.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33290-2.webp"
+          },
+          {
+            "src": "/images/products/qubo-neonw-4g/negro-3.webp",
+            "alt": "Qubo NEONW 4G Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/33290-3.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33290-3.webp"
+          },
+          {
+            "src": "/images/products/qubo-neonw-4g/negro-4.webp",
+            "alt": "Qubo NEONW 4G Negro · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/33290-4.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33290-4.webp"
+          }
+        ]
+      },
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#244e7b",
+        "images": [
+          {
+            "src": "/images/products/qubo-neonw-4g/azul-1.webp",
+            "alt": "Qubo NEONW 4G Azul · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34377.webp",
+            "colorLabel": "Azul",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34377.webp"
+          },
+          {
+            "src": "/images/products/qubo-neonw-4g/azul-2.webp",
+            "alt": "Qubo NEONW 4G Azul · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34377-1.webp",
+            "colorLabel": "Azul",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34377-1.webp"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-neonw-4g/negro-1.webp",
+        "alt": "Qubo NEONW 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/33290.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33290.webp"
+      },
+      {
+        "src": "/images/products/qubo-neonw-4g/negro-2.webp",
+        "alt": "Qubo NEONW 4G Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/33290-2.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33290-2.webp"
+      },
+      {
+        "src": "/images/products/qubo-neonw-4g/negro-3.webp",
+        "alt": "Qubo NEONW 4G Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/33290-3.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33290-3.webp"
+      },
+      {
+        "src": "/images/products/qubo-neonw-4g/negro-4.webp",
+        "alt": "Qubo NEONW 4G Negro · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/33290-4.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33290-4.webp"
+      }
+    ]
+  },
+  "Qubo|P190 4G": {
+    "sourceUrl": "https://www.ielectro.es/product/qubo-p-190bkc-4g-black-movil-2",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#262729",
+        "images": [
+          {
+            "src": "/images/products/qubo-p190-4g/negro-1.webp",
+            "alt": "Qubo P190 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34751.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34751.webp"
+          },
+          {
+            "src": "/images/products/qubo-p190-4g/negro-2.webp",
+            "alt": "Qubo P190 4G Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34751-2.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34751-2.webp"
+          },
+          {
+            "src": "/images/products/qubo-p190-4g/negro-3.webp",
+            "alt": "Qubo P190 4G Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34751-3.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34751-3.webp"
+          },
+          {
+            "src": "/images/products/qubo-p190-4g/negro-4.webp",
+            "alt": "Qubo P190 4G Negro · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34751-4.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34751-4.webp"
+          }
+        ]
+      },
+      {
+        "key": "rojo",
+        "label": "Rojo",
+        "hex": "#ae302e",
+        "images": [
+          {
+            "src": "/images/products/qubo-p190-4g/rojo-1.webp",
+            "alt": "Qubo P190 4G Rojo · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34752.webp",
+            "colorLabel": "Rojo",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34752.webp"
+          },
+          {
+            "src": "/images/products/qubo-p190-4g/rojo-2.webp",
+            "alt": "Qubo P190 4G Rojo · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34752-1.webp",
+            "colorLabel": "Rojo",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34752-1.webp"
+          },
+          {
+            "src": "/images/products/qubo-p190-4g/rojo-3.webp",
+            "alt": "Qubo P190 4G Rojo · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34752-2.webp",
+            "colorLabel": "Rojo",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34752-2.webp"
+          },
+          {
+            "src": "/images/products/qubo-p190-4g/rojo-4.webp",
+            "alt": "Qubo P190 4G Rojo · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34752-3.webp",
+            "colorLabel": "Rojo",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34752-3.webp"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-p190-4g/negro-1.webp",
+        "alt": "Qubo P190 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34751.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34751.webp"
+      },
+      {
+        "src": "/images/products/qubo-p190-4g/negro-2.webp",
+        "alt": "Qubo P190 4G Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34751-2.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34751-2.webp"
+      },
+      {
+        "src": "/images/products/qubo-p190-4g/negro-3.webp",
+        "alt": "Qubo P190 4G Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34751-3.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34751-3.webp"
+      },
+      {
+        "src": "/images/products/qubo-p190-4g/negro-4.webp",
+        "alt": "Qubo P190 4G Negro · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34751-4.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34751-4.webp"
+      }
+    ]
+  },
+  "Qubo|P186BKC": {
+    "sourceUrl": "https://www.ielectro.es/product/qubo-p-186bkc-4g-black-movil-177",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#282b2d",
+        "images": [
+          {
+            "src": "/images/products/qubo-p186bkc/negro-1.webp",
+            "alt": "Qubo P186BKC Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35182.webp"
+          },
+          {
+            "src": "/images/products/qubo-p186bkc/negro-2.webp",
+            "alt": "Qubo P186BKC Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35182-1.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35182-1.webp"
+          },
+          {
+            "src": "/images/products/qubo-p186bkc/detail-keypad.webp",
+            "alt": "Qubo P186BKC Negro · Detalle del teclado (ampliación)",
+            "view": "Detalle del teclado (ampliación)",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+            "crop": [
+              590,
+              610,
+              1195,
+              1280
+            ]
+          },
+          {
+            "src": "/images/products/qubo-p186bkc/detail-screen.webp",
+            "alt": "Qubo P186BKC Negro · Detalle de la pantalla (ampliación)",
+            "view": "Detalle de la pantalla (ampliación)",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+            "crop": [
+              600,
+              85,
+              1195,
+              595
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-p186bkc/negro-1.webp",
+        "alt": "Qubo P186BKC Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35182.webp"
+      },
+      {
+        "src": "/images/products/qubo-p186bkc/negro-2.webp",
+        "alt": "Qubo P186BKC Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35182-1.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35182-1.webp"
+      },
+      {
+        "src": "/images/products/qubo-p186bkc/detail-keypad.webp",
+        "alt": "Qubo P186BKC Negro · Detalle del teclado (ampliación)",
+        "view": "Detalle del teclado (ampliación)",
+        "colorLabel": "Negro",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+        "crop": [
+          590,
+          610,
+          1195,
+          1280
+        ]
+      },
+      {
+        "src": "/images/products/qubo-p186bkc/detail-screen.webp",
+        "alt": "Qubo P186BKC Negro · Detalle de la pantalla (ampliación)",
+        "view": "Detalle de la pantalla (ampliación)",
+        "colorLabel": "Negro",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35182.webp",
+        "crop": [
+          600,
+          85,
+          1195,
+          595
+        ]
+      }
+    ],
+    "note": "Incluye detalles ampliados de las fotos catálogo; no son ángulos adicionales. Incluye detalles ampliados de las fotos de catálogo; no son ángulos adicionales."
+  },
+  "Qubo|X10": {
+    "sourceUrl": "https://www.arpotelecomunicaciones.es/es/telefonos-moviles-tablets/15449-10224-qubo-x10-8400000154499.html",
+    "sourceName": "Arpo Telecomunicaciones",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#27292a",
+        "images": [
+          {
+            "src": "/images/products/qubo-x10/negro-1.webp",
+            "alt": "Qubo X10 Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/38841/qubo-x10.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38841/qubo-x10.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x10/negro-2.webp",
+            "alt": "Qubo X10 Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/38842/qubo-x10.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38842/qubo-x10.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x10/negro-3.webp",
+            "alt": "Qubo X10 Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/38844/qubo-x10.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38844/qubo-x10.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x10/negro-4.webp",
+            "alt": "Qubo X10 Negro · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/38843/qubo-x10.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38843/qubo-x10.jpg"
+          }
+        ]
+      },
+      {
+        "key": "azul",
+        "label": "Azul",
+        "hex": "#078cb3",
+        "images": [
+          {
+            "src": "/images/products/qubo-x10/azul-1.webp",
+            "alt": "Qubo X10 Azul · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/38845/qubo-x10.jpg",
+            "colorLabel": "Azul",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38845/qubo-x10.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x10/azul-2.webp",
+            "alt": "Qubo X10 Azul · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/38846/qubo-x10.jpg",
+            "colorLabel": "Azul",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38846/qubo-x10.jpg"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-x10/negro-1.webp",
+        "alt": "Qubo X10 Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/38841/qubo-x10.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38841/qubo-x10.jpg"
+      },
+      {
+        "src": "/images/products/qubo-x10/negro-2.webp",
+        "alt": "Qubo X10 Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/38842/qubo-x10.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38842/qubo-x10.jpg"
+      },
+      {
+        "src": "/images/products/qubo-x10/negro-3.webp",
+        "alt": "Qubo X10 Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/38844/qubo-x10.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38844/qubo-x10.jpg"
+      },
+      {
+        "src": "/images/products/qubo-x10/negro-4.webp",
+        "alt": "Qubo X10 Negro · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/38843/qubo-x10.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/38843/qubo-x10.jpg"
+      }
+    ]
+  },
+  "Qubo|X209BK 4G": {
+    "sourceUrl": "https://www.arpotelecomunicaciones.es/es/telefonos-moviles-tablets/16700-11591-qubo-x209-4g-8400000167000.html",
+    "sourceName": "Arpo Telecomunicaciones",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#252628",
+        "images": [
+          {
+            "src": "/images/products/qubo-x209bk-4g/negro-1.webp",
+            "alt": "Qubo X209BK 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/45957/qubo-x209-4g.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/45957/qubo-x209-4g.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x209bk-4g/negro-2.webp",
+            "alt": "Qubo X209BK 4G Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/45958/qubo-x209-4g.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/45958/qubo-x209-4g.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x209bk-4g/negro-3.webp",
+            "alt": "Qubo X209BK 4G Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/45959/qubo-x209-4g.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/45959/qubo-x209-4g.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x209bk-4g/detail-keypad.webp",
+            "alt": "Qubo X209BK 4G Negro · Detalle del teclado (ampliación)",
+            "view": "Detalle del teclado (ampliación)",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/45957/qubo-x209-4g.jpg",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/45957/qubo-x209-4g.jpg",
+            "crop": [
+              580,
+              760,
+              1010,
+              1480
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-x209bk-4g/negro-1.webp",
+        "alt": "Qubo X209BK 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/45957/qubo-x209-4g.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/45957/qubo-x209-4g.jpg"
+      },
+      {
+        "src": "/images/products/qubo-x209bk-4g/negro-2.webp",
+        "alt": "Qubo X209BK 4G Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/45958/qubo-x209-4g.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/45958/qubo-x209-4g.jpg"
+      },
+      {
+        "src": "/images/products/qubo-x209bk-4g/negro-3.webp",
+        "alt": "Qubo X209BK 4G Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/45959/qubo-x209-4g.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/45959/qubo-x209-4g.jpg"
+      },
+      {
+        "src": "/images/products/qubo-x209bk-4g/detail-keypad.webp",
+        "alt": "Qubo X209BK 4G Negro · Detalle del teclado (ampliación)",
+        "view": "Detalle del teclado (ampliación)",
+        "colorLabel": "Negro",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/45957/qubo-x209-4g.jpg",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/45957/qubo-x209-4g.jpg",
+        "crop": [
+          580,
+          760,
+          1010,
+          1480
+        ]
+      }
+    ],
+    "note": "Incluye detalles ampliados de las fotos catálogo; no son ángulos adicionales. Incluye detalles ampliados de las fotos de catálogo; no son ángulos adicionales."
+  },
+  "Qubo|X28 4G": {
+    "sourceUrl": "https://www.arpotelecomunicaciones.es/es/telefonos-moviles-tablets/15205-9958-qubo-x28-4g-8400000152051.html",
+    "sourceName": "Arpo Telecomunicaciones",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#252628",
+        "images": [
+          {
+            "src": "/images/products/qubo-x28-4g/negro-1.webp",
+            "alt": "Qubo X28 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/37350/qubo-x28-4g.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/37350/qubo-x28-4g.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x28-4g/negro-2.webp",
+            "alt": "Qubo X28 4G Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/37351/qubo-x28-4g.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/37351/qubo-x28-4g.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x28-4g/negro-3.webp",
+            "alt": "Qubo X28 4G Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/37352/qubo-x28-4g.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/37352/qubo-x28-4g.jpg"
+          },
+          {
+            "src": "/images/products/qubo-x28-4g/detail-keypad.webp",
+            "alt": "Qubo X28 4G Negro · Detalle del teclado (ampliación)",
+            "view": "Detalle del teclado (ampliación)",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://www.arpotelecomunicaciones.es/37352/qubo-x28-4g.jpg",
+            "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/37352/qubo-x28-4g.jpg",
+            "crop": [
+              350,
+              400,
+              575,
+              730
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-x28-4g/negro-1.webp",
+        "alt": "Qubo X28 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/37350/qubo-x28-4g.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/37350/qubo-x28-4g.jpg"
+      },
+      {
+        "src": "/images/products/qubo-x28-4g/negro-2.webp",
+        "alt": "Qubo X28 4G Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/37351/qubo-x28-4g.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/37351/qubo-x28-4g.jpg"
+      },
+      {
+        "src": "/images/products/qubo-x28-4g/negro-3.webp",
+        "alt": "Qubo X28 4G Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/37352/qubo-x28-4g.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/37352/qubo-x28-4g.jpg"
+      },
+      {
+        "src": "/images/products/qubo-x28-4g/detail-keypad.webp",
+        "alt": "Qubo X28 4G Negro · Detalle del teclado (ampliación)",
+        "view": "Detalle del teclado (ampliación)",
+        "colorLabel": "Negro",
+        "sourceUrl": "https://www.arpotelecomunicaciones.es/37352/qubo-x28-4g.jpg",
+        "sourceAssetUrl": "https://www.arpotelecomunicaciones.es/37352/qubo-x28-4g.jpg",
+        "crop": [
+          350,
+          400,
+          575,
+          730
+        ]
+      }
+    ],
+    "note": "Incluye detalles ampliados de las fotos catálogo; no son ángulos adicionales. Incluye detalles ampliados de las fotos de catálogo; no son ángulos adicionales."
+  },
+  "Qubo|X230C 4G": {
+    "sourceUrl": "https://www.ielectro.es/product/qubo-senior-x-230bk-4g-negro-movil-231",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#2a2c2d",
+        "images": [
+          {
+            "src": "/images/products/qubo-x230c-4g/negro-1.webp",
+            "alt": "Qubo X230C 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/33291.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33291.webp"
+          },
+          {
+            "src": "/images/products/qubo-x230c-4g/negro-2.webp",
+            "alt": "Qubo X230C 4G Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/33291-1.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33291-1.webp"
+          },
+          {
+            "src": "/images/products/qubo-x230c-4g/negro-3.webp",
+            "alt": "Qubo X230C 4G Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/33291-2.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33291-2.webp"
+          },
+          {
+            "src": "/images/products/qubo-x230c-4g/detail-keypad.webp",
+            "alt": "Qubo X230C 4G Negro · Detalle del teclado (ampliación)",
+            "view": "Detalle del teclado (ampliación)",
+            "colorLabel": "Negro",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/33291.webp",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33291.webp",
+            "crop": [
+              610,
+              720,
+              1205,
+              1285
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-x230c-4g/negro-1.webp",
+        "alt": "Qubo X230C 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/33291.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33291.webp"
+      },
+      {
+        "src": "/images/products/qubo-x230c-4g/negro-2.webp",
+        "alt": "Qubo X230C 4G Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/33291-1.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33291-1.webp"
+      },
+      {
+        "src": "/images/products/qubo-x230c-4g/negro-3.webp",
+        "alt": "Qubo X230C 4G Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/33291-2.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33291-2.webp"
+      },
+      {
+        "src": "/images/products/qubo-x230c-4g/detail-keypad.webp",
+        "alt": "Qubo X230C 4G Negro · Detalle del teclado (ampliación)",
+        "view": "Detalle del teclado (ampliación)",
+        "colorLabel": "Negro",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/33291.webp",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/33291.webp",
+        "crop": [
+          610,
+          720,
+          1205,
+          1285
+        ]
+      }
+    ],
+    "note": "Referencia comercial X-230BK 4G de la galería; nomenclatura del proveedor X230C pendiente cotejar con EAN. Incluye detalles ampliados de las fotos de catálogo; no son ángulos adicionales."
+  },
+  "Qubo|ST-002": {
+    "sourceUrl": "https://www.ielectro.es/product/qubo-senior-st-002-4g-negro-movil-28",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#242729",
+        "images": [
+          {
+            "src": "/images/products/qubo-st-002/negro-1.webp",
+            "alt": "Qubo ST-002 Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34006.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34006.webp"
+          },
+          {
+            "src": "/images/products/qubo-st-002/negro-2.webp",
+            "alt": "Qubo ST-002 Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34006-2.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34006-2.webp"
+          },
+          {
+            "src": "/images/products/qubo-st-002/negro-3.webp",
+            "alt": "Qubo ST-002 Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34006-3.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34006-3.webp"
+          },
+          {
+            "src": "/images/products/qubo-st-002/negro-4.webp",
+            "alt": "Qubo ST-002 Negro · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/34006-4.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34006-4.webp"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-st-002/negro-1.webp",
+        "alt": "Qubo ST-002 Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34006.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34006.webp"
+      },
+      {
+        "src": "/images/products/qubo-st-002/negro-2.webp",
+        "alt": "Qubo ST-002 Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34006-2.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34006-2.webp"
+      },
+      {
+        "src": "/images/products/qubo-st-002/negro-3.webp",
+        "alt": "Qubo ST-002 Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34006-3.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34006-3.webp"
+      },
+      {
+        "src": "/images/products/qubo-st-002/negro-4.webp",
+        "alt": "Qubo ST-002 Negro · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/34006-4.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/34006-4.webp"
+      }
+    ]
+  },
+  "Qubo|P220 4G": {
+    "sourceUrl": "https://www.ielectro.es/product/qubo-p-220bkc-black-movil-28",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#27292a",
+        "images": [
+          {
+            "src": "/images/products/qubo-p220-4g/negro-1.webp",
+            "alt": "Qubo P220 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-3.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-3.webp"
+          },
+          {
+            "src": "/images/products/qubo-p220-4g/negro-2.webp",
+            "alt": "Qubo P220 4G Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-2.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-2.webp"
+          },
+          {
+            "src": "/images/products/qubo-p220-4g/negro-3.webp",
+            "alt": "Qubo P220 4G Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-1.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-1.webp"
+          },
+          {
+            "src": "/images/products/qubo-p220-4g/negro-4.webp",
+            "alt": "Qubo P220 4G Negro · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-4.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-4.webp"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-p220-4g/negro-1.webp",
+        "alt": "Qubo P220 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-3.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-3.webp"
+      },
+      {
+        "src": "/images/products/qubo-p220-4g/negro-2.webp",
+        "alt": "Qubo P220 4G Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-2.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-2.webp"
+      },
+      {
+        "src": "/images/products/qubo-p220-4g/negro-3.webp",
+        "alt": "Qubo P220 4G Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-1.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-1.webp"
+      },
+      {
+        "src": "/images/products/qubo-p220-4g/negro-4.webp",
+        "alt": "Qubo P220 4G Negro · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-4.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-4.webp"
+      }
+    ],
+    "note": "La fotografía con base no determina los accesorios incluidos en la variante del proveedor."
+  },
+  "Qubo|P220BKC 4G": {
+    "sourceUrl": "https://www.ielectro.es/product/qubo-p-220bkc-black-movil-28",
+    "sourceName": "ielectro · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#27292a",
+        "images": [
+          {
+            "src": "/images/products/qubo-p220bkc-4g/negro-1.webp",
+            "alt": "Qubo P220BKC 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-3.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-3.webp"
+          },
+          {
+            "src": "/images/products/qubo-p220bkc-4g/negro-2.webp",
+            "alt": "Qubo P220BKC 4G Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-2.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-2.webp"
+          },
+          {
+            "src": "/images/products/qubo-p220bkc-4g/negro-3.webp",
+            "alt": "Qubo P220BKC 4G Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-1.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-1.webp"
+          },
+          {
+            "src": "/images/products/qubo-p220bkc-4g/negro-4.webp",
+            "alt": "Qubo P220BKC 4G Negro · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-4.webp",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-4.webp"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/qubo-p220bkc-4g/negro-1.webp",
+        "alt": "Qubo P220BKC 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-3.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-3.webp"
+      },
+      {
+        "src": "/images/products/qubo-p220bkc-4g/negro-2.webp",
+        "alt": "Qubo P220BKC 4G Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-2.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-2.webp"
+      },
+      {
+        "src": "/images/products/qubo-p220bkc-4g/negro-3.webp",
+        "alt": "Qubo P220BKC 4G Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-1.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-1.webp"
+      },
+      {
+        "src": "/images/products/qubo-p220bkc-4g/negro-4.webp",
+        "alt": "Qubo P220BKC 4G Negro · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://thumbs.ielectro.es/product/grans/35085-4.webp",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://thumbs.ielectro.es/product/grans/35085-4.webp"
+      }
+    ],
+    "note": "La fotografía con base no determina los accesorios incluidos en la variante del proveedor."
+  },
+  "Sunstech|CELT25BL 4G": {
+    "sourceUrl": "https://sunstech.com/es/home/32802-celt25",
+    "sourceName": "Sunstech · web oficial",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "blue",
+        "label": "Azul",
+        "hex": "#172c50",
+        "images": [
+          {
+            "src": "/images/products/sunstech-celt25bl-4g/blue-composition.webp",
+            "alt": "Sunstech CELT25BL azul · composición oficial con las vistas del teléfono",
+            "view": "Composición oficial",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://sunstech.com/4740/celt25.jpg",
+            "sourceAssetUrl": "https://sunstech.com/4740/celt25.jpg"
+          },
+          {
+            "src": "/images/products/sunstech-celt25bl-4g/detail-open.webp",
+            "alt": "Sunstech CELT25BL 4G Azul · Frontal desplegado (ampliación)",
+            "view": "Frontal desplegado (ampliación)",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://sunstech.com/4740/celt25.jpg",
+            "sourceAssetUrl": "https://sunstech.com/4740/celt25.jpg",
+            "crop": [
+              335,
+              55,
+              460,
+              490
+            ]
+          },
+          {
+            "src": "/images/products/sunstech-celt25bl-4g/detail-closed.webp",
+            "alt": "Sunstech CELT25BL 4G Azul · Frontal cerrado (ampliación)",
+            "view": "Frontal cerrado (ampliación)",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://sunstech.com/4740/celt25.jpg",
+            "sourceAssetUrl": "https://sunstech.com/4740/celt25.jpg",
+            "crop": [
+              68,
+              250,
+              197,
+              489
+            ]
+          },
+          {
+            "src": "/images/products/sunstech-celt25bl-4g/detail-back.webp",
+            "alt": "Sunstech CELT25BL 4G Azul · Vista trasera (ampliación)",
+            "view": "Vista trasera (ampliación)",
+            "colorLabel": "Azul",
+            "sourceUrl": "https://sunstech.com/4740/celt25.jpg",
+            "sourceAssetUrl": "https://sunstech.com/4740/celt25.jpg",
+            "crop": [
+              602,
+              251,
+              730,
+              490
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/sunstech-celt25bl-4g/blue-composition.webp",
+        "alt": "Sunstech CELT25BL azul · composición oficial con las vistas del teléfono",
+        "view": "Composición oficial",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://sunstech.com/4740/celt25.jpg",
+        "sourceAssetUrl": "https://sunstech.com/4740/celt25.jpg"
+      },
+      {
+        "src": "/images/products/sunstech-celt25bl-4g/detail-open.webp",
+        "alt": "Sunstech CELT25BL 4G Azul · Frontal desplegado (ampliación)",
+        "view": "Frontal desplegado (ampliación)",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://sunstech.com/4740/celt25.jpg",
+        "sourceAssetUrl": "https://sunstech.com/4740/celt25.jpg",
+        "crop": [
+          335,
+          55,
+          460,
+          490
+        ]
+      },
+      {
+        "src": "/images/products/sunstech-celt25bl-4g/detail-closed.webp",
+        "alt": "Sunstech CELT25BL 4G Azul · Frontal cerrado (ampliación)",
+        "view": "Frontal cerrado (ampliación)",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://sunstech.com/4740/celt25.jpg",
+        "sourceAssetUrl": "https://sunstech.com/4740/celt25.jpg",
+        "crop": [
+          68,
+          250,
+          197,
+          489
+        ]
+      },
+      {
+        "src": "/images/products/sunstech-celt25bl-4g/detail-back.webp",
+        "alt": "Sunstech CELT25BL 4G Azul · Vista trasera (ampliación)",
+        "view": "Vista trasera (ampliación)",
+        "colorLabel": "Azul",
+        "sourceUrl": "https://sunstech.com/4740/celt25.jpg",
+        "sourceAssetUrl": "https://sunstech.com/4740/celt25.jpg",
+        "crop": [
+          602,
+          251,
+          730,
+          490
+        ]
+      }
+    ],
+    "note": "Incluye detalles ampliados de las fotos catálogo; no son ángulos adicionales. Incluye detalles ampliados de las fotos de catálogo; no son ángulos adicionales."
+  },
+  "Trevi|Flex Plus 95 4G": {
+    "sourceUrl": "https://andorvisio.com/352-trevi-flex-plus-95-mobil-4g-flip.html",
+    "sourceName": "Andorvisió · galería del producto",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "negro",
+        "label": "Negro",
+        "hex": "#282a2b",
+        "images": [
+          {
+            "src": "/images/products/trevi-flex-plus-95-4g/negro-1.webp",
+            "alt": "Trevi Flex Plus 95 4G Negro · Frontal y trasera",
+            "view": "Frontal y trasera",
+            "sourceUrl": "https://andorvisio.com/858-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://andorvisio.com/858-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg"
+          },
+          {
+            "src": "/images/products/trevi-flex-plus-95-4g/negro-2.webp",
+            "alt": "Trevi Flex Plus 95 4G Negro · Frontal",
+            "view": "Frontal",
+            "sourceUrl": "https://andorvisio.com/859-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://andorvisio.com/859-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg"
+          },
+          {
+            "src": "/images/products/trevi-flex-plus-95-4g/negro-3.webp",
+            "alt": "Trevi Flex Plus 95 4G Negro · Trasera",
+            "view": "Trasera",
+            "sourceUrl": "https://andorvisio.com/860-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://andorvisio.com/860-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg"
+          },
+          {
+            "src": "/images/products/trevi-flex-plus-95-4g/negro-4.webp",
+            "alt": "Trevi Flex Plus 95 4G Negro · Perfil",
+            "view": "Perfil",
+            "sourceUrl": "https://andorvisio.com/861-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg",
+            "colorLabel": "Negro",
+            "sourceAssetUrl": "https://andorvisio.com/861-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/products/trevi-flex-plus-95-4g/negro-1.webp",
+        "alt": "Trevi Flex Plus 95 4G Negro · Frontal y trasera",
+        "view": "Frontal y trasera",
+        "sourceUrl": "https://andorvisio.com/858-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://andorvisio.com/858-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg"
+      },
+      {
+        "src": "/images/products/trevi-flex-plus-95-4g/negro-2.webp",
+        "alt": "Trevi Flex Plus 95 4G Negro · Frontal",
+        "view": "Frontal",
+        "sourceUrl": "https://andorvisio.com/859-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://andorvisio.com/859-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg"
+      },
+      {
+        "src": "/images/products/trevi-flex-plus-95-4g/negro-3.webp",
+        "alt": "Trevi Flex Plus 95 4G Negro · Trasera",
+        "view": "Trasera",
+        "sourceUrl": "https://andorvisio.com/860-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://andorvisio.com/860-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg"
+      },
+      {
+        "src": "/images/products/trevi-flex-plus-95-4g/negro-4.webp",
+        "alt": "Trevi Flex Plus 95 4G Negro · Perfil",
+        "view": "Perfil",
+        "sourceUrl": "https://andorvisio.com/861-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg",
+        "colorLabel": "Negro",
+        "sourceAssetUrl": "https://andorvisio.com/861-large_default/trevi-flex-plus-95-mobil-4g-flip.jpg"
+      }
+    ]
+  }
+}

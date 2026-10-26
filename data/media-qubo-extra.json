@@ -1,0 +1,161 @@
+{
+  "Qubo|P180 Sin tapa - Tipo C": {
+    "sourceUrl": "https://movilbox.es/product/qubo-p180-tipo-c/",
+    "sourceName": "MovilBox",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#292b2c",
+        "images": [
+          {
+            "src": "/images/products/qubo-p180-sin-tapa-tipo-c/black-1.webp",
+            "alt": "Qubo P180 Sin tapa - Tipo C negro · vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/10/qubo-p180-tipo-c-front-777-trim.png"
+          },
+          {
+            "src": "/images/products/qubo-p180-sin-tapa-tipo-c/black-2.webp",
+            "alt": "Qubo P180 Sin tapa - Tipo C negro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-p180-tipo-c-back-black-777.png"
+          },
+          {
+            "src": "/images/products/qubo-p180-sin-tapa-tipo-c/black-3.webp",
+            "alt": "Qubo P180 Sin tapa - Tipo C negro · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-p180-tipo-c-main-black-777.png"
+          },
+          {
+            "src": "/images/products/qubo-p180-sin-tapa-tipo-c/black-4.webp",
+            "alt": "Qubo P180 Sin tapa - Tipo C negro · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-p180-tipo-c-side-black-777.png"
+          }
+        ]
+      }
+    ],
+    "note": "Galería del modelo P180 Tipo C; no se han usado fotos del P185."
+  },
+  "Qubo|X340 4G": {
+    "sourceUrl": "https://movilbox.es/product/qubo-x340-4g/",
+    "sourceName": "MovilBox",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#292b2c",
+        "images": [
+          {
+            "src": "/images/products/qubo-x340-4g/black-1.webp",
+            "alt": "Qubo X340 4G negro · vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-x340-4g-front-black-783.png"
+          },
+          {
+            "src": "/images/products/qubo-x340-4g/black-2.webp",
+            "alt": "Qubo X340 4G negro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-x340-4g-back-black-783.png"
+          },
+          {
+            "src": "/images/products/qubo-x340-4g/black-3.webp",
+            "alt": "Qubo X340 4G negro · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-x340-4g-main-black-783.png"
+          },
+          {
+            "src": "/images/products/qubo-x340-4g/black-4.webp",
+            "alt": "Qubo X340 4G negro · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-x340-4g-side-black-783.png"
+          }
+        ]
+      }
+    ],
+    "note": "Fotos del teléfono sin base de carga; la base corresponde solo a la variante que la incluye."
+  },
+  "Qubo|X240": {
+    "sourceUrl": "https://movilbox.es/product/qubo-x240/",
+    "sourceName": "MovilBox",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#292b2c",
+        "images": [
+          {
+            "src": "/images/products/qubo-x240/black-1.webp",
+            "alt": "Qubo X240 negro · vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-x240-front-black-782.png"
+          },
+          {
+            "src": "/images/products/qubo-x240/black-2.webp",
+            "alt": "Qubo X240 negro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-x240-back-black-782.png"
+          },
+          {
+            "src": "/images/products/qubo-x240/black-3.webp",
+            "alt": "Qubo X240 negro · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-x240-main-black-782.png"
+          },
+          {
+            "src": "/images/products/qubo-x240/black-4.webp",
+            "alt": "Qubo X240 negro · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://movilbox.es/wp-content/uploads/2026/08/qubo-x240-side-black-782.png"
+          }
+        ]
+      }
+    ]
+  },
+  "Qubo|XD340 4G": {
+    "sourceUrl": "https://celularb2b.com/es/qubo/qubo-xd-340-4g-777.html",
+    "sourceName": "Celular B2B · La Tienda del Pingüino",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "note": "Dos imágenes de referencia originales del XD340 4G (frontal y composición con varios ángulos) y dos ampliaciones identificadas de pantalla y teclado. Se muestra el teléfono sin base; la base corresponde solo a la variante que la incluye.",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#282b2c",
+        "images": [
+          {
+            "src": "/images/products/qubo-xd340-4g/black-1.webp",
+            "alt": "Qubo XD340 4G negro · vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://celularb2b.com/949-thickbox_default/qubo-xd-340-4g.jpg"
+          },
+          {
+            "src": "/images/products/qubo-xd340-4g/black-2.webp",
+            "alt": "Qubo XD340 4G negro · composición con varios ángulos (imagen original)",
+            "view": "Composición con varios ángulos (imagen original)",
+            "sourceUrl": "https://www.latiendadelpinguino.com/46217-large_default/tel-fono-m-vil-qubo-x-d340-4g.jpg"
+          },
+          {
+            "src": "/images/products/qubo-xd340-4g/black-3.webp",
+            "alt": "Qubo XD340 4G negro · detalle de pantalla (ampliación)",
+            "view": "Detalle de pantalla (ampliación)",
+            "sourceUrl": "https://celularb2b.com/949-thickbox_default/qubo-xd-340-4g.jpg"
+          },
+          {
+            "src": "/images/products/qubo-xd340-4g/black-4.webp",
+            "alt": "Qubo XD340 4G negro · detalle de teclado (ampliación)",
+            "view": "Detalle de teclado (ampliación)",
+            "sourceUrl": "https://celularb2b.com/949-thickbox_default/qubo-xd-340-4g.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

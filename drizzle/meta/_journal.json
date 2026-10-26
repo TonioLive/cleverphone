@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1792914030607,
+      "tag": "0000_wooden_apocalypse",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1792914226827,
+      "tag": "0001_faithful_killmonger",
+      "breakpoints": true
+    }
+  ]
+}

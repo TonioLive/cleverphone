@@ -1,0 +1,2900 @@
+{
+  "Samsung|A18": {
+    "sourceUrl": "https://www.samsung.com/es/smartphones/galaxy-a/galaxy-a18-black-256gb-sm-a185fzkheub/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#222426",
+        "images": [
+          {
+            "src": "/images/products/samsung-a18/black-1.webp",
+            "alt": "Galaxy A18 Front Black ",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a185fzkheub/gallery/es-galaxy-a18-sm-a185-sm-a185fzkheub-554794501?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a18/black-2.webp",
+            "alt": "Galaxy A18 Back Black ",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a185fzkheub/gallery/es-galaxy-a18-sm-a185-sm-a185fzkheub-554794485?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a18/black-3.webp",
+            "alt": "Galaxy A18 Back-R30 Black ",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a185fzkheub/gallery/es-galaxy-a18-sm-a185-sm-a185fzkheub-554794486?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a18/black-4.webp",
+            "alt": "Galaxy A18 R-Side Black ",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a185fzkheub/gallery/es-galaxy-a18-sm-a185-sm-a185fzkheub-554794490?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A17": {
+    "sourceUrl": "https://www.samsung.com/es/smartphones/galaxy-a/galaxy-a17-black-128gb-sm-a175fzkbeub/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#202529",
+        "images": [
+          {
+            "src": "/images/products/samsung-a17/black-1.webp",
+            "alt": "Galaxy A17 LTE Front Black ",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a175fzkbeub/gallery/es-galaxy-a17-sm-a175-sm-a175fzkbeub-549567471?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a17/black-2.webp",
+            "alt": "Galaxy A17 LTE Back Black ",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a175fzkbeub/gallery/es-galaxy-a17-sm-a175-sm-a175fzkbeub-549567461?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a17/black-3.webp",
+            "alt": "Galaxy A17 LTE BackL30 Black ",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a175fzkbeub/gallery/es-galaxy-a17-sm-a175-sm-a175fzkbeub-549567456?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a17/black-4.webp",
+            "alt": "Galaxy A17 LTE Lside Black ",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a175fzkbeub/gallery/es-galaxy-a17-sm-a175-sm-a175fzkbeub-549567455?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A17 5G": {
+    "sourceUrl": "https://www.samsung.com/es/smartphones/galaxy-a/galaxy-a17-5g-black-256gb-sm-a176bzkdeub/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#202529",
+        "images": [
+          {
+            "src": "/images/products/samsung-a17-5g/black-1.webp",
+            "alt": "front Black",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a176bzkdeub/gallery/es-galaxy-a17-5g-sm-a176-sm-a176bzkdeub-548390106?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a17-5g/black-2.webp",
+            "alt": "back Black",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a176bzkdeub/gallery/es-galaxy-a17-5g-sm-a176-sm-a176bzkdeub-548390089?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a17-5g/black-3.webp",
+            "alt": "backl30 Black",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a176bzkdeub/gallery/es-galaxy-a17-5g-sm-a176-sm-a176bzkdeub-548390090?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a17-5g/black-4.webp",
+            "alt": "lside Black",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a176bzkdeub/gallery/es-galaxy-a17-5g-sm-a176-sm-a176bzkdeub-548390095?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A27 5G": {
+    "sourceUrl": "https://www.samsung.com/es/smartphones/galaxy-a/galaxy-a27-5g-black-128gb-sm-a276bzkbeub/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#252626",
+        "images": [
+          {
+            "src": "/images/products/samsung-a27-5g/black-1.webp",
+            "alt": "Galaxy A27 5G Front Black ",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a276bzkbeub/gallery/es-galaxy-a27-5g-sm-a276-sm-a276bzkbeub-553542676?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a27-5g/black-2.webp",
+            "alt": "Galaxy A27 5G Back Black ",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a276bzkbeub/gallery/es-galaxy-a27-5g-sm-a276-sm-a276bzkbeub-553542662?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a27-5g/black-3.webp",
+            "alt": "Galaxy A27 5G BackL30 Black ",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a276bzkbeub/gallery/es-galaxy-a27-5g-sm-a276-sm-a276bzkbeub-553542663?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a27-5g/black-4.webp",
+            "alt": "Galaxy A27 5G Lside Black ",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a276bzkbeub/gallery/es-galaxy-a27-5g-sm-a276-sm-a276bzkbeub-553542665?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A37 5G": {
+    "sourceUrl": "https://reebelo.es/collections/samsung-galaxy-a37",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "lavender",
+        "label": "Lavanda",
+        "hex": "#c6b7db",
+        "images": [
+          {
+            "src": "/images/products/samsung-a37-5g/lavender-1.webp",
+            "alt": "A37 5G Lavanda · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/LAV-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/lavender-2.webp",
+            "alt": "A37 5G Lavanda · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/LAV-image-4.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/lavender-3.webp",
+            "alt": "A37 5G Lavanda · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/LAV-image-5.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/lavender-4.webp",
+            "alt": "A37 5G Lavanda · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/LAV-image-7.jpg"
+          }
+        ]
+      },
+      {
+        "key": "dark-green",
+        "label": "Verde oscuro",
+        "hex": "#3c514b",
+        "images": [
+          {
+            "src": "/images/products/samsung-a37-5g/dark-green-1.webp",
+            "alt": "A37 5G Verde oscuro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/GRN-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/dark-green-2.webp",
+            "alt": "A37 5G Verde oscuro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/GRN-image-4.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/dark-green-3.webp",
+            "alt": "A37 5G Verde oscuro · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/GRN-image-5.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/dark-green-4.webp",
+            "alt": "A37 5G Verde oscuro · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/GRN-image-7.jpg"
+          }
+        ]
+      },
+      {
+        "key": "white",
+        "label": "Blanco",
+        "hex": "#f1f0ec",
+        "images": [
+          {
+            "src": "/images/products/samsung-a37-5g/white-1.webp",
+            "alt": "A37 5G Blanco · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/WHI-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/white-2.webp",
+            "alt": "A37 5G Blanco · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/WHI-image-4.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/white-3.webp",
+            "alt": "A37 5G Blanco · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/WHI-image-5.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/white-4.webp",
+            "alt": "A37 5G Blanco · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/WHI-image-7.jpg"
+          }
+        ]
+      },
+      {
+        "key": "chr",
+        "label": "Gris antracita",
+        "hex": "#45484b",
+        "images": [
+          {
+            "src": "/images/products/samsung-a37-5g/chr-1.webp",
+            "alt": "A37 5G Gris antracita · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/CHR-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/chr-2.webp",
+            "alt": "A37 5G Gris antracita · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/CHR-image-4.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/chr-3.webp",
+            "alt": "A37 5G Gris antracita · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/CHR-image-5.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a37-5g/chr-4.webp",
+            "alt": "A37 5G Gris antracita · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA37/CHR-image-7.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A57 5G": {
+    "sourceUrl": "https://reebelo.es/collections/samsung-galaxy-a57",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "lilac",
+        "label": "Lila",
+        "hex": "#bdb1d1",
+        "images": [
+          {
+            "src": "/images/products/samsung-a57-5g/lilac-1.webp",
+            "alt": "A57 5G Lila · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/ALC-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/lilac-2.webp",
+            "alt": "A57 5G Lila · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/ALC-image-4.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/lilac-3.webp",
+            "alt": "A57 5G Lila · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/ALC-image-5.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/lilac-4.webp",
+            "alt": "A57 5G Lila · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/ALC-image-7.jpg"
+          }
+        ]
+      },
+      {
+        "key": "navy",
+        "label": "Azul oscuro",
+        "hex": "#45475a",
+        "images": [
+          {
+            "src": "/images/products/samsung-a57-5g/navy-1.webp",
+            "alt": "A57 5G Azul oscuro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/ANV-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/navy-2.webp",
+            "alt": "A57 5G Azul oscuro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/ANV-image-4.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/navy-3.webp",
+            "alt": "A57 5G Azul oscuro · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/ANV-image-5.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/navy-4.webp",
+            "alt": "A57 5G Azul oscuro · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/ANV-image-7.jpg"
+          }
+        ]
+      },
+      {
+        "key": "icy-blue",
+        "label": "Azul claro",
+        "hex": "#b6cbd6",
+        "images": [
+          {
+            "src": "/images/products/samsung-a57-5g/icy-blue-1.webp",
+            "alt": "A57 5G Azul claro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/AIC-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/icy-blue-2.webp",
+            "alt": "A57 5G Azul claro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/AIC-image-4.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/icy-blue-3.webp",
+            "alt": "A57 5G Azul claro · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/AIC-image-5.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/icy-blue-4.webp",
+            "alt": "A57 5G Azul claro · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/AIC-image-7.jpg"
+          }
+        ]
+      },
+      {
+        "key": "gray",
+        "label": "Gris",
+        "hex": "#92948e",
+        "images": [
+          {
+            "src": "/images/products/samsung-a57-5g/gray-1.webp",
+            "alt": "A57 5G Gris · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/AGR-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/gray-2.webp",
+            "alt": "A57 5G Gris · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/AGR-image-4.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/gray-3.webp",
+            "alt": "A57 5G Gris · vista en perspectiva",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/AGR-image-5.jpg"
+          },
+          {
+            "src": "/images/products/samsung-a57-5g/gray-4.webp",
+            "alt": "A57 5G Gris · vista lateral",
+            "view": "Vista lateral",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYA57/AGR-image-7.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A35 5G": {
+    "sourceUrl": "https://www.samsung.com/es/smartphones/galaxy-a/galaxy-a35-5g-awesome-navy-128gb-sm-a356bzkbeub/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "navy",
+        "label": "Azul oscuro",
+        "hex": "#3e3e51",
+        "images": [
+          {
+            "src": "/images/products/samsung-a35-5g/navy-1.webp",
+            "alt": "front Awesome Navy",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a356bzkbeub/gallery/es-galaxy-a35-5g-sm-a356-sm-a356bzkbeub-540178698?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a35-5g/navy-2.webp",
+            "alt": "back Awesome Navy",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a356bzkbeub/gallery/es-galaxy-a35-5g-sm-a356-sm-a356bzkbeub-540178684?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a35-5g/navy-3.webp",
+            "alt": "backl30 Awesome Navy",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a356bzkbeub/gallery/es-galaxy-a35-5g-sm-a356-sm-a356bzkbeub-540178685?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a35-5g/navy-4.webp",
+            "alt": "lside Awesome Navy",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a356bzkbeub/gallery/es-galaxy-a35-5g-sm-a356-sm-a356bzkbeub-540178687?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A54 5G": {
+    "sourceUrl": "https://www.samsung.com/es/smartphones/galaxy-a/galaxy-a54-5g-awesome-white-256gb-sm-a546bzwdeub/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "white",
+        "label": "Blanco",
+        "hex": "#eceee9",
+        "images": [
+          {
+            "src": "/images/products/samsung-a54-5g/white-1.webp",
+            "alt": "front Awesome White",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a546bzwdeub/gallery/es-galaxy-a54-5g-sm-a546-sm-a546bzwdeub-535688646?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a54-5g/white-2.webp",
+            "alt": "back Awesome White",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a546bzwdeub/gallery/es-galaxy-a54-5g-sm-a546-sm-a546bzwdeub-535688632?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a54-5g/white-3.webp",
+            "alt": "back-l30 Awesome White",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a546bzwdeub/gallery/es-galaxy-a54-5g-sm-a546-sm-a546bzwdeub-535688633?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a54-5g/white-4.webp",
+            "alt": "side-l Awesome White",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a546bzwdeub/gallery/es-galaxy-a54-5g-sm-a546-sm-a546bzwdeub-535688635?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A25 5G": {
+    "sourceUrl": "https://www.samsung.com/ph/smartphones/galaxy-a/galaxy-a25-5g-blue-256gb-sm-a256ezkhphl/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "blue-black",
+        "label": "Negro azulado",
+        "hex": "#2d3a4b",
+        "images": [
+          {
+            "src": "/images/products/samsung-a25-5g/blue-black-1.webp",
+            "alt": "front Blue Black",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-a256ezkhphl/gallery/ph-galaxy-a25-5g-sm-a256-sm-a256ezkhphl-539208257?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a25-5g/blue-black-2.webp",
+            "alt": "backl30--l- Blue Black",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-a256ezkhphl/gallery/ph-galaxy-a25-5g-sm-a256-sm-a256ezkhphl-539208244?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a25-5g/blue-black-3.webp",
+            "alt": "lside--l- Blue Black",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-a256ezkhphl/gallery/ph-galaxy-a25-5g-sm-a256-sm-a256ezkhphl-539208246?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a25-5g/blue-black-4.webp",
+            "alt": "front2--l- Blue Black",
+            "view": "Vista frontal",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-a256ezkhphl/gallery/ph-galaxy-a25-5g-sm-a256-sm-a256ezkhphl-539208240?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A07": {
+    "sourceUrl": "https://www.samsung.com/ph/smartphones/galaxy-a/galaxy-a07-black-256gb-sm-a075fzkiphl/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#222d31",
+        "images": [
+          {
+            "src": "/images/products/samsung-a07/black-1.webp",
+            "alt": "Galaxy A07 Front Black ",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-a075fzkiphl/gallery/ph-galaxy-a07-sm-a075-sm-a075fzkiphl-548691747?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a07/black-2.webp",
+            "alt": "Galaxy A07 Back Black ",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-a075fzkiphl/gallery/ph-galaxy-a07-sm-a075-sm-a075fzkiphl-548691733?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a07/black-3.webp",
+            "alt": "Galaxy A07 BackL30 Black ",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-a075fzkiphl/gallery/ph-galaxy-a07-sm-a075-sm-a075fzkiphl-548691734?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a07/black-4.webp",
+            "alt": "Galaxy A07 Lside Black ",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-a075fzkiphl/gallery/ph-galaxy-a07-sm-a075-sm-a075fzkiphl-548691731?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A06": {
+    "sourceUrl": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a06-black-128gb-sm-a065fzkgmea/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#303532",
+        "images": [
+          {
+            "src": "/images/products/samsung-a06/black-1.webp",
+            "alt": "front Black",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a065fzkgmea/gallery/levant-galaxy-a06-sm-a065-sm-a065fzkgmea-543381727?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a06/black-2.webp",
+            "alt": "back Black",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a065fzkgmea/gallery/levant-galaxy-a06-sm-a065-sm-a065fzkgmea-543381714?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a06/black-3.webp",
+            "alt": "back-l30 Black",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a065fzkgmea/gallery/levant-galaxy-a06-sm-a065-sm-a065fzkgmea-543381715?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a06/black-4.webp",
+            "alt": "l-side Black",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a065fzkgmea/gallery/levant-galaxy-a06-sm-a065-sm-a065fzkgmea-543381717?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A16": {
+    "sourceUrl": "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a16-black-128gb-sm-a165fzkbeub/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#242f33",
+        "images": [
+          {
+            "src": "/images/products/samsung-a16/black-1.webp",
+            "alt": "front Black",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/nl/sm-a165fzkbeub/gallery/nl-galaxy-a16-sm-a165-sm-a165fzkbeub-544192822?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a16/black-2.webp",
+            "alt": "back Black",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/nl/sm-a165fzkbeub/gallery/nl-galaxy-a16-sm-a165-sm-a165fzkbeub-544192808?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a16/black-3.webp",
+            "alt": "back-l30 Black",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/nl/sm-a165fzkbeub/gallery/nl-galaxy-a16-sm-a165-sm-a165fzkbeub-544192809?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a16/black-4.webp",
+            "alt": "l-side Black",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/nl/sm-a165fzkbeub/gallery/nl-galaxy-a16-sm-a165-sm-a165fzkbeub-544192811?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 17": {
+    "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-17",
+    "sourceName": "Apple",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#292a2c",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-17/black-1.webp",
+            "alt": "iPhone 17, back exterior, black color, Dual Fusion camera system, front exterior, all screen design, Dynamic Island, thin black display border.",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-black_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxa3pYQjBteGp2cFFHL09TNGhVUUhxeHFkSUJZcmNjVXZ4cDk3YTVMcWk4SHF2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUlkwQ2hTNHZjREFYdVBRanJ6N1p0WHI&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/black-2.webp",
+            "alt": "iPhone 17, back exterior, black color, Dual Fusion camera system in top left corner, Apple logo in center, side exterior, matching color, thin profile, Side button, Camera Control button, raised Dual Fusion camera system.",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-black_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxa3pYQjBteGp2cFFHL09TNGhVUUhxeG95WnBHS3VwVUloV0JGMk1IVDdjUk9UVDVQbVhkcDIxQlRzeDZXVVpQSzYyL0ZSTzZrMWlpUU5CQlpuNHNUZytOZEhRQ1VjdWc1Ymk1dUxYNjRUQm0&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/black-3.webp",
+            "alt": "iPhone 17, Dual Fusion camera system, 2 lenses, vertical orientation, microphone, transparent housing, flash, black color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-black_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxa3pYQjBteGp2cFFHL09TNGhVUUhxek5hZlBKWStkSjdyeGV3Tm13TFRDb09UVDVQbVhkcDIxQlRzeDZXVVpQSzYyL0ZSTzZrMWlpUU5CQlpuNHNUZzhLb3RPRzBMaVdSK2xvR0hBOVVQL0U&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/black-4.webp",
+            "alt": "iPhone 17 · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-witb-black-202509?wid=346&hei=784&fmt=jpeg&qlt=90&.v=VGdXU1FyVldpcXN5OGdVeGNUMGc2akgzNjlMaXU1L3RoS2RQdElRcmh0aGJYaVJscWFzRjRtYkpaTmdUMmExRkJkRlpCNVhYU3AwTldRQldlSnpRa0NUcFVhVXlXOWFSTXZ4ODBiYWZMZDg"
+          }
+        ]
+      },
+      {
+        "key": "white",
+        "label": "Blanco",
+        "hex": "#f4f3ec",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-17/white-1.webp",
+            "alt": "iPhone 17, back exterior, white color, Dual Fusion camera system, front exterior, all screen design, Dynamic Island, thin black display border, side exterior, Action button, volume buttons, Side button, Camera Control button",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-white_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxclZmSzgzdlhzQS95ekpRalhXU0JMVkRQR0pzaFhHemZ3ZzZNcDlHRHpJYnF2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUmFBdlBzZ01jTzlOOGhYc3dpcENYM2Y&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/white-2.webp",
+            "alt": "iPhone 17, back exterior, white color, Dual Fusion camera system in top left corner, Apple logo in center, side exterior, matching finish, thin profile, Side button, Camera Control button, raised Dual Fusion camera system.",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-white_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxclZmSzgzdlhzQS95ekpRalhXU0JMVUZBajlBQXc5azFZVDNxU0FodEtxMk9UVDVQbVhkcDIxQlRzeDZXVVpQSzYyL0ZSTzZrMWlpUU5CQlpuNHNUZy9JYlJDRlVNRU1kQ0hDdVhIcW04ZXc&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/white-3.webp",
+            "alt": "iPhone 17, Dual Fusion camera system, 2 lenses, vertical orientation, microphone, transparent housing, flash, white color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-white_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxclZmSzgzdlhzQS95ekpRalhXU0JMVndldWhleFk2VHB6NDlUQUxjVzNPT09UVDVQbVhkcDIxQlRzeDZXVVpQSzYyL0ZSTzZrMWlpUU5CQlpuNHNUZytRVlZVSzhpZVVjZnU0cSs1cjFhcU8&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/white-4.webp",
+            "alt": "iPhone 17 · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-witb-white-202509?wid=346&hei=784&fmt=jpeg&qlt=90&.v=U256M041dUdlSy84VXpBcXJ0RlU2MlZrSitwRm92a3NLVHZFd0dRV3MyOWJYaVJscWFzRjRtYkpaTmdUMmExRkJkRlpCNVhYU3AwTldRQldlSnpRa01uZ0RkVkVaWXlTSlA5ci9SelcxUWs"
+          }
+        ]
+      },
+      {
+        "key": "sage",
+        "label": "Verde salvia",
+        "hex": "#aeb8ab",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-17/sage-1.webp",
+            "alt": "iPhone 17, back exterior, sage color, Dual Fusion camera system, front exterior, all screen design, Dynamic Island, thin black display border, side exterior, Action button, volume buttons, Side button, Camera Control button",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-sage_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxZ3VBTlNROXF1MzBwZUoyNEVtMWw3aEtLUmpmVEZhTFpRYkxNWDZBb1R3dGd2S3NaRzcrU0dmYjNHTUFiMnlsWFUxSlgrVWMrMzU1OXo2c2JyNjJZTGcvWXoydVhtUUJyekgyU21tRjFxUUM&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/sage-2.webp",
+            "alt": "iPhone 17, back exterior, sage color, Dual Fusion camera system in top left corner, Apple logo in center, side exterior, matching color, thin profile, Side button, Camera Control button, raised Dual Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-sage_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxZ3VBTlNROXF1MzBwZUoyNEVtMWw3aVlUbHN1dmlFdlRiMVVLaTA2SExyY0FLaEM4VGVnOFFZVWtXR1EwaEFhTTB3c2RZTXk1UXcvbG5ySGFWbG1kZTN2cWRBWDVpWE5oVFlRLzJzbTJhVEQ&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/sage-3.webp",
+            "alt": "iPhone 17, Dual Fusion camera system, 2 lenses, vertical orientation, microphone, transparent housing, flash, sage color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-sage_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxZ3VBTlNROXF1MzBwZUoyNEVtMWw3aU4yaXRxOUZ6cVZkYWZzVm5BeDg5dEFLaEM4VGVnOFFZVWtXR1EwaEFhTTB3c2RZTXk1UXcvbG5ySGFWbG1kZTE2R3kxSzRpS2dpdUl5K2d3K0ZLbGc&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/sage-4.webp",
+            "alt": "iPhone 17 · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-witb-sage-202509?wid=346&hei=784&fmt=jpeg&qlt=90&.v=NVVMV0pFK1kvQmNtWnN2ZzdtL0x0MmpBWTVVb3VYeGdNN25ZQmszT2hOM0RWMkJJMHJqVkpBaXZjZW92UjBNZWdsbGZlRHV0Q3JlbHJxWXRlWjZpMnMxMVFod2hPNEUya1B6Z0RYaHR0ZDg"
+          }
+        ]
+      },
+      {
+        "key": "mistblue",
+        "label": "Azul neblina",
+        "hex": "#b1c3d3",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-17/mistblue-1.webp",
+            "alt": "iPhone 17, back exterior, mist blue color, Dual Fusion camera system, front exterior, all screen design, Dynamic Island, thin black display border, side exterior, Action button, volume buttons, Side button, Camera Control button",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-mistblue_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxcFYyWWhPSUg0YytZdmJ2dmY4d09xckN0VFdyaFlNakY5MGMxMWhINEhMWmxjZnhHRHJyenVmME5KTm9Sd1ZaU3NqbWRhTGpRM2xxVWJRWUhSaDlCQ3JHYmE3Q0tucGdwdjhDQ1JZbjRxQXRka0xmckVNVTBkS20yTzkwa0dhU09n&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/mistblue-2.webp",
+            "alt": "iPhone 17, back exterior, mist blue color, Dual Fusion camera system in top left corner, Apple logo in center, side exterior, matching color, thin profile, Side button, Camera Control button, raised Dual Fusion camera system.",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-mistblue_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxcFYyWWhPSUg0YytZdmJ2dmY4d09xcHI3ZVZUd0tSZUJsQitWTzNJV0Frd3F2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUmJCQ2JQTzVRS0g0TkF0UW5FKy8xaWY&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/mistblue-3.webp",
+            "alt": "iPhone 17, Dual Fusion camera system, 2 lenses, vertical orientation, microphone, transparent housing, flash, mist blue color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-mistblue_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxcFYyWWhPSUg0YytZdmJ2dmY4d09xbzJyMS9Lb1c2aEkzbllsWS8xalhHd3F2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUllaMlhQZlAxOW90enR6aE92TkowWEM&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/mistblue-4.webp",
+            "alt": "iPhone 17 · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-witb-mistblue-202509?wid=346&hei=784&fmt=jpeg&qlt=90&.v=RytzQ3l2K3MwWlljNTFnS0FXWDNKZVpleGVwZ0NXa3ZEU24rVEVRZ2lZZzA3Q2p6elNoTDZNK3NUNGM3M1RjbHZvdUZlR0V0VUdJSjBWaDVNVG95YkRYazR2aEtwTFdyRVdhWVpEK0hhaWc"
+          }
+        ]
+      },
+      {
+        "key": "lavender",
+        "label": "Lavanda",
+        "hex": "#c4bbda",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-17/lavender-1.webp",
+            "alt": "iPhone 17, back exterior, lavender color, Dual Fusion camera system, front exterior, all screen design, Dynamic Island, thin black display border, side exterior, Action button, volume buttons, Side button, Camera Control button",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-lavender_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxbGoraU1aeXdWbEh0SUtyMmtxWGg5dUpDNHBIcmowQ3VoNVJwTm5xckpDV2xjZnhHRHJyenVmME5KTm9Sd1ZaU3NqbWRhTGpRM2xxVWJRWUhSaDlCQ3FTZnZjRTZTT0R6VFJnZ01JbHJqd0hlODBad1VqYUZ3RW54YkRKL2hzbXVR&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/lavender-2.webp",
+            "alt": "iPhone 17, back exterior, lavender color, Dual Fusion camera system in top left corner, Apple logo in center, side exterior, matching color, thin profile, Side button, Camera Control button, raised Dual Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-lavender_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxbGoraU1aeXdWbEh0SUtyMmtxWGg5c2hjcUd6Q1BtMHA0c2xGZ292cndaTHF2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUmFTK3RwNU9DcGxNbmZURDFyZTcwcFE&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/lavender-3.webp",
+            "alt": "iPhone 17, Dual Fusion camera system, 2 lenses, vertical orientation, microphone, transparent housing, flash, lavender color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-lavender_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxbGoraU1aeXdWbEh0SUtyMmtxWGg5c3AvMlVlMUszMVJJYm9FRVMxV2tkY3F2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUmFYTlc3M3diMzZ4Yk8rN0pDSllvZzI&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17/lavender-4.webp",
+            "alt": "iPhone 17 · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-witb-lavender-202509?wid=346&hei=784&fmt=jpeg&qlt=90&.v=VE9RM2FlYml3UzZDdjQ0Q2lpQmlSWjE4U2drZjVNc0tSM0xyaXJKNmhTTTA3Q2p6elNoTDZNK3NUNGM3M1RjbHZvdUZlR0V0VUdJSjBWaDVNVG95YkJ3U3prbnhmRGFKdW0wdGxUMGlXMDg"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 16": {
+    "sourceUrl": "https://reebelo.es/collections/iphone-16",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#293133",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-16/black-1.webp",
+            "alt": "iPhone 16 Negro · vista frontal y trasera",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/BLA-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/black-2.webp",
+            "alt": "iPhone 16 Negro · vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/BLA-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/black-3.webp",
+            "alt": "iPhone 16 Negro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/BLA-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/black-4.webp",
+            "alt": "iPhone 16 Negro · detalle de cámara",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/BLA-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "white",
+        "label": "Blanco",
+        "hex": "#f6f5f0",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-16/white-1.webp",
+            "alt": "iPhone 16 Blanco · vista frontal y trasera",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/WHI-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/white-2.webp",
+            "alt": "iPhone 16 Blanco · vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/WHI-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/white-3.webp",
+            "alt": "iPhone 16 Blanco · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/WHI-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/white-4.webp",
+            "alt": "iPhone 16 Blanco · detalle de cámara",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/WHI-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "ultramarine",
+        "label": "Azul ultramar",
+        "hex": "#9c9ee7",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-16/ultramarine-1.webp",
+            "alt": "iPhone 16 Azul ultramar · vista frontal y trasera",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/ULT-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/ultramarine-2.webp",
+            "alt": "iPhone 16 Azul ultramar · vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/ULT-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/ultramarine-3.webp",
+            "alt": "iPhone 16 Azul ultramar · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/ULT-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/ultramarine-4.webp",
+            "alt": "iPhone 16 Azul ultramar · detalle de cámara",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/ULT-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "teal",
+        "label": "Verde azulado",
+        "hex": "#86a6a6",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-16/teal-1.webp",
+            "alt": "iPhone 16 Verde azulado · vista frontal y trasera",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/TEA-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/teal-2.webp",
+            "alt": "iPhone 16 Verde azulado · vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/TEA-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/teal-3.webp",
+            "alt": "iPhone 16 Verde azulado · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/TEA-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/teal-4.webp",
+            "alt": "iPhone 16 Verde azulado · detalle de cámara",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/TEA-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "pink",
+        "label": "Rosa",
+        "hex": "#e4a4c7",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-16/pink-1.webp",
+            "alt": "iPhone 16 Rosa · vista frontal y trasera",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/PIN-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/pink-2.webp",
+            "alt": "iPhone 16 Rosa · vista frontal",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/PIN-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/pink-3.webp",
+            "alt": "iPhone 16 Rosa · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/PIN-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-16/pink-4.webp",
+            "alt": "iPhone 16 Rosa · detalle de cámara",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE16/PIN-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 18 Pro": {
+    "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+    "sourceName": "Apple",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#33353a",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-18-pro/black-1.webp",
+            "alt": "iPhone 18 Pro, back exterior, black color, Pro Fusion camera system at top, Apple logo in center, front exterior, all-screen design, Dynamic Island at top center",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-black?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4UDFzS1BRRzA4NTJUci9vckVTY21rMzhLcXQxZ1h0QThIT2dnUm5qbGk5OUJkSERIUjY1Wk1Od3FtNjF6NFZLVXZBejQ4R0RTZUtBMk1jeW56eS91Z1dCSDEwdm1hTHE2Mnp5QWhVUmRIR3Zn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/black-2.webp",
+            "alt": "iPhone 18 Pro, back exterior, black color, Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-black_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4UDFzS1BRRzA4NTJUci9vckVTY21rM0hWcGJKR1VxOTRYTVYvTWhsL25DOEE3b3pFWnhZZ2g0M0pRR0pEdHVSRUYrc3JrY21Ec1IvOEo0TTVyVzZsV1FiTW9KY1VOZUJBSDNsWEtoNjE0c0JB&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/black-3.webp",
+            "alt": "iPhone 18 Pro, back exterior, Pro Fusion camera system, rectangular housing spanning the top, 3 lenses on left, flash, microphone, and LiDAR Scanner on right, black color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-black_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4UDFzS1BRRzA4NTJUci9vckVTY21rMzFpZXI3TzRVNFlCMkNIUFdtczRsaFE3b3pFWnhZZ2g0M0pRR0pEdHVSRUhOWndGa21oeDRMUFpMS1Q1YVdyV3ZVZ29LbmZmVHFFT3J2WVBRVVhBa0VR&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/black-4.webp",
+            "alt": "iPhone 18 Pro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-witb-black-202609?wid=346&hei=784&fmt=jpeg&qlt=90&.v=bHdIRXBpK0dxdDZ1RThTOURCMzUvUjZjbjIySC84K2luamp1UVY2dFppTm9tK2ZTejhlMXZDdWRjU1JlMkdVSjE1UUxLT2t0cW42N3FvQzVqaGhrVVlUd2ZTRnBSRVVmandPNVYxK2pXNUIrYWpGdS9XeFgvbS9ITnNYOEhYaG4"
+          }
+        ]
+      },
+      {
+        "key": "silver",
+        "label": "Plata",
+        "hex": "#e4e4e2",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-18-pro/silver-1.webp",
+            "alt": "iPhone 18 Pro, back exterior, silver color, Pro Fusion camera system at top, Apple logo in center, front exterior, all-screen design, Dynamic Island at top center",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-silver?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TzRIN3Q2Z245Z1F3L1paWlRjZnl6YTF1TmpsTkNoRVRMR1N6UXlVZFBaU0NYR1ZZZnEyMVlVQUliTThGMjNyaFFWZlhJYVcwTzcyMkQxVG16akJSMWp0cGRhbVRkckRoRHJLYmpNVVVTc0NR&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/silver-2.webp",
+            "alt": "iPhone 18 Pro, back exterior, silver color, Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-silver_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TzRIN3Q2Z245Z1F3L1paWlRjZnl6YTl5ZHpib0Q1bndVeTlmTjFVN1kzQmZQWFVaUmg1QWFsTVJFWjd1RElva2pXeWJTU0RsMSszT2JaZHdrQUtYcXBrVm9Sbk9mUFB4SmhxVWtBMy9tY1lB&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/silver-3.webp",
+            "alt": "iPhone 18 Pro, back exterior, Pro Fusion camera system, rectangular housing spanning the top, 3 lenses on left, flash, microphone, and LiDAR Scanner on right, silver color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-silver_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TzRIN3Q2Z245Z1F3L1paWlRjZnl6YTk0VXNIcG04WTNqRWN0SkNCTnFNYmZQWFVaUmg1QWFsTVJFWjd1RElva2dMZjZ0NVlSeURUK1gxK0FEdkdZODJ4ZWFVdk55NFVSYTQ2Vnl4Q1JpNzNn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/silver-4.webp",
+            "alt": "iPhone 18 Pro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-witb-silver-202609?wid=346&hei=784&fmt=jpeg&qlt=90&.v=bHdIRXBpK0dxdDZ1RThTOURCMzUvUnpManNZaEtGMytaQVRGL3JFb1VuRFE2M296aFJZZjNPSWVldGhZcWJQWGJGcXNRQnFCV0w3WVRjTExvdm1ic2FtUnhSUnBnZ0ZzU3hLUTQxOW9PNlVXZEdHNUFPR0hYUU12cjI0VlFzM1A"
+          }
+        ]
+      },
+      {
+        "key": "burgundy",
+        "label": "Burdeos",
+        "hex": "#6d273c",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-18-pro/burgundy-1.webp",
+            "alt": "iPhone 18 Pro, back exterior, burgundy color (dark red), Pro Fusion camera system at top, Apple logo in center, front exterior, all-screen design, Dynamic Island at top center",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-burgundy?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TjdBdnlBVi8zdmxKbnZ6SzNiVlIvWldQRTNLWlE5QXA0M0NQeHR5eDVndHhNQnJMcnc4RkxJd3ZMc3hKZVVFWHNPR0hRTDdJRFU2ZGFxSjR6SVhHU0d2RHYzYkZxbmVRY2Y4T25TbWxjeS9B&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/burgundy-2.webp",
+            "alt": "iPhone 18 Pro, back exterior, burgundy color (dark red), Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-burgundy_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TjdBdnlBVi8zdmxKbnZ6SzNiVlIvWlljQW93cjhSRUxwbjYzdXVaZkgrRUFDb1F2RTNvUEVHRkpGaGtOSVFHak5VTkNnOGRLd3dVUU1EcjBHZEhrSXYvSDQ0WU4raSt2MG5kTGlVWUtsblpB&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/burgundy-3.webp",
+            "alt": "iPhone 18 Pro, back exterior, Pro Fusion camera system, rectangular housing spanning the top, 3 lenses on left, flash, microphone, and LiDAR Scanner on right, burgundy color (dark red)",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-burgundy_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TjdBdnlBVi8zdmxKbnZ6SzNiVlIvWmFYbmx5VXM5VmdFM01vbjAvK3dBNWdDb1F2RTNvUEVHRkpGaGtOSVFHak5VTkNnOGRLd3dVUU1EcjBHZEhrSXZXQVlqdkV6elY1UUZQeDNlNjl2Smp3&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/burgundy-4.webp",
+            "alt": "iPhone 18 Pro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-witb-burgundy-202609?wid=346&hei=784&fmt=jpeg&qlt=90&.v=bHdIRXBpK0dxdDZ1RThTOURCMzUvWXp5VHA3S3pJN3ljb25IMVVSNElpdGxlQzBRMG10U0pmTXJoWUlpb2dicm1mS0VnWEU4UXZyUThqUTBoWHVvMWc4QnR6Z1hRNlRCa2JQaXlTcFdHRTg2OTZiVklKbGl6SDVJYURIRlhFSkk"
+          }
+        ]
+      },
+      {
+        "key": "glacier",
+        "label": "Glaciar",
+        "hex": "#a7c9df",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-18-pro/glacier-1.webp",
+            "alt": "iPhone 18 Pro, back exterior, glacier color (light blue), Pro Fusion camera system at top, Apple logo in center, front exterior, all-screen design, Dynamic Island at top center",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-glacier?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TTE0bUx4dzlLWVhwQjRQcWhRdjJxSzh3djZBZnNaM0piSnp2bkxicDY2ZldKTG1lVWJJT2RXQWE0Mm9rU1V0V0IxeDg2TkFhSjVQc2FFNTJaRHROeEFLVkRxd2oxOUVRSGk2ZzltcUFLd2tn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/glacier-2.webp",
+            "alt": "iPhone 18 Pro, back exterior, glacier color (light blue), Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-glacier_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TTE0bUx4dzlLWVhwQjRQcWhRdjJxS3kycG5rSmFSYlFlU3JVaTlXMmliMGdUMngwVnJycmY0WkN2ZnNvOUpFNFUwMFIrcW42RFJReERFdUhSN1dHSUFCOVFEdDlVZHhFTE1QRzM4eGJ2cjZB&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/glacier-3.webp",
+            "alt": "iPhone 18 Pro, back exterior, Pro Fusion camera system, rectangular housing spanning the top, 3 lenses on left, flash, microphone, and LiDAR Scanner on right, glacier color (light blue)",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-3inch-glacier_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TTE0bUx4dzlLWVhwQjRQcWhRdjJxS2xsTU9CZXhzSzAwb1pTN09tQ3FEVXdUMngwVnJycmY0WkN2ZnNvOUpFNFVnM3k2cUdVeUVhOXByN2RpeVpDdnJsTHVqT2FWY2V4ZkNsaDV6OVA5VWt3&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro/glacier-4.webp",
+            "alt": "iPhone 18 Pro · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-witb-glacier-202609?wid=346&hei=784&fmt=jpeg&qlt=90&.v=bHdIRXBpK0dxdDZ1RThTOURCMzUvZmJNcThoWHpYYTU2VnJ1WUJsdFlJRzZJcEY2UlpFYnJyeFZ1NzZQZHZjZkNBd3lOUFpnTTVCeDVDYzlNNEhMcFV0eHpmYlB1bWRHMGkrQUpOZVpiT2o1MjZGTTR3RlJZMHJ2NGdna0tZZTM"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 18 Pro Max": {
+    "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+    "sourceName": "Apple",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#33353a",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/black-1.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, black color, Pro Fusion camera system at top, Apple logo in center, front exterior, all-screen design, Dynamic Island at top center",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-black?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4T1cvVjg4Q2h4WWRjcFAyYlBrM0N1bDhLcXQxZ1h0QThIT2dnUm5qbGk5OUJkSERIUjY1Wk1Od3FtNjF6NFZLVXZhdHd3MzRaUWZiYXJqZlNuNUE1TUlLWUxyZ2RycEJyMnRkR3R5dC9EZi93&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/black-2.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, black color, Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-black_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4T1cvVjg4Q2h4WWRjcFAyYlBrM0N1bEhWcGJKR1VxOTRYTVYvTWhsL25DOEE3b3pFWnhZZ2g0M0pRR0pEdHVSRUhOWndGa21oeDRMUFpMS1Q1YVdyV3Zwam9Cc2Q3VGxJWUNPc0FPNUZlOC9R&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/black-3.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, Pro Fusion camera system, rectangular housing spanning the top, 3 lenses on left, flash, microphone, and LiDAR Scanner on right, black color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-black_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4T1cvVjg4Q2h4WWRjcFAyYlBrM0N1bDFpZXI3TzRVNFlCMkNIUFdtczRsaFE3b3pFWnhZZ2g0M0pRR0pEdHVSRUhOWndGa21oeDRMUFpMS1Q1YVdyV3ZiRUNGZi8yZjV6d2tBbXEwdzJkdFZR&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/black-4.webp",
+            "alt": "iPhone 18 Pro Max · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-witb-black-202609?wid=346&hei=784&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhVGd5NXJHNUdPb0Q3WFFSeEhmc255MnNRMFYzSzI1dzJKdDZ2WlYzL01Fd2k2TkJGUmgyYk1jZnlMaC9PN1pudXJMUVd3VDh4VThEY2lCOWJVblF0Sm1TbitmL3BQUHltenBCd3c2TFBIRXY"
+          }
+        ]
+      },
+      {
+        "key": "silver",
+        "label": "Plata",
+        "hex": "#e4e4e2",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/silver-1.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, silver color, Pro Fusion camera system at top, Apple logo in center, front exterior, all-screen design, Dynamic Island at top center",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-silver?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TVRqUkJqUGFyN1pGMnlaV3JkWU9jdjF1TmpsTkNoRVRMR1N6UXlVZFBaU0NYR1ZZZnEyMVlVQUliTThGMjNyaFR3ZUM0d3o0dElrTUd3YXZCdFNnUWJDUXA4RjhpM2pkMEg1eHVtay9KZUhR&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/silver-2.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, silver color, Pro Fusion camera system at top, Apple logo in center, matching color, thin construction, side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-silver_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TVRqUkJqUGFyN1pGMnlaV3JkWU9jdjl5ZHpib0Q1bndVeTlmTjFVN1kzQmZQWFVaUmg1QWFsTVJFWjd1RElva2dMZjZ0NVlSeURUK1gxK0FEdkdZODJPaVZaY0VuTDhaeHRZK1BuanhSN2VR&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/silver-3.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, Pro Fusion camera system, rectangular housing spanning the top, 3 lenses on left, flash, microphone, and LiDAR Scanner on right, silver color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-silver_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TVRqUkJqUGFyN1pGMnlaV3JkWU9jdjk0VXNIcG04WTNqRWN0SkNCTnFNYmZQWFVaUmg1QWFsTVJFWjd1RElva2dMZjZ0NVlSeURUK1gxK0FEdkdZODJrZFFtWjBlYUgzK09kdlh5YVJqNjhB&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/silver-4.webp",
+            "alt": "iPhone 18 Pro Max · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-witb-silver-202609?wid=346&hei=784&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhUklhUWFhMDMwOGhsbW5RTmM4NUVYU2VkbjFhNDZ6SFBHSGlBWGRVeHRWRE9iYUIwaXAyV1VRT2Q3ekRvalhwODlwSnBqTDVYSXVTWU9FenJlSGM5TVY4RTJySzNSTFFGVHN1cStxTE83Tlc"
+          }
+        ]
+      },
+      {
+        "key": "burgundy",
+        "label": "Burdeos",
+        "hex": "#6d273c",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/burgundy-1.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, burgundy color (dark red), Pro Fusion camera system at top, Apple logo in center, front exterior, all-screen design, Dynamic Island at top center",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-burgundy?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4T211eUU5SDU3aCs3Wm8yUmI0MUJFMldQRTNLWlE5QXA0M0NQeHR5eDVndHhNQnJMcnc4RkxJd3ZMc3hKZVVFWHVFRjFHWjc3eTVJTVZxaG1QUWJydVJJOVh0YXlQTm9PeVllbER1L3B4clRn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/burgundy-2.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, burgundy color (dark red), Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-burgundy_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4T211eUU5SDU3aCs3Wm8yUmI0MUJFMlljQW93cjhSRUxwbjYzdXVaZkgrRUFDb1F2RTNvUEVHRkpGaGtOSVFHak5VTkNnOGRLd3dVUU1EcjBHZEhrSXZpSVR2T050TjQxZjB1dTdCdG9QRXBn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/burgundy-3.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, Pro Fusion camera system, rectangular housing spanning the top, 3 lenses on left, flash, microphone, and LiDAR Scanner on right, burgundy color (dark red)",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-burgundy_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4T211eUU5SDU3aCs3Wm8yUmI0MUJFMmFYbmx5VXM5VmdFM01vbjAvK3dBNWdDb1F2RTNvUEVHRkpGaGtOSVFHak5VTkNnOGRLd3dVUU1EcjBHZEhrSXZNeWM5VE5ycVFvSExiL2UweGZPUTRB&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/burgundy-4.webp",
+            "alt": "iPhone 18 Pro Max · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-witb-burgundy-202609?wid=346&hei=784&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWmMxWFNNcTlCcm9Bak5IcUE1RVp5TDdabGZaY2pDTHc1RXRCM1N3cjJHMjI3djFFelRXako4aHBKR25KY0VZTXMxbkFXU2FISGdzOWtzcFBscGF0YTl2eVoxa1p4MGwxQVpZeU5wWWJRazk"
+          }
+        ]
+      },
+      {
+        "key": "glacier",
+        "label": "Glaciar",
+        "hex": "#a7c9df",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/glacier-1.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, glacier color (light blue), Pro Fusion camera system at top, Apple logo in center, front exterior, all-screen design, Dynamic Island at top center",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-glacier?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TTdzK3pjaGNPMUNVb2FyeGNwUlBWKzh3djZBZnNaM0piSnp2bkxicDY2ZldKTG1lVWJJT2RXQWE0Mm9rU1V0V0RhU2FZeStWeUxrbURoTTYzaDNQVEZRS1hKeFJQV3BkMjZxYjFjbjFsdkVR&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/glacier-2.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, glacier color (light blue), Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-glacier_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TTdzK3pjaGNPMUNVb2FyeGNwUlBWK3kycG5rSmFSYlFlU3JVaTlXMmliMGdUMngwVnJycmY0WkN2ZnNvOUpFNFVnM3k2cUdVeUVhOXByN2RpeVpDdnIrK2xFc3NLNmhobkRlZURZbGFRZzJB&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/glacier-3.webp",
+            "alt": "iPhone 18 Pro Max, back exterior, Pro Fusion camera system, rectangular housing spanning the top, 3 lenses on left, flash, microphone, and LiDAR Scanner on right, glacier color (light blue)",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-202609-6-9inch-glacier_AV2?wid=5120&hei=2880&fmt=webp&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCYTBPcjFUQzN2eEEzbTlaeVZmVmk4TTdzK3pjaGNPMUNVb2FyeGNwUlBWK2xsTU9CZXhzSzAwb1pTN09tQ3FEVXdUMngwVnJycmY0WkN2ZnNvOUpFNFVnM3k2cUdVeUVhOXByN2RpeVpDdnJzMWFWdTViNWxHSU9EZGxZb0dLS0pn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-18-pro-max/glacier-4.webp",
+            "alt": "iPhone 18 Pro Max · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-witb-glacier-202609?wid=346&hei=784&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWFVPK0pOWnhMYThqQ25HTEg1TDQxZ3Z0bElyM1VjOHZ0RURadDdpeG5adnRlaFMvY2lWVzJwbUZ4bytET0FaYVlRWFVabnZ2TGtneFdxR1k5QnV1NUhpWmVzbW4wUWJpMzB5ODFJRnU0L3E"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 12": {
+    "sourceUrl": "https://reebelo.com/collections/apple-iphone-12",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "red",
+        "label": "Rojo",
+        "hex": "#c83543",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-12/red-1.webp",
+            "alt": "iPhone 12 Rojo · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/RED-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/red-2.webp",
+            "alt": "iPhone 12 Rojo · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/RED-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/red-3.webp",
+            "alt": "iPhone 12 Rojo · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/RED-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/red-4.webp",
+            "alt": "iPhone 12 Rojo · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/RED-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#292a2c",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-12/black-1.webp",
+            "alt": "iPhone 12 Negro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/BLA-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/black-2.webp",
+            "alt": "iPhone 12 Negro · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/BLA-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/black-3.webp",
+            "alt": "iPhone 12 Negro · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/BLA-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/black-4.webp",
+            "alt": "iPhone 12 Negro · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/BLA-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "white",
+        "label": "Blanco",
+        "hex": "#f1f0ec",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-12/white-1.webp",
+            "alt": "iPhone 12 Blanco · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/WHI-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/white-2.webp",
+            "alt": "iPhone 12 Blanco · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/WHI-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/white-3.webp",
+            "alt": "iPhone 12 Blanco · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/WHI-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/white-4.webp",
+            "alt": "iPhone 12 Blanco · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/WHI-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "blue",
+        "label": "Azul",
+        "hex": "#7f9ab9",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-12/blue-1.webp",
+            "alt": "iPhone 12 Azul · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/BLU-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/blue-2.webp",
+            "alt": "iPhone 12 Azul · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/BLU-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/blue-3.webp",
+            "alt": "iPhone 12 Azul · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/BLU-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/blue-4.webp",
+            "alt": "iPhone 12 Azul · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/BLU-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "green",
+        "label": "Verde",
+        "hex": "#a8bdad",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-12/green-1.webp",
+            "alt": "iPhone 12 Verde · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/GRE-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/green-2.webp",
+            "alt": "iPhone 12 Verde · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/GRE-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/green-3.webp",
+            "alt": "iPhone 12 Verde · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/GRE-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/green-4.webp",
+            "alt": "iPhone 12 Verde · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/GRE-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "purple",
+        "label": "Púrpura",
+        "hex": "#c3b7cf",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-12/purple-1.webp",
+            "alt": "iPhone 12 Púrpura · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/PUR-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/purple-2.webp",
+            "alt": "iPhone 12 Púrpura · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/PUR-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/purple-3.webp",
+            "alt": "iPhone 12 Púrpura · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/PUR-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-12/purple-4.webp",
+            "alt": "iPhone 12 Púrpura · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE12/PUR-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 13": {
+    "sourceUrl": "https://reebelo.com/collections/apple-iphone-13",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "blue",
+        "label": "Azul",
+        "hex": "#7f9ab9",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-13/blue-1.webp",
+            "alt": "iPhone 13 Azul · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/BLU-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/blue-2.webp",
+            "alt": "iPhone 13 Azul · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/BLU-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/blue-3.webp",
+            "alt": "iPhone 13 Azul · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/BLU-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/blue-4.webp",
+            "alt": "iPhone 13 Azul · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/BLU-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "red",
+        "label": "Rojo",
+        "hex": "#c83543",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-13/red-1.webp",
+            "alt": "iPhone 13 Rojo · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/RED-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/red-2.webp",
+            "alt": "iPhone 13 Rojo · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/RED-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/red-3.webp",
+            "alt": "iPhone 13 Rojo · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/RED-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/red-4.webp",
+            "alt": "iPhone 13 Rojo · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/RED-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "starlight",
+        "label": "Blanco estrella",
+        "hex": "#eee9df",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-13/starlight-1.webp",
+            "alt": "iPhone 13 Blanco estrella · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/STA-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/starlight-2.webp",
+            "alt": "iPhone 13 Blanco estrella · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/STA-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/starlight-3.webp",
+            "alt": "iPhone 13 Blanco estrella · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/STA-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/starlight-4.webp",
+            "alt": "iPhone 13 Blanco estrella · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/STA-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "pink",
+        "label": "Rosa",
+        "hex": "#e7cbd1",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-13/pink-1.webp",
+            "alt": "iPhone 13 Rosa · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/PIN-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/pink-2.webp",
+            "alt": "iPhone 13 Rosa · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/PIN-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/pink-3.webp",
+            "alt": "iPhone 13 Rosa · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/PIN-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/pink-4.webp",
+            "alt": "iPhone 13 Rosa · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/PIN-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "midnight",
+        "label": "Medianoche",
+        "hex": "#252a33",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-13/midnight-1.webp",
+            "alt": "iPhone 13 Medianoche · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/MID-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/midnight-2.webp",
+            "alt": "iPhone 13 Medianoche · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/MID-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/midnight-3.webp",
+            "alt": "iPhone 13 Medianoche · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/MID-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/midnight-4.webp",
+            "alt": "iPhone 13 Medianoche · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/MID-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "green",
+        "label": "Verde",
+        "hex": "#a8bdad",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-13/green-1.webp",
+            "alt": "iPhone 13 Verde · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/GRE-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/green-2.webp",
+            "alt": "iPhone 13 Verde · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/GRE-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/green-3.webp",
+            "alt": "iPhone 13 Verde · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/GRE-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-13/green-4.webp",
+            "alt": "iPhone 13 Verde · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE13/GRE-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 14 Plus": {
+    "sourceUrl": "https://reebelo.com/collections/apple-iphone-14-plus",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "blue",
+        "label": "Azul",
+        "hex": "#7f9ab9",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-plus/blue-1.webp",
+            "alt": "iPhone 14 Plus Azul · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/BLU-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/blue-2.webp",
+            "alt": "iPhone 14 Plus Azul · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/BLU-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/blue-3.webp",
+            "alt": "iPhone 14 Plus Azul · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/BLU-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/blue-4.webp",
+            "alt": "iPhone 14 Plus Azul · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/BLU-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "red",
+        "label": "Rojo",
+        "hex": "#c83543",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-plus/red-1.webp",
+            "alt": "iPhone 14 Plus Rojo · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/RED-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/red-2.webp",
+            "alt": "iPhone 14 Plus Rojo · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/RED-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/red-3.webp",
+            "alt": "iPhone 14 Plus Rojo · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/RED-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/red-4.webp",
+            "alt": "iPhone 14 Plus Rojo · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/RED-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "starlight",
+        "label": "Blanco estrella",
+        "hex": "#eee9df",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-plus/starlight-1.webp",
+            "alt": "iPhone 14 Plus Blanco estrella · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/STA-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/starlight-2.webp",
+            "alt": "iPhone 14 Plus Blanco estrella · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/STA-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/starlight-3.webp",
+            "alt": "iPhone 14 Plus Blanco estrella · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/STA-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/starlight-4.webp",
+            "alt": "iPhone 14 Plus Blanco estrella · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/STA-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "yel",
+        "label": "Amarillo",
+        "hex": "#f9e6a1",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-plus/yel-1.webp",
+            "alt": "iPhone 14 Plus Amarillo · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/YEL-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/yel-2.webp",
+            "alt": "iPhone 14 Plus Amarillo · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/YEL-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/yel-3.webp",
+            "alt": "iPhone 14 Plus Amarillo · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/YEL-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/yel-4.webp",
+            "alt": "iPhone 14 Plus Amarillo · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/YEL-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "midnight",
+        "label": "Medianoche",
+        "hex": "#252a33",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-plus/midnight-1.webp",
+            "alt": "iPhone 14 Plus Medianoche · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/MID-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/midnight-2.webp",
+            "alt": "iPhone 14 Plus Medianoche · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/MID-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/midnight-3.webp",
+            "alt": "iPhone 14 Plus Medianoche · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/MID-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/midnight-4.webp",
+            "alt": "iPhone 14 Plus Medianoche · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/MID-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "purple",
+        "label": "Púrpura",
+        "hex": "#c3b7cf",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-plus/purple-1.webp",
+            "alt": "iPhone 14 Plus Púrpura · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/PUR-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/purple-2.webp",
+            "alt": "iPhone 14 Plus Púrpura · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/PUR-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/purple-3.webp",
+            "alt": "iPhone 14 Plus Púrpura · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/PUR-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-plus/purple-4.webp",
+            "alt": "iPhone 14 Plus Púrpura · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PLUS/PUR-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 14 Pro": {
+    "sourceUrl": "https://reebelo.es/collections/apple-iphone-14-pro",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "dpr",
+        "label": "Morado oscuro",
+        "hex": "#63566c",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-pro/dpr-1.webp",
+            "alt": "iPhone 14 Pro Morado oscuro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/DPR-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/dpr-2.webp",
+            "alt": "iPhone 14 Pro Morado oscuro · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/DPR-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/dpr-3.webp",
+            "alt": "iPhone 14 Pro Morado oscuro · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/DPR-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/dpr-4.webp",
+            "alt": "iPhone 14 Pro Morado oscuro · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/DPR-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "gold",
+        "label": "Oro",
+        "hex": "#dfcfb5",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-pro/gold-1.webp",
+            "alt": "iPhone 14 Pro Oro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/GOL-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/gold-2.webp",
+            "alt": "iPhone 14 Pro Oro · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/GOL-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/gold-3.webp",
+            "alt": "iPhone 14 Pro Oro · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/GOL-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/gold-4.webp",
+            "alt": "iPhone 14 Pro Oro · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/GOL-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "silver",
+        "label": "Plata",
+        "hex": "#e0e1df",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-pro/silver-1.webp",
+            "alt": "iPhone 14 Pro Plata · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/SIL-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/silver-2.webp",
+            "alt": "iPhone 14 Pro Plata · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/SIL-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/silver-3.webp",
+            "alt": "iPhone 14 Pro Plata · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/SIL-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/silver-4.webp",
+            "alt": "iPhone 14 Pro Plata · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/SIL-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "sbk",
+        "label": "Negro espacial",
+        "hex": "#363639",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-pro/sbk-1.webp",
+            "alt": "iPhone 14 Pro Negro espacial · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/SBK-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/sbk-2.webp",
+            "alt": "iPhone 14 Pro Negro espacial · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/SBK-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/sbk-3.webp",
+            "alt": "iPhone 14 Pro Negro espacial · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/SBK-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro/sbk-4.webp",
+            "alt": "iPhone 14 Pro Negro espacial · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PRO/SBK-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 14 Pro Max": {
+    "sourceUrl": "https://reebelo.es/collections/apple-iphone-14-pro-max",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "spb",
+        "label": "Negro espacial",
+        "hex": "#363639",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/spb-1.webp",
+            "alt": "iPhone 14 Pro Max Negro espacial · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/SPB-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/spb-2.webp",
+            "alt": "iPhone 14 Pro Max Negro espacial · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/SPB-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/spb-3.webp",
+            "alt": "iPhone 14 Pro Max Negro espacial · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/SPB-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/spb-4.webp",
+            "alt": "iPhone 14 Pro Max Negro espacial · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/SPB-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "gold",
+        "label": "Oro",
+        "hex": "#dfcfb5",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/gold-1.webp",
+            "alt": "iPhone 14 Pro Max Oro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/GOL-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/gold-2.webp",
+            "alt": "iPhone 14 Pro Max Oro · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/GOL-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/gold-3.webp",
+            "alt": "iPhone 14 Pro Max Oro · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/GOL-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/gold-4.webp",
+            "alt": "iPhone 14 Pro Max Oro · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/GOL-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "dpr",
+        "label": "Morado oscuro",
+        "hex": "#63566c",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/dpr-1.webp",
+            "alt": "iPhone 14 Pro Max Morado oscuro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/DPR-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/dpr-2.webp",
+            "alt": "iPhone 14 Pro Max Morado oscuro · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/DPR-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/dpr-3.webp",
+            "alt": "iPhone 14 Pro Max Morado oscuro · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/DPR-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/dpr-4.webp",
+            "alt": "iPhone 14 Pro Max Morado oscuro · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/DPR-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "silver",
+        "label": "Plata",
+        "hex": "#e0e1df",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/silver-1.webp",
+            "alt": "iPhone 14 Pro Max Plata · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/SIL-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/silver-2.webp",
+            "alt": "iPhone 14 Pro Max Plata · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/SIL-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/silver-3.webp",
+            "alt": "iPhone 14 Pro Max Plata · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/SIL-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-14-pro-max/silver-4.webp",
+            "alt": "iPhone 14 Pro Max Plata · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE14PROMAX/SIL-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 17 Pro Max": {
+    "sourceUrl": "https://www.apple.com/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/",
+    "sourceName": "Apple · Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "cosmicorange",
+        "label": "Naranja cósmico",
+        "hex": "#dd8b5e",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/cosmicorange-1.webp",
+            "alt": "iPhone 17 Pro Max, back exterior, cosmic orange color, Pro Fusion camera system at top, Apple logo in center, front exterior all screen design, Dynamic Island",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RnVrUzFnTVVSUnNLVnZUWUMxNTBGaGhsQTdPYWVGbmdIenAvNE9qYmZVYVFDb1F2RTNvUEVHRkpGaGtOSVFHak5NTEhXRE11VU1QNVo2eDJsWlpuWHQyaWthYXpzcEpXMExJLy9GTE9wWkNn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/cosmicorange-2.webp",
+            "alt": "iPhone 17 Pro Max, back exterior, cosmic orange color, Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, Side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RnVrUzFnTVVSUnNLVnZUWUMxNTBGaDI3b045dUFHd0tTS1VURkFwVjdWRTZyeklvaXVkOCtBWFpMeWRrK0lya3dQSjVrSzRsUkk3OGQ3bDdIU2QzMFc4M2tGeG1RaXlhWm9hMS9xK2Vzb3Rn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/cosmicorange-3.webp",
+            "alt": "iPhone 17 Pro Max, back exterior, Pro Fusion camera system, rectangular housing spanning across the top, 3 lenses on left, flash, microphone and LIDAR on right, cosmic orange color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV3?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RnVrUzFnTVVSUnNLVnZUWUMxNTBGaEdVOXBJM0tlanRWNXp5VTBpa2p2TUtyeklvaXVkOCtBWFpMeWRrK0lya3dQSjVrSzRsUkk3OGQ3bDdIU2QzMFcwVXBHN1VwVDFQMXVHeENDaE4zSmdn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/cosmicorange-4.webp",
+            "alt": "iPhone 17 Pro Max Naranja cósmico · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE17PROMAX/COS-image-2.jpg"
+          }
+        ]
+      },
+      {
+        "key": "deepblue",
+        "label": "Azul profundo",
+        "hex": "#313e56",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/deepblue-1.webp",
+            "alt": "iPhone 17 Pro Max, back exterior, deep blue color, Pro Fusion camera system at top, Apple logo in center, front exterior all screen design, Dynamic Island",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-deepblue?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RWhhOHJGRUNHdlh6a3VuZVVqdnNrNXVHdDcxbVFRSnhaQ0pnV1pOaG5KaGhNQnJMcnc4RkxJd3ZMc3hKZVVFWHREelVULzVXd2xCbVltNVMyUXhsYlBpMEowc2xaa1ByZlpMdyt3ZFlhVkhn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/deepblue-2.webp",
+            "alt": "iPhone 17 Pro Max, back exterior, deep blue color, Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, Side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RWhhOHJGRUNHdlh6a3VuZVVqdnNrNWg5UFBFaEh4RWhiVUdVWWFjbERrL3dDb1F2RTNvUEVHRkpGaGtOSVFHak5NTEhXRE11VU1QNVo2eDJsWlpuWHRwYlVVc0liQnJ0TTMwbEt5SExvaWxn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/deepblue-3.webp",
+            "alt": "iPhone 17 Pro Max, back exterior, Pro Fusion camera system, rectangular housing spanning across the top, 3 lenses on left, flash, microphone and LIDAR on right, deep blue color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV3?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RWhhOHJGRUNHdlh6a3VuZVVqdnNrNVJ2dnZ6eHdCQ0dUd3RuYU1ZcENUSHdDb1F2RTNvUEVHRkpGaGtOSVFHak5NTEhXRE11VU1QNVo2eDJsWlpuWHQ1V3E2amljcVUyYTdYMlk2dDNTTllR&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/deepblue-4.webp",
+            "alt": "iPhone 17 Pro Max Azul profundo · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE17PROMAX/DEE-image-2.jpg"
+          }
+        ]
+      },
+      {
+        "key": "silver",
+        "label": "Plata",
+        "hex": "#d6d7d7",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/silver-1.webp",
+            "alt": "iPhone 17 Pro Max, back exterior, silver color, Pro Fusion camera system at top, Apple logo in center, front exterior all screen design, Dynamic Island",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-silver?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RVRqUkJqUGFyN1pGMnlaV3JkWU9jdjF1TmpsTkNoRVRMR1N6UXlVZFBaU0NYR1ZZZnEyMVlVQUliTThGMjNyaFFxd1ZHd3R2RmlpWk50MW5LU2N1cWNxdlBsK2ZicnRLY2oza08vTDBZeXZ3&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/silver-2.webp",
+            "alt": "iPhone 17 Pro Max, back exterior, silver color, Pro Fusion camera system at top, Apple logo in center, side exterior, matching color, thin construction, Side button, Camera Control button, raised Pro Fusion camera system",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-silver_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RVRqUkJqUGFyN1pGMnlaV3JkWU9jdjl5ZHpib0Q1bndVeTlmTjFVN1kzQmZQWFVaUmg1QWFsTVJFWjd1RElva2hnM0hWZ2pCcFpSZTVSV1k3SjhURDRieE4vaElzWmhOTnJOMitaek43ZXpn&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/silver-3.webp",
+            "alt": "iPhone 17 Pro Max, back exterior, Pro Fusion camera system, rectangular housing spanning across the top, 3 lenses on left, flash, microphone and LIDAR on right, silver color",
+            "view": "Detalle de cámara",
+            "sourceUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-silver_AV3?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RVRqUkJqUGFyN1pGMnlaV3JkWU9jdmdrZ1hLRVJweE1Ld0hrelZYQUxRVWZQWFVaUmg1QWFsTVJFWjd1RElva2hnM0hWZ2pCcFpSZTVSV1k3SjhURDRMaElvNnRvQmpNZTUweTNnQlFCT1B3&traceId=1"
+          },
+          {
+            "src": "/images/products/apple-iphone-17-pro-max/silver-4.webp",
+            "alt": "iPhone 17 Pro Max Plata · vista trasera",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-APPLEIPHONE17PROMAX/SIL-image-2.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|A56 5G": {
+    "sourceUrl": "https://www.samsung.com/es/smartphones/galaxy-a/galaxy-a56-5g-awesome-graphite-256gb-sm-a566bzkceub/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "graphite",
+        "label": "Grafito",
+        "hex": "#3a3d3d",
+        "images": [
+          {
+            "src": "/images/products/samsung-a56-5g/graphite-1.webp",
+            "alt": "front Awesome Graphite",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a566bzkceub/gallery/es-galaxy-a56-5g-sm-a566-sm-a566bzkceub-545223147?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a56-5g/graphite-2.webp",
+            "alt": "back Awesome Graphite",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a566bzkceub/gallery/es-galaxy-a56-5g-sm-a566-sm-a566bzkceub-545223133?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a56-5g/graphite-3.webp",
+            "alt": "back-l30 Awesome Graphite",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a566bzkceub/gallery/es-galaxy-a56-5g-sm-a566-sm-a566bzkceub-545223134?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-a56-5g/graphite-4.webp",
+            "alt": "l-side Awesome Graphite",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-a566bzkceub/gallery/es-galaxy-a56-5g-sm-a566-sm-a566bzkceub-545223136?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|S21FE": {
+    "sourceUrl": "https://www.samsung.com/es/smartphones/galaxy-s/galaxy-s21-fe-5g-graphite-256gb-sm-g990bzaweub/buy/",
+    "sourceName": "Samsung",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "graphite",
+        "label": "Grafito",
+        "hex": "#3d4246",
+        "images": [
+          {
+            "src": "/images/products/samsung-s21fe/graphite-1.webp",
+            "alt": "front Graphite",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-g990bzaweub/gallery/es-galaxy-s21-fe-g990-408720-sm-g990bzaweub-533298910?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-s21fe/graphite-2.webp",
+            "alt": "back Graphite",
+            "view": "Vista trasera",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-g990bzaweub/gallery/es-galaxy-s21-fe-g990-408720-sm-g990bzaweub-533298896?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-s21fe/graphite-3.webp",
+            "alt": "backl30 Graphite",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-g990bzaweub/gallery/es-galaxy-s21-fe-g990-408720-sm-g990bzaweub-533298897?$1164_776_PNG$"
+          },
+          {
+            "src": "/images/products/samsung-s21fe/graphite-4.webp",
+            "alt": "lside Graphite",
+            "view": "Vista lateral",
+            "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/es/sm-g990bzaweub/gallery/es-galaxy-s21-fe-g990-408720-sm-g990bzaweub-533298899?$1164_776_PNG$"
+          }
+        ]
+      }
+    ]
+  },
+  "Apple|iPhone 15 Pro Max": {
+    "sourceUrl": "https://reebelo.es/collections/apple-iphone-15-pro-max",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "white",
+        "label": "Titanio blanco",
+        "hex": "#f1f0ec",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/white-1.webp",
+            "alt": "iPhone 15 Pro Max Blanco · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/WHI-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/white-2.webp",
+            "alt": "iPhone 15 Pro Max Blanco · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/WHI-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/white-3.webp",
+            "alt": "iPhone 15 Pro Max Blanco · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/WHI-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/white-4.webp",
+            "alt": "iPhone 15 Pro Max Blanco · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/WHI-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "natural-titanium",
+        "label": "Titanio natural",
+        "hex": "#b2ada2",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/natural-titanium-1.webp",
+            "alt": "iPhone 15 Pro Max Titanio natural · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/NAT-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/natural-titanium-2.webp",
+            "alt": "iPhone 15 Pro Max Titanio natural · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/NAT-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/natural-titanium-3.webp",
+            "alt": "iPhone 15 Pro Max Titanio natural · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/NAT-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/natural-titanium-4.webp",
+            "alt": "iPhone 15 Pro Max Titanio natural · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/NAT-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "black",
+        "label": "Titanio negro",
+        "hex": "#292a2c",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/black-1.webp",
+            "alt": "iPhone 15 Pro Max Negro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/BLA-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/black-2.webp",
+            "alt": "iPhone 15 Pro Max Negro · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/BLA-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/black-3.webp",
+            "alt": "iPhone 15 Pro Max Negro · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/BLA-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/black-4.webp",
+            "alt": "iPhone 15 Pro Max Negro · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/BLA-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "blue",
+        "label": "Titanio azul",
+        "hex": "#7f9ab9",
+        "images": [
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/blue-1.webp",
+            "alt": "iPhone 15 Pro Max Azul · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/BLU-image-0.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/blue-2.webp",
+            "alt": "iPhone 15 Pro Max Azul · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/BLU-image-1.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/blue-3.webp",
+            "alt": "iPhone 15 Pro Max Azul · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/BLU-image-2.jpg"
+          },
+          {
+            "src": "/images/products/apple-iphone-15-pro-max/blue-4.webp",
+            "alt": "iPhone 15 Pro Max Azul · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-IPHONE15PROMAX/BLU-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|S22": {
+    "sourceUrl": "https://reebelo.es/collections/galaxy-s22-5g",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#292a2c",
+        "images": [
+          {
+            "src": "/images/products/samsung-s22/black-1.webp",
+            "alt": "S22 Negro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS225G/BLA-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s22/black-2.webp",
+            "alt": "S22 Negro · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS225G/BLA-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s22/black-3.webp",
+            "alt": "S22 Negro · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS225G/BLA-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s22/black-4.webp",
+            "alt": "S22 Negro · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS225G/BLA-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "white",
+        "label": "Blanco",
+        "hex": "#f1f0ec",
+        "images": [
+          {
+            "src": "/images/products/samsung-s22/white-1.webp",
+            "alt": "S22 Blanco · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS225G/WHI-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s22/white-2.webp",
+            "alt": "S22 Blanco · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS225G/WHI-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s22/white-3.webp",
+            "alt": "S22 Blanco · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS225G/WHI-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s22/white-4.webp",
+            "alt": "S22 Blanco · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS225G/WHI-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|S26": {
+    "sourceUrl": "https://reebelo.es/collections/samsung-galaxy-s26",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#292a2c",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26/black-1.webp",
+            "alt": "S26 Negro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/BLA-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/black-2.webp",
+            "alt": "S26 Negro · vista 2",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/BLA-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/black-3.webp",
+            "alt": "S26 Negro · vista 3",
+            "view": "Perspectiva trasera izquierda",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/BLA-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/black-4.webp",
+            "alt": "S26 Negro · vista 4",
+            "view": "Perspectiva trasera derecha",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/BLA-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "sky-blue",
+        "label": "Azul cielo",
+        "hex": "#b2c4d4",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26/sky-blue-1.webp",
+            "alt": "S26 Azul cielo · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/SKY-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/sky-blue-2.webp",
+            "alt": "S26 Azul cielo · vista 2",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/SKY-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/sky-blue-3.webp",
+            "alt": "S26 Azul cielo · vista 3",
+            "view": "Perspectiva trasera izquierda",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/SKY-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/sky-blue-4.webp",
+            "alt": "S26 Azul cielo · vista 4",
+            "view": "Perspectiva trasera derecha",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/SKY-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "pink-gold",
+        "label": "Oro rosa",
+        "hex": "#d4bfb9",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26/pink-gold-1.webp",
+            "alt": "S26 Oro rosa · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/PIN-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/pink-gold-2.webp",
+            "alt": "S26 Oro rosa · vista 2",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/PIN-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/pink-gold-3.webp",
+            "alt": "S26 Oro rosa · vista 3",
+            "view": "Perspectiva trasera izquierda",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/PIN-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/pink-gold-4.webp",
+            "alt": "S26 Oro rosa · vista 4",
+            "view": "Perspectiva trasera derecha",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/PIN-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "cobalt-violet",
+        "label": "Violeta cobalto",
+        "hex": "#706285",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26/cobalt-violet-1.webp",
+            "alt": "S26 Violeta cobalto · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/CBV-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/cobalt-violet-2.webp",
+            "alt": "S26 Violeta cobalto · vista 2",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/CBV-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/cobalt-violet-3.webp",
+            "alt": "S26 Violeta cobalto · vista 3",
+            "view": "Perspectiva trasera izquierda",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/CBV-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/cobalt-violet-4.webp",
+            "alt": "S26 Violeta cobalto · vista 4",
+            "view": "Perspectiva trasera derecha",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/CBV-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "silver",
+        "label": "Plata",
+        "hex": "#c6c7cb",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26/silver-1.webp",
+            "alt": "S26 Plata · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/SIL-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/silver-2.webp",
+            "alt": "S26 Plata · vista 2",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/SIL-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/silver-3.webp",
+            "alt": "S26 Plata · vista 3",
+            "view": "Perspectiva trasera izquierda",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/SIL-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/silver-4.webp",
+            "alt": "S26 Plata · vista 4",
+            "view": "Perspectiva trasera derecha",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/SIL-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "white",
+        "label": "Blanco",
+        "hex": "#f1f0ec",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26/white-1.webp",
+            "alt": "S26 Blanco · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/WHI-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/white-2.webp",
+            "alt": "S26 Blanco · vista 2",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/WHI-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/white-3.webp",
+            "alt": "S26 Blanco · vista 3",
+            "view": "Perspectiva trasera izquierda",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/WHI-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26/white-4.webp",
+            "alt": "S26 Blanco · vista 4",
+            "view": "Perspectiva trasera derecha",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26/WHI-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|S26 Ultra 5G": {
+    "sourceUrl": "https://reebelo.es/collections/samsung-galaxy-s26-ultra",
+    "sourceName": "Reebelo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "black",
+        "label": "Negro",
+        "hex": "#292a2c",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/black-1.webp",
+            "alt": "S26 Ultra 5G Negro · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/BLA-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/black-2.webp",
+            "alt": "S26 Ultra 5G Negro · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/BLA-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/black-3.webp",
+            "alt": "S26 Ultra 5G Negro · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/BLA-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/black-4.webp",
+            "alt": "S26 Ultra 5G Negro · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/BLA-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "sky-blue",
+        "label": "Azul cielo",
+        "hex": "#b2c4d4",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/sky-blue-1.webp",
+            "alt": "S26 Ultra 5G Azul cielo · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/SKY-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/sky-blue-2.webp",
+            "alt": "S26 Ultra 5G Azul cielo · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/SKY-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/sky-blue-3.webp",
+            "alt": "S26 Ultra 5G Azul cielo · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/SKY-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/sky-blue-4.webp",
+            "alt": "S26 Ultra 5G Azul cielo · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/SKY-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "pink-gold",
+        "label": "Oro rosa",
+        "hex": "#d4bfb9",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/pink-gold-1.webp",
+            "alt": "S26 Ultra 5G Oro rosa · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/PIN-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/pink-gold-2.webp",
+            "alt": "S26 Ultra 5G Oro rosa · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/PIN-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/pink-gold-3.webp",
+            "alt": "S26 Ultra 5G Oro rosa · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/PIN-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/pink-gold-4.webp",
+            "alt": "S26 Ultra 5G Oro rosa · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/PIN-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "cobalt-violet",
+        "label": "Violeta cobalto",
+        "hex": "#706285",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/cobalt-violet-1.webp",
+            "alt": "S26 Ultra 5G Violeta cobalto · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/CBV-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/cobalt-violet-2.webp",
+            "alt": "S26 Ultra 5G Violeta cobalto · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/CBV-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/cobalt-violet-3.webp",
+            "alt": "S26 Ultra 5G Violeta cobalto · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/CBV-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/cobalt-violet-4.webp",
+            "alt": "S26 Ultra 5G Violeta cobalto · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/CBV-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "silver",
+        "label": "Plata",
+        "hex": "#c6c7cb",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/silver-1.webp",
+            "alt": "S26 Ultra 5G Plata · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/SIL-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/silver-2.webp",
+            "alt": "S26 Ultra 5G Plata · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/SIL-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/silver-3.webp",
+            "alt": "S26 Ultra 5G Plata · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/SIL-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/silver-4.webp",
+            "alt": "S26 Ultra 5G Plata · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/SIL-image-3.jpg"
+          }
+        ]
+      },
+      {
+        "key": "white",
+        "label": "Blanco",
+        "hex": "#f1f0ec",
+        "images": [
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/white-1.webp",
+            "alt": "S26 Ultra 5G Blanco · vista 1",
+            "view": "Vista frontal y trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/WHI-image-0.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/white-2.webp",
+            "alt": "S26 Ultra 5G Blanco · vista 2",
+            "view": "Vista frontal",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/WHI-image-1.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/white-3.webp",
+            "alt": "S26 Ultra 5G Blanco · vista 3",
+            "view": "Vista trasera",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/WHI-image-2.jpg"
+          },
+          {
+            "src": "/images/products/samsung-s26-ultra-5g/white-4.webp",
+            "alt": "S26 Ultra 5G Blanco · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://cdn.reebelo.com/pim/products/P-SAMSUNGGALAXYS26ULTRA/WHI-image-3.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "Samsung|S21 Plus": {
+    "sourceUrl": "https://www.gomibo.es/en/samsung-galaxy-s21-plus-5g",
+    "sourceName": "Gomibo",
+    "retrievedAt": "2026-10-25",
+    "status": "complete",
+    "colors": [
+      {
+        "key": "phantom-black",
+        "label": "Negro Phantom",
+        "hex": "#292c30",
+        "images": [
+          {
+            "src": "/images/products/samsung-s21-plus/black-1.webp",
+            "alt": "Samsung Galaxy S21+ 5G G996 Negro · vista 1",
+            "view": "Vista frontal",
+            "sourceUrl": "https://bsimg.nl/images/samsung-galaxy-s21-128gb-zwart_1.jpg/PRUnBqjaYa9tyJvANWaHiAQS3b8%3D/fit-in/0x0/filters%3Aupscale%28%29"
+          },
+          {
+            "src": "/images/products/samsung-s21-plus/black-2.webp",
+            "alt": "Samsung Galaxy S21+ 5G G996 Negro · vista 2",
+            "view": "Vista trasera",
+            "sourceUrl": "https://bsimg.nl/images/samsung-galaxy-s21-128gb-zwart_2.jpg/n0uKDpQhftFhEiZid1Did2KLIB0%3D/fit-in/0x0/filters%3Aupscale%28%29"
+          },
+          {
+            "src": "/images/products/samsung-s21-plus/black-3.webp",
+            "alt": "Samsung Galaxy S21+ 5G G996 Negro · vista 3",
+            "view": "Vista lateral",
+            "sourceUrl": "https://bsimg.nl/images/samsung-galaxy-s21-128gb-zwart_3.jpg/kI73CbgwuZra-o7-KeAJDkNI5YQ%3D/fit-in/0x0/filters%3Aupscale%28%29"
+          },
+          {
+            "src": "/images/products/samsung-s21-plus/black-4.webp",
+            "alt": "Samsung Galaxy S21+ 5G G996 Negro · vista 4",
+            "view": "Vista en perspectiva",
+            "sourceUrl": "https://bsimg.nl/images/samsung-galaxy-s21-128gb-zwart_4.jpg/b5EUbWkQJ6yk0WX7kzJNiDFuebw%3D/fit-in/0x0/filters%3Aupscale%28%29"
+          }
+        ]
+      }
+    ]
+  }
+}
